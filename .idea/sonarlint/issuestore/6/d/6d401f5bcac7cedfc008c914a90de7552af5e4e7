@@ -1,0 +1,19 @@
+
+f	java:S117N"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìø—Ù
+/
+java:S1700$"Rename field "doctorList"(÷ŒÎÍ
+L
+java:S1128"1Remove this unused import 'android.widget.Toast'.(©›ïÍúÿÿÿÿ
+S
+java:S1128"8Remove this unused import 'android.widget.ArrayAdapter'.( €ŠÑÿÿÿÿÿ
+T
+java:S1128"9Remove this unused import 'org.litepal.crud.DataSupport'.(Äƒîûÿÿÿÿ
+[
+java:S1124%"EReorder the modifiers to comply with the Java Language Specification.(­£­¶
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Úšï
+f
+java:S1301("KReplace this "switch" statement by "if" statements to increase readability.(ıŞ³‹ùÿÿÿÿ
+E
+java:S1128"/Remove this unused import 'java.util.Iterator'.(¥ÍòÕ
+j
+java:S11927"HDefine a constant instead of duplicating this literal "hosName" 5 times.(ôšÙ”úÿÿÿÿ8ÖÁØ¹Ÿ.

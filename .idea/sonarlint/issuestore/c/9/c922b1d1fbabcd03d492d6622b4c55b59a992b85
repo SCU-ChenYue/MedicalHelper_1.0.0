@@ -1,0 +1,19 @@
+
+n
+java:S2095"QUse try-with-resources or close this "BufferedInputStream" in a "finally" clause.(¼Öı¶8°©ÈÁ .
+m	java:S117a"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ç©÷˜8°©ÈÁ .
+m	java:S1170"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÅÍî8°©ÈÁ .
+Z	java:S106>"9Replace this use of System.out or System.err by a logger.(³§˜Äşÿÿÿÿ8°©ÈÁ .
+Z	java:S106H"9Replace this use of System.out or System.err by a logger.(åö¡½úÿÿÿÿ8°©ÈÁ .
+Z	java:S106m"9Replace this use of System.out or System.err by a logger.(ºÛ·üÿÿÿÿ8°©ÈÁ .
+m	java:S1171"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²…¼„8°©ÈÁ .
+\
+java:S1854…"9Remove this useless assignment to local variable "bytes".(Ãã³˜ùÿÿÿÿ8°©ÈÁ .
+g	java:S112q"FDefine and throw a dedicated exception instead of using a generic one.(Ä¾ »ıÿÿÿÿ8°©ÈÁ .
+Z	java:S106o"9Replace this use of System.out or System.err by a logger.(‹·Éªüÿÿÿÿ8°©ÈÁ .
+b
+java:S2147x"ECombine this catch with the one at line 118, which has the same body.(”ı¾8°©ÈÁ .
+X	java:S125j"<This block of commented-out lines of code should be removed.(øòœ¥8°©ÈÁ .
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(šßŞ•
+c
+java:S1075#"ARefactor your code to get this URI from a customizable parameter.(ï–Ï¾ÿÿÿÿÿ8°©ÈÁ .

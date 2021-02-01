@@ -1,0 +1,23 @@
+
+z
+java:S1450"]Remove the "TextDoctorName" field and declare it as a local variable in the relevant methods.(ÚÇì¸8²èŒºŸ.
+z
+java:S1450"XRemove the "TextTitle" field and declare it as a local variable in the relevant methods.(Üïü¢úÿÿÿÿ8²èŒºŸ.
+
+java:S1450"]Remove the "TextDepartment" field and declare it as a local variable in the relevant methods.(Òø€³ûÿÿÿÿ8²èŒºŸ.
+q	java:S116"WRename this field "TextHospital" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡¬õÆşÿÿÿÿ
+s
+java:S1450"VRemove the "getBack" field and declare it as a local variable in the relevant methods.(Ü¤ˆ8²èŒºŸ.
+}
+java:S1450"[Remove the "TextHospital" field and declare it as a local variable in the relevant methods.(‡¬õÆşÿÿÿÿ8²èŒºŸ.
+t
+java:S1450"WRemove the "docImage" field and declare it as a local variable in the relevant methods.(±™ñ£8–á”ºŸ.
+u	java:S116"[Rename this field "TextIntroduction" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(É‘ºÙøÿÿÿÿ
+7
+java:S1700"Rename field "doctorMessage"(Éçª¨øÿÿÿÿ
+n	java:S116"YRename this field "TextDoctorName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÚÇì¸
+
+java:S1450"_Remove the "TextIntroduction" field and declare it as a local variable in the relevant methods.(É‘ºÙøÿÿÿÿ8²èŒºŸ.
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Úšï
+s	java:S116"YRename this field "TextDepartment" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Òø€³ûÿÿÿÿ
+n	java:S116"TRename this field "TextTitle" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Üïü¢úÿÿÿÿ

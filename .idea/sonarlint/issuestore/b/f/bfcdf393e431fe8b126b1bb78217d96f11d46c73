@@ -1,0 +1,9 @@
+
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Úšï
+7
+java:S1700"Rename field "doctorMessage"(¬ù¦™ÿÿÿÿÿ
+n	java:S116"YRename this field "TextDoctorName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÒîÇØ
+n	java:S116"YRename this field "TextDepartment" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÈÊèÚ
+n	java:S116"TRename this field "TextTitle" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èÓ²Ðúÿÿÿÿ
+q	java:S116"WRename this field "TextHospital" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ûÿà³þÿÿÿÿ
+u	java:S116"[Rename this field "TextIntroduction" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õ¼›µûÿÿÿÿ

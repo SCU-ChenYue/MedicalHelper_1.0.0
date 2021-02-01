@@ -1,0 +1,19 @@
+
+V	java:S125K"<This block of commented-out lines of code should be removed.(Š¬ËØüÿÿÿÿ
+B
+java:S1068"'Remove this unused "TAG" private field.(áæúÿÿÿÿ
+n
+java:S3008"SRename this field "INSTANCE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àİ¾ôûÿÿÿÿ
+Q	java:S125Q"<This block of commented-out lines of code should be removed.(Ê¾Àä
+r
+java:S3077"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(àİ¾ôûÿÿÿÿ
+^
+java:S4042U"IUse "java.nio.Files#delete" here for better messages on error conditions.(±Ü‹
+Q	java:S125>"<This block of commented-out lines of code should be removed.(˜¨Ğè
+Q	java:S125D"<This block of commented-out lines of code should be removed.(ëî÷
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ª¨º
+`
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(àİ¾ôûÿÿÿÿ
+V	java:S125W"<This block of commented-out lines of code should be removed.(Š¬ËØüÿÿÿÿ
+O	java:S899U";Do something with the "boolean" value returned by "delete".(±Ü‹
+Q	java:S125/"<This block of commented-out lines of code should be removed.(ëî÷

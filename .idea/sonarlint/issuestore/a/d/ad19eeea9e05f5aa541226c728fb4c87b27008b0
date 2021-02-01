@@ -1,0 +1,6 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(×‚«
+i
+java:S2095"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(ø±ª 8ÖùÉ”.
+E
+java:S1148"#Use a logger to log this exception.(æÀö€øÿÿÿÿ8ÖùÉ”.

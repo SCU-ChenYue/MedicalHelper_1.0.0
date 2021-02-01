@@ -1,0 +1,18 @@
+
+P
+java:S1128
+"5Remove this unused import 'android.widget.ImageView'.(ú¯ëàüÿÿÿÿ
+K
+java:S1128"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ
+F
+java:S1128"0Remove this unused import 'java.io.InputStream'.(¹»º
+X	java:S125,"<This block of commented-out lines of code should be removed.(£ãï…8ú®©¤Ÿ.
+]	java:S1255"<This block of commented-out lines of code should be removed.(ÌÆÛ†øÿÿÿÿ8ú®©¤Ÿ.
+I
+java:S1128"3Remove this unused import 'java.net.URLConnection'.(š¿šó
+D
+java:S1128")Remove this unused import 'java.net.URL'.(ñìÁ„üÿÿÿÿ
+Z
+java:S1128"?Remove this unused import 'android.graphics.drawable.Drawable'.(Á‰º„ùÿÿÿÿ
+]	java:S125="<This block of commented-out lines of code should be removed.(‰õÜ›ıÿÿÿÿ8ûŒª¤Ÿ.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(£Ğäû

@@ -1,0 +1,10 @@
+
+h
+java:S1128"FRemove this unused import 'com.facebook.drawee.view.SimpleDraweeView'.(ÓÇ«·ıÿÿÿÿ8†Öşœ•.
+n
+java:S1128"QRemove this unused import 'com.example.medicalhlepers.AIdiagnose.HospitalResult'.(ƒ±´¡8Ú¡°¡–.
+k
+java:S1128"IRemove this unused import 'com.example.medicalhlepers.database.Hospital'.(”ºÈŸùÿÿÿÿ8‚öœ•.
+N
+java:S1128",Remove this unused import 'android.net.Uri'.(òêû‘ıÿÿÿÿ8ä€•.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(£Ğäû

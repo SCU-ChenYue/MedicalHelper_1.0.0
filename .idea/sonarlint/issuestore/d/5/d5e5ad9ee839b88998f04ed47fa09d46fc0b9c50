@@ -1,0 +1,54 @@
+
+E
+java:S1066*"/Merge this if statement with the enclosing one.(ð¬µ‡
+\
+java:S2184R"ACast one of the operands of this division operation to a "float".(€ºá™øÿÿÿÿ
+[
+java:S2184R"@Cast one of the operands of this integer division to a "double".(€ºá™øÿÿÿÿ
+V
+java:S2184]"ACast one of the operands of this division operation to a "float".(À¬þ
+U
+java:S2184]"@Cast one of the operands of this integer division to a "double".(À¬þ
+\
+java:S2184^"ACast one of the operands of this division operation to a "float".(Õú²”ùÿÿÿÿ
+k	java:S117P"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´¾’Ñÿÿÿÿÿ
+k	java:S117P"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´¾’Ñÿÿÿÿÿ
+k	java:S117P"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´¾’Ñÿÿÿÿÿ
+k	java:S117P"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´¾’Ñÿÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¥àåû
+>
+java:S11483"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+>
+java:S11487"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+>
+java:S1148?"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+G
+java:S1128",Remove this unused import 'android.net.Uri'.(òêû‘ýÿÿÿÿ
+P
+java:S1118":Add a private constructor to hide the implicit public one.(ò’çÎ
+m
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ÚúÏïýÿÿÿÿ
+Z
+java:S21474"DCombine this catch with the one at line 48, which has the same body.(ï­£Ä
+_
+java:S40421"IUse "java.nio.Files#delete" here for better messages on error conditions.(ûþ¤ã
+P	java:S8991";Do something with the "boolean" value returned by "delete".(ûþ¤ã
+_
+java:S40425"IUse "java.nio.Files#delete" here for better messages on error conditions.(ûþ¤ã
+P	java:S8995";Do something with the "boolean" value returned by "delete".(ûþ¤ã
+E
+java:S2093'"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+<
+java:S1659P"!Declare "top" on a separate line.(´¾’Ñÿÿÿÿÿ
+>
+java:S1659P"#Declare "right" on a separate line.(´¾’Ñÿÿÿÿÿ
+?
+java:S1659P"$Declare "bottom" on a separate line.(´¾’Ñÿÿÿÿÿ
+A
+java:S1659P"&Declare "dst_left" on a separate line.(´¾’Ñÿÿÿÿÿ
+@
+java:S1659P"%Declare "dst_top" on a separate line.(´¾’Ñÿÿÿÿÿ
+B
+java:S1659P"'Declare "dst_right" on a separate line.(´¾’Ñÿÿÿÿÿ
+C
+java:S1659P"(Declare "dst_bottom" on a separate line.(´¾’Ñÿÿÿÿÿ

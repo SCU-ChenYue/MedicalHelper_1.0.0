@@ -1,0 +1,40 @@
+
+t
+java:S1128"RRemove this unused import 'androidx.swiperefreshlayout.widget.SwipeRefreshLayout'.(”Ù®“úÿÿÿÿ8ÎÂ£ð“.
+o
+java:S1450/"YRemove the "searchView" field and declare it as a local variable in the relevant methods.(ß­éñ
+o
+java:S14501"YRemove the "deleteView" field and declare it as a local variable in the relevant methods.(·˜¿´
+s	java:S117÷"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡¼êÇÿÿÿÿÿ8•ï¡ð“.
+Ÿ
+java:S1186ž"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(«û³±8ôù“¦¤.
+{
+java:S2293-"YReplace the type specification in this constructor call with the diamond operator ("<>").(€­ìÚýÿÿÿÿ8Øº°ï“.
+C	java:S131`""Add a default case to this switch.(×“¾ñùÿÿÿÿ8•ï¡ð“.
+[	java:S106Ó"9Replace this use of System.out or System.err by a logger.(®ýáëûÿÿÿÿ8•ï¡ð“.
+i
+java:S1192|"LDefine a constant instead of duplicating this literal "getDrugList" 3 times.(¶´ç·8•ï¡ð“.
+x
+java:S14506"VRemove the "getBack" field and declare it as a local variable in the relevant methods.(¨þÞÄýÿÿÿÿ8Ù†Š¦¤.
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ß×ñi
+J
+java:S1128"4Remove this unused import 'android.widget.ListView'.(Œ‰Ö×
+v	java:S1154"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Èœáô8‰–©ï“.
+s	java:S117¶"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡¼êÇÿÿÿÿÿ8•ï¡ð“.
+V	java:S106À"9Replace this use of System.out or System.err by a logger.(ì«¯˜8•ï¡ð“.
+¤
+java:S1186£"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ê¥¾àûÿÿÿÿ8ôù“¦¤.
+m
+java:S1301`"KReplace this "switch" statement by "if" statements to increase readability.(×“¾ñùÿÿÿÿ8•ï¡ð“.
+w
+java:S2293®"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ý–„ý8•ï¡ð“.
+H
+java:S1128"3Remove this unused import 'android.content.Intent'.(³ð‹G
+m	java:S116-"SRename this field "DrugList" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€­ìÚýÿÿÿÿ
+M
+java:S1172t"+Remove this unused method parameter "name".(ªÛí×ýÿÿÿÿ8•ï¡ð“.
+~
+java:S3923Ô"[Remove this conditional structure or edit its code blocks so that they're not all the same.(Ýãú³þÿÿÿÿ8•ï¡ð“.
+M
+java:S1128
+"7Remove this unused import 'android.widget.AdapterView'.(¶¾éæ

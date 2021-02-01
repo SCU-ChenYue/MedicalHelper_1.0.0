@@ -1,0 +1,16 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ø‘ÅÝÿÿÿÿÿ
+R
+java:S25897"7Remove this expression which always evaluates to "true"(ØŠ’ðÿÿÿÿÿ
+R
+java:S25893"7Remove this expression which always evaluates to "true"(—¾Úñøÿÿÿÿ
+M
+java:S18542"8Remove this useless assignment to local variable "flag".(‚ƒäq
+M
+java:S18546"8Remove this useless assignment to local variable "flag".(‚ƒäq
+M
+java:S1854:"8Remove this useless assignment to local variable "flag".(‚ƒäq
+M
+java:S1854?"8Remove this useless assignment to local variable "flag".(‚ƒäq
+M
+java:S1854C"8Remove this useless assignment to local variable "flag".(‚ƒäq

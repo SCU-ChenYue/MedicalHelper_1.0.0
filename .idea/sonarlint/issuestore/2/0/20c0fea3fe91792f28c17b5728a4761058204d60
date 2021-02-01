@@ -1,0 +1,26 @@
+
+D
+java:S1185ˆ"(Remove this method to simply inherit it.(µ‚µõıÿÿÿÿ
+x
+java:S1450#"]Remove the "changePassword" field and declare it as a local variable in the relevant methods.(áÀÊ¶üÿÿÿÿ
+u
+java:S1450!"_Remove the "imageViewMessage" field and declare it as a local variable in the relevant methods.(´×¤æ
+t
+java:S1450$"WRemove the "exitThis" field and declare it as a local variable in the relevant methods.(¾òÖÓ8í³¤ •.
+k
+java:S1128"IRemove this unused import 'com.example.medicalhlepers.Forum.AskQuestion'.(ëõ°şÿÿÿÿ8Ç¶€¥¤.
+{
+java:S1450)"YRemove the "myQuestion" field and declare it as a local variable in the relevant methods.(—©ş£øÿÿÿÿ8·¨ı¤¤.
+V	java:S1259"<This block of commented-out lines of code should be removed.(Ş¸ÇÅşÿÿÿÿ
+P
+java:S1128"5Remove this unused import 'android.widget.ImageView'.(ú¯ëàüÿÿÿÿ
+o
+java:S1450%"ZRemove the "yuyueRecord" field and declare it as a local variable in the relevant methods.(¬çÎ
+
+<
+java:S1481?"&Remove this unused "a" local variable.(“äŒ—
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(€ÜÀ–
+z
+java:S1450*"XRemove the "myCollect" field and declare it as a local variable in the relevant methods.(î—ÚËùÿÿÿÿ8ÌÒ‡¥¤.
+K
+java:S1854?"5Remove this useless assignment to local variable "a".(“äŒ—

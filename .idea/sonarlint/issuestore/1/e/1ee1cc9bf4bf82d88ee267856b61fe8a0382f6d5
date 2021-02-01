@@ -1,0 +1,30 @@
+
+f
+java:S1301&"KReplace this "switch" statement by "if" statements to increase readability.(ıŞ³‹ùÿÿÿÿ
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¬öß
+>
+java:S1148k"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+R
+java:S2589F"7Remove this expression which always evaluates to "true"(óğí·ÿÿÿÿÿ
+M
+java:S2589N"7Remove this expression which always evaluates to "true"(çıªº
+R
+java:S2589J"7Remove this expression which always evaluates to "true"(’·ŸÄÿÿÿÿÿ
+T
+java:S1128"9Remove this unused import 'org.litepal.crud.DataSupport'.(Äƒîûÿÿÿÿ
+{
+java:S1128"`Remove this unused import 'com.example.medicalhlepers.PersonalInformation.PersonalMessageStore'.(Ë Õ¯ÿÿÿÿÿ
+F
+java:S1128"0Remove this unused import 'org.litepal.LitePal'.(˜Ô‘Æ
+[
+java:S1124#"EReorder the modifiers to comply with the Java Language Specification.(ÁŠòç
+P
+java:S18545":Remove this useless assignment to local variable "intent".(å¯Ô«
+m
+java:S37762"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(¨Œşÿÿÿÿ
+U
+java:S1854a":Remove this useless assignment to local variable "result".(‘äû¤úÿÿÿÿ
+F
+java:S1481a"+Remove this unused "result" local variable.(‘äû¤úÿÿÿÿ
+A
+java:S14815"+Remove this unused "intent" local variable.(å¯Ô«

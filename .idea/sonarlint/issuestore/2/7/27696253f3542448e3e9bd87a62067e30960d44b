@@ -1,0 +1,28 @@
+
+c
+java:S1128"MRemove this unused import 'com.example.medicalhlepers.PriceQuery.PriceQuery'.(ú©ü‰
+J
+java:S1128
+"5Remove this unused import 'android.speech.tts.Voice'.(ˆ¯U
+s
+java:S1450"WRemove the "password" field and declare it as a local variable in the relevant methods.(Ğ¿ôO8”áºË§.
+B
+java:S1659"&Declare "password" on a separate line.(Ğ¿ôO8”áºË§.
+H
+java:S1068",Remove this unused "password" private field.(Ğ¿ôO8”áºË§.
+_
+java:S1128"IRemove this unused import 'com.example.medicalhlepers.Test.Voice_wakeup'.(Çú‰Î
+r
+java:S1450"VRemove the "account" field and declare it as a local variable in the relevant methods.(Ğ¿ôO8”áºË§.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ø‘Åİÿÿÿÿÿ
+G
+java:S1068"+Remove this unused "account" private field.(Ğ¿ôO8”áºË§.
+]	java:S1257"<This block of commented-out lines of code should be removed.(±¦øùÿÿÿÿ8İŠ«¿•.
+p
+java:S1450"SRemove the "pref" field and declare it as a local variable in the relevant methods.(†”Á¾8÷†®–¢.
+m
+java:S1128"PRemove this unused import 'com.example.medicalhlepers.AIdiagnose.OtherSymptoms'.(¨©·«8˜—Ó×¤.
+c
+java:S1128"HRemove this unused import 'com.example.medicalhlepers.Test.Voice_index'.(¿ªşûÿÿÿÿ
+w
+java:S1128"URemove this unused import 'com.example.medicalhlepers.AIdiagnose.DiagonseResultMain'.(÷¯õşÿÿÿÿ8Ä¹¬ •.

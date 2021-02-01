@@ -1,0 +1,23 @@
+
+o
+java:S2293."YReplace the type specification in this constructor call with the diamond operator ("<>").(ˆÓ’Ÿ
+W
+java:S1128"5Remove this unused import 'android.widget.ImageView'.(ú¯ëàüÿÿÿÿ8ì×’¥¤.
+h	java:S116."SRename this field "DrugList" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆÓ’Ÿ
+<
+java:S2129" Remove this "Double" constructor(ó”…Ğúÿÿÿÿ
+O	java:S106„"9Replace this use of System.out or System.err by a logger.(ì«¯˜
+a	java:S101&"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(©–ÕS
+C
+java:S1185B"(Remove this method to simply inherit it.(Ö“˜½úÿÿÿÿ
+q
+java:S1450*"[Remove the "intentFilter" field and declare it as a local variable in the relevant methods.(Ò»¯‡
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ß×ñi
+t
+java:S2293y"YReplace the type specification in this constructor call with the diamond operator ("<>").(’£·úÿÿÿÿ
+I
+java:S1068(",Remove this unused "localUrl" private field.(Å´ 8ƒ›¥¤.
+S
+java:S1128"8Remove this unused import 'android.widget.LinearLayout'.(çîšçúÿÿÿÿ
+C
+java:S1185="(Remove this method to simply inherit it.(µ‚µõıÿÿÿÿ

@@ -1,0 +1,48 @@
+
+>
+java:S1659P"#Declare "right" on a separate line.(´¾’Ñÿÿÿÿÿ
+P
+java:S1118":Add a private constructor to hide the implicit public one.(ò’çÎ
+P	java:S8991";Do something with the "boolean" value returned by "delete".(ûþ¤ã
+_
+java:S40425"IUse "java.nio.Files#delete" here for better messages on error conditions.(ûþ¤ã
+@
+java:S1659P"%Declare "dst_top" on a separate line.(´¾’Ñÿÿÿÿÿ
+P	java:S8995";Do something with the "boolean" value returned by "delete".(ûþ¤ã
+B
+java:S1659P"'Declare "dst_right" on a separate line.(´¾’Ñÿÿÿÿÿ
+[
+java:S2184R"@Cast one of the operands of this integer division to a "double".(€ºá™øÿÿÿÿ
+G
+java:S1128",Remove this unused import 'android.net.Uri'.(òêû‘ýÿÿÿÿ
+k	java:S117P"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´¾’Ñÿÿÿÿÿ
+E
+java:S2093'"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+E
+java:S1066*"/Merge this if statement with the enclosing one.(ð¬µ‡
+A
+java:S1659P"&Declare "dst_left" on a separate line.(´¾’Ñÿÿÿÿÿ
+Z
+java:S21474"DCombine this catch with the one at line 48, which has the same body.(ï­£Ä
+C
+java:S1659P"(Declare "dst_bottom" on a separate line.(´¾’Ñÿÿÿÿÿ
+_
+java:S40421"IUse "java.nio.Files#delete" here for better messages on error conditions.(ûþ¤ã
+\
+java:S2184R"ACast one of the operands of this division operation to a "float".(€ºá™øÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¥àåû
+V
+java:S2184]"ACast one of the operands of this division operation to a "float".(À¬þ
+k	java:S117P"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´¾’Ñÿÿÿÿÿ
+k	java:S117P"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´¾’Ñÿÿÿÿÿ
+k	java:S117P"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´¾’Ñÿÿÿÿÿ
+\
+java:S2184^"ACast one of the operands of this division operation to a "float".(Õú²”ùÿÿÿÿ
+?
+java:S1659P"$Declare "bottom" on a separate line.(´¾’Ñÿÿÿÿÿ
+m
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ÚúÏïýÿÿÿÿ
+U
+java:S2184]"@Cast one of the operands of this integer division to a "double".(À¬þ
+<
+java:S1659P"!Declare "top" on a separate line.(´¾’Ñÿÿÿÿÿ

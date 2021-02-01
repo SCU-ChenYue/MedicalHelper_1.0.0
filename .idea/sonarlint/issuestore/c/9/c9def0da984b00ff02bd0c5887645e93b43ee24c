@@ -1,0 +1,11 @@
+
+C	java:S131N""Add a default case to this switch.(×“¾ñùÿÿÿÿ8 ©¥¤.
+m
+java:S1301N"KReplace this "switch" statement by "if" statements to increase readability.(×“¾ñùÿÿÿÿ8 ©¥¤.
+T	java:S106£"9Replace this use of System.out or System.err by a logger.(èşáëÿÿÿÿÿ
+g	java:S101""MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ôÑÇéüÿÿÿÿ
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ß×ñi
+X
+java:S1854"<Remove this useless assignment to local variable "response".(°Áøœûÿÿÿÿ
+I
+java:S1481"-Remove this unused "response" local variable.(°Áøœûÿÿÿÿ

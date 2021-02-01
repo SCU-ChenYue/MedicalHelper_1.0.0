@@ -1,0 +1,542 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    tools:context="com.example.medicalhlepers.AIdiagnose.ChangeSetting">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#EBEBEB"
+        android:orientation="vertical" >
+
+        <include
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            layout="@layout/header1" />
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:scrollbars="none" >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical" >
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:background="#3E3E3E"
+                    android:orientation="horizontal"
+                    android:paddingLeft="8dp"
+                    android:paddingRight="8dp" >
+
+                    <ImageView
+                        android:layout_width="15dp"
+                        android:layout_height="15dp"
+                        android:layout_gravity="center"
+                        android:src="@drawable/register_tip_image" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:gravity="center_vertical"
+                        android:padding="5dp"
+                        android:text="您的设置将会影响医院推荐的结果"
+                        android:textColor="#FFAD2B" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/hospital_type"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:background="@color/consultation_color_white"
+                    android:paddingBottom="10dp"
+                    android:paddingLeft="8dp"
+                    android:paddingRight="8dp"
+                    android:paddingTop="10dp" >
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_weight="2.5"
+                        android:gravity="center_vertical"
+                        android:padding="5dp"
+                        android:singleLine="true"
+                        android:text="医院类型"
+                        android:textColor="#7B7C7C" />
+
+                    <LinearLayout
+                        android:layout_width="0.1dp"
+                        android:layout_height="match_parent"
+                        android:layout_marginBottom="3dp"
+                        android:layout_marginRight="3dp"
+                        android:layout_marginTop="3dp"
+                        android:background="@color/consultation_color_E8D8D8" >
+                    </LinearLayout>
+
+                    <RadioGroup
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_gravity="center_vertical"
+                        android:layout_weight="1"
+                        android:gravity="center_vertical"
+                        android:orientation="horizontal"
+                        android:paddingLeft="5dp"
+                        android:id="@+id/hospitalType">
+
+                        <RadioButton
+                            android:id="@+id/moren_radio"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center_vertical"
+                            android:background="@null"
+                            android:button="@null"
+                            android:checked="true"
+                            android:drawableLeft="@drawable/radio_btn_bg"
+                            android:drawablePadding="5dp"
+                            android:gravity="center_vertical"
+                            android:paddingRight="15dp"
+                            android:text="默认全选"
+                            android:textColor="#414141" >
+                        </RadioButton>
+
+                        <RadioButton
+                            android:id="@+id/zongheyiyuan"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center_vertical"
+                            android:background="@null"
+                            android:paddingRight="15dp"
+                            android:button="@null"
+                            android:drawableLeft="@drawable/radio_btn_bg"
+                            android:drawablePadding="5dp"
+                            android:gravity="center_vertical"
+                            android:text="综合医院"
+                            android:textColor="#414141" >
+                        </RadioButton>
+
+                    </RadioGroup>
+                </LinearLayout>
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="0.1dp"
+                    android:background="#DADADA" >
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/hospital_level"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:background="@color/consultation_color_white"
+                    android:paddingBottom="10dp"
+                    android:paddingLeft="8dp"
+                    android:paddingRight="8dp"
+                    android:paddingTop="10dp" >
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_weight="2.5"
+                        android:gravity="center_vertical"
+                        android:padding="5dp"
+                        android:singleLine="true"
+                        android:text="医院等级"
+                        android:textColor="#7B7C7C" />
+
+                    <LinearLayout
+                        android:layout_width="0.1dp"
+                        android:layout_height="match_parent"
+                        android:layout_marginBottom="3dp"
+                        android:layout_marginRight="3dp"
+                        android:layout_marginTop="3dp"
+                        android:background="@color/consultation_color_E8D8D8" >
+                    </LinearLayout>
+
+                    <RadioGroup
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_gravity="center_vertical"
+                        android:layout_weight="1"
+                        android:gravity="center_vertical"
+                        android:orientation="horizontal"
+                        android:paddingLeft="5dp"
+                        android:id="@+id/hospitalLevel">
+
+                        <RadioButton
+                            android:id="@+id/morenquanxuan_radio"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center_vertical"
+                            android:background="@null"
+                            android:button="@null"
+                            android:checked="true"
+                            android:drawableLeft="@drawable/radio_btn_bg"
+                            android:drawablePadding="5dp"
+                            android:gravity="center_vertical"
+                            android:paddingRight="15dp"
+                            android:text="默认全选"
+                            android:textColor="#414141" >
+                        </RadioButton>
+
+                        <RadioButton
+                            android:id="@+id/sanjijiadeng"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center_vertical"
+                            android:background="@null"
+                            android:paddingRight="15dp"
+                            android:button="@null"
+                            android:drawableLeft="@drawable/radio_btn_bg"
+                            android:drawablePadding="5dp"
+                            android:gravity="center_vertical"
+                            android:text="三级甲等"
+                            android:textColor="#414141" />
+                    </RadioGroup>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="0.1dp"
+                    android:background="#DADADA" >
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:background="@color/consultation_color_white"
+                    android:paddingBottom="10dp"
+                    android:paddingLeft="8dp"
+                    android:paddingRight="8dp"
+                    android:paddingTop="10dp" >
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_weight="2.5"
+                        android:gravity="center_vertical"
+                        android:padding="5dp"
+                        android:singleLine="true"
+                        android:text="医生级别"
+                        android:textColor="#7B7C7C" />
+
+                    <LinearLayout
+                        android:layout_width="0.1dp"
+                        android:layout_height="match_parent"
+                        android:layout_marginBottom="3dp"
+                        android:layout_marginRight="3dp"
+                        android:layout_marginTop="3dp"
+                        android:background="@color/consultation_color_E8D8D8" >
+                    </LinearLayout>
+
+                    <RadioGroup
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_gravity="center_vertical"
+                        android:layout_weight="1"
+                        android:gravity="center_vertical"
+                        android:orientation="horizontal"
+                        android:paddingLeft="5dp"
+                        android:id="@+id/docLevel">
+
+                        <RadioButton
+                            android:id="@+id/update_my_info_glasses_primary"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center_vertical"
+                            android:background="@null"
+                            android:button="@null"
+                            android:checked="true"
+                            android:drawableLeft="@drawable/radio_btn_bg"
+                            android:drawablePadding="5dp"
+                            android:gravity="center_vertical"
+                            android:paddingRight="15dp"
+                            android:text="默认全选"
+                            android:textColor="#414141" >
+                        </RadioButton>
+
+                        <RadioButton
+                            android:id="@+id/update_my_info_glasses_expert"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center_vertical"
+                            android:background="@null"
+                            android:button="@null"
+                            android:drawableLeft="@drawable/radio_btn_bg"
+                            android:drawablePadding="5dp"
+                            android:gravity="center_vertical"
+                            android:text="主任医师"
+                            android:textColor="#414141" >
+                        </RadioButton>
+                    </RadioGroup>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="0.1dp"
+                    android:orientation="horizontal"
+                    android:background="#DADADA" >
+                </LinearLayout>
+
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:background="@color/consultation_color_white"
+                    android:paddingBottom="3dp"
+                    android:paddingLeft="8dp"
+                    android:paddingRight="8dp"
+                    android:paddingTop="5dp"
+                    android:orientation="vertical">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="搜索范围："
+                            android:padding="5dp"/>
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="50公里"
+                            android:textSize="12sp"
+                            android:textColor="@color/red_rz"
+                            android:id="@+id/sousuodistance"
+                            android:layout_marginLeft="200dp"/>
+                    </LinearLayout>
+
+                    <SeekBar
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/seekBar"
+                        android:layout_marginLeft="0dp"
+                        android:layout_marginTop="10dp"
+                        android:layout_marginBottom="10dp"
+                        android:layout_alignParentLeft="true"
+                        android:layout_alignParentStart="true"
+                        android:max="100"
+                        style="@style/CustomSeekbarStyle"
+                        android:progress="50"
+                        android:indeterminate="false" />
+
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:background="@color/consultation_color_white"
+                    android:paddingBottom="3dp"
+                    android:paddingLeft="8dp"
+                    android:paddingRight="8dp"
+                    android:paddingTop="5dp"
+                    android:orientation="vertical">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="权重设置"
+                            android:padding="5dp"/>
+
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal">
+
+                       <TextView
+                           android:layout_width="wrap_content"
+                           android:layout_height="wrap_content"
+                           android:textColor="@color/red_rz"
+                           android:text="距离：50%"
+                           android:layout_marginLeft="5dp"
+                           android:textSize="12sp"
+                           android:id="@+id/distancepercent"/>
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:textColor="@color/red_rz"
+                            android:text="等级：50%"
+                            android:textSize="12sp"
+                            android:id="@+id/levelpercent"
+                            android:layout_marginLeft="200dp"/>
+
+                    </LinearLayout>
+
+                    <SeekBar
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/seekBar2"
+                        android:layout_marginTop="6dp"
+                        android:layout_marginBottom="10dp"
+                        android:layout_alignParentLeft="true"
+                        android:layout_alignParentStart="true"
+                        android:max="100"
+                        style="@style/CustomSeekbarStyle"
+                        android:progress="50"
+                        android:indeterminate="false" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="10dp"
+                    android:background="#EBEBEB" >
+                </LinearLayout>
+                <!--
+                                <LinearLayout
+                                    android:layout_width="fill_parent"
+                                    android:layout_height="wrap_content"
+                                    android:layout_gravity="center_vertical"
+                                    android:layout_marginTop="2dp"
+                                    android:background="@color/consultation_color_white"
+                                    android:paddingBottom="3dp"
+                                    android:paddingLeft="8dp"
+                                    android:paddingRight="8dp"
+                                    android:paddingTop="3dp" >
+
+                                    <TextView
+                                        android:id="@+id/update_my_info_code_text"
+                                        android:layout_width="match_parent"
+                                        android:layout_height="match_parent"
+                                        android:layout_weight="1.5"
+                                        android:gravity="center_vertical"
+                                        android:padding="5dp"
+                                        android:singleLine="true"
+                                        android:text="职业证书编码"
+                                        android:textColor="#7B7C7C" />
+
+                                    <LinearLayout
+                                        android:layout_width="0.1dp"
+                                        android:layout_height="match_parent"
+                                        android:layout_marginBottom="3dp"
+                                        android:layout_marginRight="3dp"
+                                        android:layout_marginTop="3dp"
+                                        android:background="@color/consultation_color_E8D8D8" >
+                                    </LinearLayout>
+
+                                     <EditText
+                                        android:id="@+id/update_my_info_code_input_edit"
+                                        android:layout_width="match_parent"
+                                        android:layout_height="match_parent"
+                                        android:layout_weight="1"
+                                        android:background="@color/consultation_color_white"
+                                        android:gravity="center_vertical"
+                                        android:hint="请输入证书编号"
+                                        android:inputType="phone"
+                                        android:maxLength="11"
+                                        android:padding="5dp"
+                                        android:singleLine="true"
+                                        android:textColorHint="#D3D3D3" />
+                                </LinearLayout>
+
+                                <LinearLayout
+                                    android:layout_width="match_parent"
+                                    android:layout_height="0.1dp"
+                                    android:background="#DADADA" >
+                                </LinearLayout>
+                 -->
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="10dp"
+                    android:background="#EBEBEB" >
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="2dp"
+                    android:background="@color/consultation_color_white"
+                    android:gravity="center"
+                    android:orientation="horizontal"
+                    android:paddingBottom="10dp"
+                    android:paddingLeft="8dp"
+                    android:paddingRight="8dp"
+                    android:paddingTop="10dp" >
+
+                    <CheckBox
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_vertical"
+                        android:background="@null"
+                        android:button="@null"
+                        android:drawableLeft="@drawable/radio_btn_bg"
+                        android:drawablePadding="5dp"
+                        android:gravity="center_vertical"
+                        android:text="保存设置"
+                        android:checked="true"
+                        android:textColor="#414141" >
+                    </CheckBox>
+
+                </LinearLayout>
+
+                <!-- <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="10dp"
+                    android:background="@color/consultation_color_F4F4F4" >
+                </LinearLayout> -->
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginTop="20dp"
+                    android:layout_marginBottom="20dp"
+                    android:orientation="vertical"
+                    android:paddingLeft="20dp"
+                    android:paddingRight="20dp" >
+
+                    <Button
+                        android:id="@+id/update_my_info_btn_submit"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:background="@drawable/login_login_btn_shape"
+                        android:padding="10dp"
+                        android:text="确认"
+                        android:textColor="@color/consultation_color_white" />
+                </LinearLayout>
+
+            </LinearLayout>
+        </ScrollView>
+
+        <!--  <LinearLayout
+             android:layout_width="fill_parent"
+             android:layout_height="wrap_content"
+             android:layout_gravity="center_vertical"
+             android:orientation="vertical" >
+
+             <Button
+                 android:id="@+id/update_my_info_btn_submit"
+                 android:layout_width="match_parent"
+                 android:layout_height="wrap_content"
+                 android:background="@drawable/create_case_submit_selector"
+                 android:padding="10dp"
+                 android:text="提交"
+                 android:textColor="@color/consultation_color_white" />
+         </LinearLayout> -->
+    </LinearLayout>
+
+</LinearLayout>

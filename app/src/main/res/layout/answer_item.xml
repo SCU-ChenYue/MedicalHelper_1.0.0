@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:fresco="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:background="@color/white">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="25dp"
+        android:layout_marginLeft="12dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="5dp"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:textColor="#ffffff"
+        android:textSize="12sp">
+
+        <com.facebook.drawee.view.SimpleDraweeView
+            android:id="@+id/imageView9"
+            android:layout_width="15dp"
+            android:layout_height="15dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            fresco:roundAsCircle="true"
+            fresco:roundingBorderWidth="1dp"
+            android:src="@mipmap/doc1" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:id="@+id/docAnswer"
+            android:layout_marginLeft="3dp"
+            android:text="李宏江"
+            android:textStyle="bold"
+            android:textSize="14sp"
+            android:textColor="#515151"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:text="四川大学华西医院"
+            android:id="@+id/docAnswerHospital"
+            android:textSize="11sp"
+            android:layout_marginLeft="8dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:text="主任医师"
+            android:id="@+id/docAnswerTitle"
+            android:textSize="11sp"
+            android:layout_marginLeft="6dp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="12dp"
+        android:layout_marginRight="12dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/tv_answer"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:lineSpacingExtra="3dp"
+            android:text="光凭血小板降低一项不能诊断白血病，但也不能排除外，需要完善相关检查，比如骨髓穿刺，肝功能，各种病原学检查，B超等等..."
+            android:textColor="@color/describe_color"
+            android:maxLines="2"
+            android:ellipsize="end"
+            android:textSize="14sp" />
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:layout_marginBottom="5dp"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/tv_looks"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="156人点赞"
+                android:textColor="@color/detail_text"
+                android:textSize="13sp" />
+
+            <TextView
+                android:id="@+id/tv_comments"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="23人评论"
+                android:textColor="@color/detail_text"
+                android:textSize="13sp"
+                android:layout_marginLeft="12dp"/>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</LinearLayout>

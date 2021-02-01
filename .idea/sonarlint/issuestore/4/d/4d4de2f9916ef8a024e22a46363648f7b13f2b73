@@ -1,0 +1,46 @@
+
+v
+java:S1450'"YRemove the "backNumber" field and declare it as a local variable in the relevant methods.(•ŞêÃ8ÑÇÖ¦.
+K
+java:S1128"0Remove this unused import 'org.json.JSONObject'.(œÖ´üşÿÿÿÿ
+A
+java:S1659+"&Declare "hospital" on a separate line.(‰»ùşÿÿÿÿ
+z
+java:S1450&"]Remove the "patientSexText" field and declare it as a local variable in the relevant methods.(œåÒí8ÑÇÖ¦.
+c
+java:S1192C"HDefine a constant instead of duplicating this literal "shangwu" 3 times.(Ü ğéüÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(è÷’Æ
+|
+java:S1450$"ZRemove the "docNameText" field and declare it as a local variable in the relevant methods.(óôãÄüÿÿÿÿ8ƒˆÖ¦.
+}
+java:S1450#"[Remove the "docTitleText" field and declare it as a local variable in the relevant methods.(Ğç‡–ÿÿÿÿÿ8‰ğÖ¦.
+C
+java:S1659+"(Declare "department" on a separate line.(‰»ùşÿÿÿÿ
+z
+java:S1450 "]Remove the "departmentText" field and declare it as a local variable in the relevant methods.(†ğ³ñ8±ÄÖ¦.
+?
+java:S1659+"$Declare "doctor" on a separate line.(‰»ùşÿÿÿÿ
+f
+java:S1301/"KReplace this "switch" statement by "if" statements to increase readability.(ıŞ³‹ùÿÿÿÿ
+}
+java:S1450"[Remove the "hospitalText" field and declare it as a local variable in the relevant methods.(ä¶Ğòúÿÿÿÿ8±ÄÖ¦.
+€
+java:S1450%"^Remove the "patientNameText" field and declare it as a local variable in the relevant methods.(È»¾Ìùÿÿÿÿ8Ö¦.
+>
+java:S1659+"#Declare "title" on a separate line.(‰»ùşÿÿÿÿ
+U
+java:S1854z":Remove this useless assignment to local variable "result".(Úì¦¬ÿÿÿÿÿ
+F
+java:S1481z"+Remove this unused "result" local variable.(Úì¦¬ÿÿÿÿÿ
+b
+java:S1192D"GDefine a constant instead of duplicating this literal "doctor" 3 times.(ãÑ¶Şùÿÿÿÿ
+|
+java:S1450""ZRemove the "shangwuText" field and declare it as a local variable in the relevant methods.(µÔÃÿıÿÿÿÿ8ÕÚÖ¦.
+y
+java:S1450!"WRemove the "dateText" field and declare it as a local variable in the relevant methods.(‹â“éøÿÿÿÿ8±ÄÖ¦.
+@
+java:S1659+"%Declare "shangwu" on a separate line.(‰»ùşÿÿÿÿ
+[
+java:S1124,"EReorder the modifiers to comply with the Java Language Specification.(Öİ¬É
+}
+java:S1450("[Remove the "recordDetail" field and declare it as a local variable in the relevant methods.(ì‹á·øÿÿÿÿ8êàÖ¦.

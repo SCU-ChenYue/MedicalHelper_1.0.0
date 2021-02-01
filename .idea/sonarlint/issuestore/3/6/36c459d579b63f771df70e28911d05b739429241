@@ -1,0 +1,46 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(©æı úÿÿÿÿ
+l
+java:S1192Ö"IDefine a constant instead of duplicating this literal "location" 4 times.(¶°ê™üÿÿÿÿ8ïıã«¥.
+y
+java:S1450&"WRemove the "listView" field and declare it as a local variable in the relevant methods.(¯¤½ñûÿÿÿÿ8ïıã«¥.
+}
+java:S1450+"[Remove the "linearLayout" field and declare it as a local variable in the relevant methods.(Ãîìêúÿÿÿÿ8ïıã«¥.
+{	java:S115."ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(×§Ö¯ùÿÿÿÿ8ïıã«¥.
+_
+java:S1126y"BReplace this if-then-else statement by a single method invocation.(Ê¥à8ïıã«¥.
+@
+java:S1128!"Remove this duplicated import.(Ø¾Ûõıÿÿÿÿ8ïıã«¥.
+F
+java:S1172”"(Remove this unused method parameter "v".(‹¡ã¯8ïıã«¥.
+‰
+java:S14508"gRemove the "personalMessageStoreList" field and declare it as a local variable in the relevant methods.(îÿûÿÿÿÿ8ıÄ¾¨Û.
+…
+java:S14507"cRemove the "personalMessageStore" field and declare it as a local variable in the relevant methods.(¦´ŞÉùÿÿÿÿ8ıÄ¾¨Û.
+Z
+java:S10687"8Remove this unused "personalMessageStore" private field.(¦´ŞÉùÿÿÿÿ8ıÄ¾¨Û.
+z
+java:S14505"]Remove the "docchooseLevel" field and declare it as a local variable in the relevant methods.(òÂ—ğ8ïıã«¥.
+C
+java:S1659-"!Declare "lon" on a separate line.(Ñ”ıüÿÿÿÿ8ïıã«¥.
+w
+java:S1450("URemove the "cancel" field and declare it as a local variable in the relevant methods.(Ü‡Àÿÿÿÿÿ8³ñœÔ¤.
+g
+java:S1192±"IDefine a constant instead of duplicating this literal "latitude" 3 times.(»Ú²é8Å­««¥.
+>
+java:S1659/"!Declare "kd2" on a separate line.(¬•ª8ïıã«¥.
+l
+java:S1192N"PDefine a constant instead of duplicating this literal "currentLocation" 8 times.(êá‹g8ïıã«¥.
+O
+java:S10685"2Remove this unused "docchooseLevel" private field.(òÂ—ğ8ïıã«¥.
+[	java:S106Ğ"9Replace this use of System.out or System.err by a logger.(©¬èùÿÿÿÿ8ïıã«¥.
+L
+java:S1905æ")Remove this unnecessary cast to "double".(î¬İøûÿÿÿÿ8ïıã«¥.
+q
+java:S1450'"URemove the "submit" field and declare it as a local variable in the relevant methods.(Ä‘Æ8¤ÊœÔ¤.
+m
+java:S1192°"JDefine a constant instead of duplicating this literal "longitude" 3 times.(ìºåöøÿÿÿÿ8ïıã«¥.
+k
+java:S1192®"HDefine a constant instead of duplicating this literal "disease" 3 times.(Œ¥Êşıÿÿÿÿ8¤ ±¦.
+p
+java:S3776 "RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(¿™º´8¤ ±¦.

@@ -1,0 +1,6 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(£Ðäû
+`
+java:S1874"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(ŽÖ¦ã
+Q
+java:S1874"<Remove this use of "FragmentPagerAdapter"; it is deprecated.(‘í›\

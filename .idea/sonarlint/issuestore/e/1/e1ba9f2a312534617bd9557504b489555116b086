@@ -1,0 +1,18 @@
+
+y
+java:S1450)"WRemove the "listView" field and declare it as a local variable in the relevant methods.(¯¤½ñûÿÿÿÿ8¶ŞÍ•¢.
+{
+java:S1450&"YRemove the "searchText" field and declare it as a local variable in the relevant methods.(´Ü¸³ûÿÿÿÿ8æäŸ•¢.
+m
+java:S1192d"KDefine a constant instead of duplicating this literal "doctorInfo" 7 times.(”¶İÖıÿÿÿÿ8°ûµ•¢.
+Ÿ
+java:S1186¨"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(«û³±8üÚ½•¢.
+|
+java:S1450%"ZRemove the "deleteInput" field and declare it as a local variable in the relevant methods.(ïš¯ûÿÿÿÿ8æäŸ•¢.
+¤
+java:S1186­"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ê¥¾àûÿÿÿÿ8üÚ½•¢.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.( ÷Àöıÿÿÿÿ
+p
+java:S1450#"SRemove the "back" field and declare it as a local variable in the relevant methods.(Ä­ìé8´Ÿ•¢.
+\
+java:S1854B":Remove this useless assignment to local variable "bundle".(Èı¢ùÿÿÿÿ8ïĞÎ•¢.

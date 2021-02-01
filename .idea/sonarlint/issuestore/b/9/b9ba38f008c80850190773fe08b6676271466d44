@@ -1,0 +1,11 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(€ÜÀ–
+x
+java:S1450"]Remove the "changePassword" field and declare it as a local variable in the relevant methods.(áÀÊ¶üÿÿÿÿ
+m
+java:S1450"WRemove the "exitThis" field and declare it as a local variable in the relevant methods.(¾òÖÓ
+z
+java:S1450"_Remove the "imageViewMessage" field and declare it as a local variable in the relevant methods.(‘§›¸ýÿÿÿÿ
+C
+java:S1185S"(Remove this method to simply inherit it.(µ‚µõýÿÿÿÿ
+V	java:S125."<This block of commented-out lines of code should be removed.(Þ¸ÇÅþÿÿÿÿ

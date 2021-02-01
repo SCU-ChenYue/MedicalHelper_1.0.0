@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Android Studio Project-MedicalHelper_1.0.0.iml" filepath="$PROJECT_DIR$/Android Studio Project-MedicalHelper_1.0.0.iml" group="MedicalHelper_1.0.0" />
+      <module fileurl="file://$PROJECT_DIR$/MedicalHelper_1.0.0.iml" filepath="$PROJECT_DIR$/MedicalHelper_1.0.0.iml" group="MedicalHelper_1.0.0" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="MedicalHelper_1.0.0/app" />
+      <module fileurl="file://$PROJECT_DIR$/lib/lib.iml" filepath="$PROJECT_DIR$/lib/lib.iml" group="MedicalHelper_1.0.0/lib" />
+    </modules>
+  </component>
+</project>

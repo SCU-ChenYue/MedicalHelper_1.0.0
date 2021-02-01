@@ -1,0 +1,21 @@
+
+|
+java:S1450"ZRemove the "hoslistView" field and declare it as a local variable in the relevant methods.(‘©¸Õıÿÿÿÿ8×Ùï•.
+v
+java:S1450"YRemove the "hosAdapter" field and declare it as a local variable in the relevant methods.(à¬…8Òë•.
+W
+java:S1128
+"5Remove this unused import 'android.widget.ImageView'.(ú¯ëàüÿÿÿÿ8ÜÑï…¤.
+x
+java:S1450"VRemove the "getBack" field and declare it as a local variable in the relevant methods.(¨şŞÄıÿÿÿÿ8Š§ì…¤.
+s
+java:S1450"WRemove the "textView" field and declare it as a local variable in the relevant methods.(ìÊõ"8ƒ ±¦.
+P
+java:S1068"3Remove this unused "diagnoseResults" private field.(Æ·¶Î8¹§†¤.
+T
+java:S1128	"2Remove this unused import 'android.widget.Button'.(²òıÿÿÿÿ8”ªµÖ¦.
+x
+java:S1450"VRemove the "disease" field and declare it as a local variable in the relevant methods.(£ì† ùÿÿÿÿ8ƒ ±¦.
+{
+java:S1450"^Remove the "diagnoseResults" field and declare it as a local variable in the relevant methods.(Æ·¶Î8¹§†¤.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(©æı úÿÿÿÿ

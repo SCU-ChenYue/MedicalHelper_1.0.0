@@ -1,0 +1,62 @@
+
+L
+java:S1128""6Remove this unused import 'android.provider.Settings'.(Š¯„
+p	java:S116F"[Rename this field "voice_wakeupTool" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îä‰¾
+E
+java:S1481‚")Remove this unused "view" local variable.(–†°úÿÿÿÿ
+R	java:S125­"<This block of commented-out lines of code should be removed.(»²Å¶
+_
+java:S11285"IRemove this unused import 'de.hdodenhof.circleimageview.CircleImageView'.(­³Ø™
+<	java:S131\""Add a default case to this switch.(øå´¡ÿÿÿÿÿ
+L
+java:S1128,"1Remove this unused import 'android.widget.Toast'.(©›ïÍúÿÿÿÿ
+T
+java:S1854‚"8Remove this useless assignment to local variable "view".(–†°úÿÿÿÿ
+>
+java:S1185«"(Remove this method to simply inherit it.(¹§ 
+=
+java:S1659Â"!Declare "sex" on a separate line.(Å’¼Åøÿÿÿÿ
+G
+java:S1068H",Remove this unused "wmParams" private field.(æÅÊÌıÿÿÿÿ
+i
+java:S1128"SRemove this unused import 'com.example.medicalhlepers.Tools.DragFloatActionButton'.(¹€Ì·
+G
+java:S1128",Remove this unused import 'android.net.Uri'.(òêû‘ıÿÿÿÿ
+n
+java:S1450@"SRemove the "list" field and declare it as a local variable in the relevant methods.(Êª‡õıÿÿÿÿ
+B
+java:S1659Â"&Declare "idNumber" on a separate line.(Å’¼Åøÿÿÿÿ
+u
+java:S1128"XRemove this unused import 'com.example.medicalhlepers.RecordHelper.AudioRecordActivity'.(úôöí8õß²…¤.
+Q	java:S125z"<This block of commented-out lines of code should be removed.(å­Ó”
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ø‘Åİÿÿÿÿÿ
+K
+java:S1068="0Remove this unused "mTextMessage" private field.(×°¼ùøÿÿÿÿ
+J
+java:S1068F"4Remove this unused "voice_wakeupTool" private field.(îä‰¾
+@
+java:S1659Â"$Declare "idType" on a separate line.(Å’¼Åøÿÿÿÿ
+u
+java:S1450F"_Remove the "voice_wakeupTool" field and declare it as a local variable in the relevant methods.(îä‰¾
+c
+java:S1128
+"MRemove this unused import 'com.example.medicalhlepers.Adapter.MyApplication'.(Ä¦‰©
+z
+java:S1128"XRemove this unused import 'com.example.medicalhlepers.Tools.BottomNavigationViewHelper'.(‘¸¸«ÿÿÿÿÿ8´ü¥Š¤.
+?
+java:S1185¥"(Remove this method to simply inherit it.(Ù«µ§
+H
+java:S1128"3Remove this unused import 'android.content.Intent'.(³ğ‹G
+<
+java:S1068G"&Remove this unused "wm" private field.(†õÓî
+P
+java:S1128*"5Remove this unused import 'android.widget.ImageView'.(ú¯ëàüÿÿÿÿ
+v
+java:S1450="[Remove the "mTextMessage" field and declare it as a local variable in the relevant methods.(×°¼ùøÿÿÿÿ
+B
+java:S1659Â"&Declare "birthday" on a separate line.(Å’¼Åøÿÿÿÿ
+H
+java:S1068I"-Remove this unused "imageView" private field.(ìÖï¯ÿÿÿÿÿ
+R	java:S125§"<This block of commented-out lines of code should be removed.(å­Ó”
+M
+java:S11282"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8å·°…¤.

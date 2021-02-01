@@ -1,0 +1,10 @@
+
+c
+java:S2142L"FEither re-interrupt this method or rethrow the "InterruptedException".(δ Ή€8©Φ– .
+W
+java:S18541":Remove this useless assignment to local variable "intent".(ε―Τ«8Θ—– .
+9
+java:S1116]"Remove this empty statement.(Ώρμ8ρήΕ .
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.( χΐφύÿÿÿÿ
+H
+java:S14811"+Remove this unused "intent" local variable.(ε―Τ«8Θ—– .

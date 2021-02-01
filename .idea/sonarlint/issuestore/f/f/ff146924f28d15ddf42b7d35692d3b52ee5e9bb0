@@ -1,0 +1,27 @@
+
+r
+java:S1450!"WRemove the "listView" field and declare it as a local variable in the relevant methods.(¯¤½ñûÿÿÿÿ
+q
+java:S1450&"[Remove the "searchLayout" field and declare it as a local variable in the relevant methods.(¢«é…
+V	java:S125="<This block of commented-out lines of code should be removed.(ËéÈÕüÿÿÿÿ
+K
+java:S1854d"5Remove this useless assignment to local variable "j".(û°»·
+n
+java:S1450'"XRemove the "titleText" field and declare it as a local variable in the relevant methods.(ŒÅ¨Ö
+<
+java:S1481d"&Remove this unused "j" local variable.(û°»·
+b
+java:S11923"GDefine a constant instead of duplicating this literal "status" 3 times.(à‡É ÿÿÿÿÿ
+d
+java:S1871ˆ"MThis branch's code block is the same as the block for the branch on line 134.(ó­Âß
+>
+java:S1659g"(Declare "department" on a separate line.(ÆÜÍÎ
+E
+java:S1128"/Remove this unused import 'java.util.Iterator'.(¥ÍòÕ
+<
+java:S1659("&Declare "hospital" on a separate line.(½ìğ‰
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ç—ä¾øÿÿÿÿ
+<
+java:S1659g"&Declare "hospital" on a separate line.(ÆÜÍÎ
+9
+java:S1659g"#Declare "title" on a separate line.(ÆÜÍÎ

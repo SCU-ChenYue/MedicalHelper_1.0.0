@@ -1,0 +1,16 @@
+
+a
+java:S1128"FRemove this unused import 'androidx.recyclerview.widget.RecyclerView'.(Îèòçøÿÿÿÿ
+t
+java:S1128"YRemove this unused import 'com.example.medicalhlepers.ThreeMainFragment.FragmentMessage'.(ñ¹À‡ùÿÿÿÿ
+k
+java:S1128"VRemove this unused import 'com.example.medicalhlepers.ThreeMainFragment.FragmentHome'.(µÁÌ
+r
+java:S1450"WRemove the "mAdapter" field and declare it as a local variable in the relevant methods.(³ÿÑüÿÿÿÿ
+A
+java:S1481#"+Remove this unused "intent" local variable.(å¯Ô«
+P
+java:S1854#":Remove this useless assignment to local variable "intent".(å¯Ô«
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(³”ª’
+q
+java:S1128"VRemove this unused import 'com.example.medicalhlepers.ThreeMainFragment.FragmentFind'.(Î‘Ô‘úÿÿÿÿ

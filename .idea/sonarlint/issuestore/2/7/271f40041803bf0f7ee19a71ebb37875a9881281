@@ -1,0 +1,10 @@
+
+X	java:S125F"<This block of commented-out lines of code should be removed.(ãØ€Å8ÄùÓ¡–.
+]	java:S125>"<This block of commented-out lines of code should be removed.(Ïñ€Ôÿÿÿÿÿ8ÄùÓ¡–.
+j
+java:S1182Z"HUse super.clone() to create and seed the cloned instance to be returned.(²·ò¦ùÿÿÿÿ8ÄùÓ¡–.
+u
+java:S2975Z"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(²·ò¦ùÿÿÿÿ8ÄùÓ¡–.
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(öºú‡8ŞÏÔ¡–.
+c
+java:S1126x"AReplace this if-then-else statement by a single return statement.(³ÆÜ ÿÿÿÿÿ8ÄùÓ¡–.

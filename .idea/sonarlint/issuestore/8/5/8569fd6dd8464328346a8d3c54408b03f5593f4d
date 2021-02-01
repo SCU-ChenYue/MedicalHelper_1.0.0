@@ -1,0 +1,46 @@
+
+r
+java:S1450/"URemove the "answer" field and declare it as a local variable in the relevant methods.(‡î¦8º¼ãòŸ.
+M
+java:S10680"+Remove this unused "markNum" private field.(ËÙŸÀúÿÿÿÿ8µØŠòŸ.
+C
+java:S1659/"&Declare "hospital" on a separate line.(‡î¦8ÑÛ‚ÉŸ.
+J
+java:S16590"(Declare "collectNum" on a separate line.(ËÙŸÀúÿÿÿÿ8µØŠòŸ.
+d
+java:S1192Æ"FDefine a constant instead of duplicating this literal "phone" 4 times.(¾±”â8Ñış .
+t
+java:S1450/"WRemove the "hospital" field and declare it as a local variable in the relevant methods.(‡î¦8º¼ãòŸ.
+I
+java:S16590"'Declare "answerNum" on a separate line.(ËÙŸÀúÿÿÿÿ8ğÿ¹ÌŸ.
+j
+java:S1192<"MDefine a constant instead of duplicating this literal "QuestionItem" 4 times.(’íª¿8µƒÀ .
+x
+java:S14500"VRemove the "markNum" field and declare it as a local variable in the relevant methods.(ËÙŸÀúÿÿÿÿ8ÌãòŸ.
+B
+java:S1659/"%Declare "docName" on a separate line.(‡î¦8ÑÛ‚ÉŸ.
+t
+java:S14500"RRemove the "num" field and declare it as a local variable in the relevant methods.(ËÙŸÀúÿÿÿÿ8çõƒğŸ.
+G
+java:S16590"%Declare "markNum" on a separate line.(ËÙŸÀúÿÿÿÿ8ñ„åŸ.
+O
+java:S1128"-Remove this unused import 'okhttp3.Response'.(Ï‚ñ—øÿÿÿÿ8Ã‚ÂòŸ.
+O
+java:S10680"-Remove this unused "answerNum" private field.(ËÙŸÀúÿÿÿÿ8çõƒğŸ.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.( ÷Àöıÿÿÿÿ
+z
+java:S14500"XRemove the "answerNum" field and declare it as a local variable in the relevant methods.(ËÙŸÀúÿÿÿÿ8çõƒğŸ.
+A
+java:S1659/"$Declare "answer" on a separate line.(‡î¦8ÑÛ‚ÉŸ.
+I
+java:S10680"'Remove this unused "num" private field.(ËÙŸÀúÿÿÿÿ8çõƒğŸ.
+G
+java:S16590"%Declare "likeNum" on a separate line.(ËÙŸÀúÿÿÿÿ8ÏÌşäŸ.
+t
+java:S1450/"WRemove the "question" field and declare it as a local variable in the relevant methods.(‡î¦8º¼ãòŸ.
+s
+java:S1450/"VRemove the "docName" field and declare it as a local variable in the relevant methods.(‡î¦8º¼ãòŸ.
+@
+java:S1659/"#Declare "title" on a separate line.(‡î¦8ÑÛ‚ÉŸ.
+q
+java:S1450/"TRemove the "title" field and declare it as a local variable in the relevant methods.(‡î¦8º¼ãòŸ.

@@ -1,0 +1,18 @@
+
+~
+java:S1450"\Remove the "writeQuestion" field and declare it as a local variable in the relevant methods.(°¥äüùÿÿÿÿ8Óœ– .
+J
+java:S1185:"(Remove this method to simply inherit it.(©¤„Íıÿÿÿÿ8°²äŸ.
+b
+java:S1128"ERemove this unused import 'androidx.appcompat.app.AppCompatActivity'.(€¶£î8­ ‘äŸ.
+t
+java:S1450"XRemove the "emptyView" field and declare it as a local variable in the relevant methods.(ãú.8Ç•ªäŸ.
+z
+java:S1450"XRemove the "myCollect" field and declare it as a local variable in the relevant methods.(î—ÚËùÿÿÿÿ8Á¢¥– .
+{
+java:S1450"YRemove the "myQuestion" field and declare it as a local variable in the relevant methods.(—©ş£øÿÿÿÿ8Šæ³™ .
+T
+java:S1135;"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ8ÜûèãŸ.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.( ÷Àöıÿÿÿÿ
+W
+java:S1128	"5Remove this unused import 'android.widget.ImageView'.(ú¯ëàüÿÿÿÿ8Ï– .

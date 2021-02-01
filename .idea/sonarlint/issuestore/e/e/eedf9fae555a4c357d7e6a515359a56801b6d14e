@@ -1,0 +1,28 @@
+
+f
+java:S1301/"KReplace this "switch" statement by "if" statements to increase readability.(ýÞ³‹ùÿÿÿÿ
+c
+java:S1192C"HDefine a constant instead of duplicating this literal "shangwu" 3 times.(Ü ðéüÿÿÿÿ
+b
+java:S1192D"GDefine a constant instead of duplicating this literal "doctor" 3 times.(ãÑ¶Þùÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(è÷’Æ
+?
+java:S1148€"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+K
+java:S1128"0Remove this unused import 'org.json.JSONObject'.(œÖ´üþÿÿÿÿ
+A
+java:S1659+"&Declare "hospital" on a separate line.(‰»ùžþÿÿÿÿ
+C
+java:S1659+"(Declare "department" on a separate line.(‰»ùžþÿÿÿÿ
+@
+java:S1659+"%Declare "shangwu" on a separate line.(‰»ùžþÿÿÿÿ
+?
+java:S1659+"$Declare "doctor" on a separate line.(‰»ùžþÿÿÿÿ
+>
+java:S1659+"#Declare "title" on a separate line.(‰»ùžþÿÿÿÿ
+[
+java:S1124,"EReorder the modifiers to comply with the Java Language Specification.(ÖÝ¬É
+U
+java:S1854z":Remove this useless assignment to local variable "result".(Úì¦¬ÿÿÿÿÿ
+F
+java:S1481z"+Remove this unused "result" local variable.(Úì¦¬ÿÿÿÿÿ

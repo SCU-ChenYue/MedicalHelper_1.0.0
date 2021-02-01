@@ -1,0 +1,64 @@
+
+f
+java:S13011"KReplace this "switch" statement by "if" statements to increase readability.(ýÞ³‹ùÿÿÿÿ
+a
+java:S11929"FDefine a constant instead of duplicating this literal "title" 3 times.(—ùÈìþÿÿÿÿ
+]
+java:S11927"HDefine a constant instead of duplicating this literal "shangwu" 3 times.(Ñ÷µ*
+]
+java:S11928"GDefine a constant instead of duplicating this literal "doctor" 3 times.(øàúÉ
+a
+java:S11926"KDefine a constant instead of duplicating this literal "department" 3 times.(ºõò÷
+_
+java:S11925"IDefine a constant instead of duplicating this literal "hospital" 3 times.(‰†«Ÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(è÷’Æ
+?
+java:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+H
+java:S1128"-Remove this unused import 'org.w3c.dom.Text'.(¶Äè‹þÿÿÿÿ
+r
+java:S1450!"WRemove the "dateText" field and declare it as a local variable in the relevant methods.(‹â“éøÿÿÿÿ
+s
+java:S1450 "]Remove the "departmentText" field and declare it as a local variable in the relevant methods.(†ð³ñ
+p
+java:S1450$"ZRemove the "hosNameText" field and declare it as a local variable in the relevant methods.(êâ·Œ
+v
+java:S1450#"[Remove the "hosTitleText" field and declare it as a local variable in the relevant methods.(˜áÒÉûÿÿÿÿ
+v
+java:S1450"[Remove the "hospitalText" field and declare it as a local variable in the relevant methods.(ä¶Ðòúÿÿÿÿ
+s
+java:S1450-"^Remove the "patientIdNumber" field and declare it as a local variable in the relevant methods.(¨‘·E
+r
+java:S1450("\Remove the "patientIdText" field and declare it as a local variable in the relevant methods.(Øìƒš
+y
+java:S1450%"^Remove the "patientNameText" field and declare it as a local variable in the relevant methods.(È»¾Ìùÿÿÿÿ
+u
+java:S1450'"_Remove the "patientPhoneText" field and declare it as a local variable in the relevant methods.(ý±¿ð
+n
+java:S1450-"YRemove the "patientSex" field and declare it as a local variable in the relevant methods.(¨‘·E
+s
+java:S1450&"]Remove the "patientSexText" field and declare it as a local variable in the relevant methods.(œåÒí
+~
+java:S1450,"cRemove the "personalMessageStore" field and declare it as a local variable in the relevant methods.(¦´ÞÉùÿÿÿÿ
+
+java:S1450+"dRemove the "personalMessageStores" field and declare it as a local variable in the relevant methods.(‹ù’ôûÿÿÿÿ
+u
+java:S1450""ZRemove the "shangwuText" field and declare it as a local variable in the relevant methods.(µÔÃÿýÿÿÿÿ
+v
+java:S1450)"[Remove the "submitButton" field and declare it as a local variable in the relevant methods.(öìªºûÿÿÿÿ
+A
+java:S1659*"&Declare "hospital" on a separate line.(‰»ùžþÿÿÿÿ
+C
+java:S1659*"(Declare "department" on a separate line.(‰»ùžþÿÿÿÿ
+@
+java:S1659*"%Declare "shangwu" on a separate line.(‰»ùžþÿÿÿÿ
+?
+java:S1659*"$Declare "doctor" on a separate line.(‰»ùžþÿÿÿÿ
+>
+java:S1659*"#Declare "title" on a separate line.(‰»ùžþÿÿÿÿ
+=
+java:S1659-"(Declare "patientSex" on a separate line.(¨‘·E
+?
+java:S1659-"*Declare "patientPhone" on a separate line.(¨‘·E
+B
+java:S1659-"-Declare "patientIdNumber" on a separate line.(¨‘·E

@@ -1,0 +1,30 @@
+
+a	java:S101!"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(„‘«}
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(İãc
+Y
+java:S1128
+">Remove this unused import 'android.content.pm.PackageManager'.(€®¥õÿÿÿÿÿ
+F
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ
+W
+java:S1128"ARemove this unused import 'android.util.AndroidRuntimeException'.(ìÒ×Î
+H
+java:S1128"-Remove this unused import 'android.Manifest'.(¦øïúÿÿÿÿ
+P
+java:S1128"5Remove this unused import 'android.view.MotionEvent'.(˜šËŞúÿÿÿÿ
+I
+java:S1128".Remove this unused import 'android.view.View'.(Ø½­äşÿÿÿÿ
+[
+java:S1128"@Remove this unused import 'androidx.core.content.ContextCompat'.(üäÂùÿÿÿÿ
+S
+java:S1128"=Remove this unused import 'androidx.core.app.ActivityCompat'.(ş¤—²
+j
+java:S1128"ORemove this unused import 'com.example.medicalhlepers.drugQuery.DrugQueryMain'.(¨÷øşÿÿÿÿ
+k
+java:S1450&"URemove the "button" field and declare it as a local variable in the relevant methods.(ÈòÉ¹
+o
+java:S2293="YReplace the type specification in this constructor call with the diamond operator ("<>").(ì¼§ù
+@
+java:S1068$"+Remove this unused "context" private field.(êİç
+@
+java:S1068&"*Remove this unused "button" private field.(ÈòÉ¹

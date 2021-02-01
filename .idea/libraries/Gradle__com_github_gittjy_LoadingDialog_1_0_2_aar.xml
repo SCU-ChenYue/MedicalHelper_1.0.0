@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.gittjy:LoadingDialog:1.0.2@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/caches/transforms-2/files-2.1/c21d96832b124cacdfccfaea188dc1b7/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/caches/transforms-2/files-2.1/c21d96832b124cacdfccfaea188dc1b7/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/caches/modules-2/files-2.1/com.github.gittjy/LoadingDialog/1.0.2/e2fee3e168f53e5c59b3db2cde3c199f1727d201/LoadingDialog-1.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

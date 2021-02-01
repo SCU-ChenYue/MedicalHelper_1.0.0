@@ -1,0 +1,25 @@
+
+]
+java:S2184G"BCast one of the operands of this addition operation to a "double".(£óÍêÿÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(šßŞ•
+M
+java:S1128"7Remove this unused import 'android.view.WindowManager'.(Ü³‹Å
+I
+java:S1128	".Remove this unused import 'android.view.View'.(Ø½­äşÿÿÿÿ
+h
+java:S3776-"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(ôó§è
+L
+java:S1128"1Remove this unused import 'android.widget.Toast'.(©›ïÍúÿÿÿÿ
+Z
+java:S3358R"DExtract this nested ternary operation into an independent statement.(«àÄ™
+_
+java:S3358S"DExtract this nested ternary operation into an independent statement.(şØìŸıÿÿÿÿ
+T
+java:S1128"9Remove this unused import 'com.example.medicalhelpers.R'.(¶§ğ·ıÿÿÿÿ
+[
+java:S1874)"@Remove this use of "getScaledPagingTouchSlop"; it is deprecated.(ÉÅµ„øÿÿÿÿ
+7	java:S1310""Add a default case to this switch.(úé¢å
+N
+java:S1128"3Remove this unused import 'android.graphics.Color'.(øãíòşÿÿÿÿ
+N
+java:S1128"8Remove this unused import 'android.view.LayoutInflater'.(À¯ÑÇ

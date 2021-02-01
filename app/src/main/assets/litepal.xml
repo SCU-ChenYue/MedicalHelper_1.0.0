@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<litepal>
+    <dbname value="HospitalMessage"></dbname>
+    <version value="14"></version>
+
+    <list>
+        <mapping class="com.example.medicalhlepers.HospitalAddress.HosAddre"/>
+        <mapping class="com.example.medicalhlepers.Doctor.Doctor"/>
+        <mapping class="com.example.medicalhlepers.PersonalInformation.PersonalMessageStore"/>
+        <mapping class="com.example.medicalhlepers.ChatRoom.Msg"/>
+        <mapping class="com.example.medicalhlepers.AIdiagnose.Setting"/>
+    </list>
+</litepal>

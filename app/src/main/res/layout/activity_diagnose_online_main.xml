@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context="com.example.medicalhlepers.DiagnoseOnline.DiagnoseOnlineMain">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:paddingTop="5dp"
+        android:paddingBottom="5dp"
+        android:background="#1296DB"
+        android:id="@+id/relativeLayout1">
+
+
+        <LinearLayout
+            android:id="@+id/header_layout_lift"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:gravity="center_vertical"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="20dp"
+                android:layout_marginLeft="15dp"
+                android:layout_marginTop="3dp"
+                android:layout_marginBottom="3dp"
+                android:src="@drawable/back_icon" />
+
+            <TextView
+                android:id="@+id/header_text_lift"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingLeft="3dp"
+                android:layout_marginRight="15dp"
+                android:gravity="center_vertical"
+                android:text="返回"
+                android:textColor="#ffffff" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/header_layout"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@drawable/recommend_search_edit_shape"
+            android:layout_weight="1"
+            android:gravity="center" >
+
+            <TextView
+                android:id="@+id/header_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="3dp"
+                android:layout_weight="0"
+                android:layout_marginBottom="3dp" />
+
+            <TextView
+                android:id="@+id/auto_edit"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="3"
+                android:background="#ffffff"
+                android:layout_marginRight="10dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="5dp"
+                android:singleLine="true"
+                android:hint="请搜索医生"
+                android:textColor="#525252" />
+
+            <ImageView
+                android:id="@+id/ivDeleteText"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:layout_weight="1"
+                android:paddingRight="7dp"
+                android:layout_gravity="center_vertical"
+                android:src="@drawable/delete_icon" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:gravity="right" >
+
+            <TextView
+                android:id="@+id/searchbutton"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:gravity="center_vertical"
+                android:layout_marginRight="15dp"
+                android:layout_marginLeft="15dp"
+                android:layout_marginTop="3dp"
+                android:layout_marginBottom="3dp"
+                android:text="搜索"
+                android:textColor="#ffffff" />
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="42dp"
+        android:orientation="horizontal"
+        android:background="@color/white">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="热门科室、医院"
+            android:textColor="#000000"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="15dp"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:background="@color/white"
+            android:layout_marginTop="5dp">
+
+            <Button
+                android:layout_width="80dp"
+                android:layout_height="30dp"
+                android:layout_gravity="center_vertical"
+                android:background="#1296DB"
+                android:id="@+id/but1"
+                android:layout_marginLeft="10dp"
+                android:text="乳腺外科"
+                android:textColor="#1296db"/>
+
+            <Button
+                android:layout_width="50dp"
+                android:layout_height="30dp"
+                android:layout_gravity="center_vertical"
+                android:background="#1296DB"
+                android:id="@+id/but2"
+                android:layout_marginLeft="16dp"
+                android:text="全科"
+                android:textColor="#1296db" />
+
+            <Button
+                android:layout_width="80dp"
+                android:layout_height="30dp"
+                android:layout_gravity="center_vertical"
+                android:background="#1296DB"
+                android:id="@+id/but3"
+                android:layout_marginLeft="17dp"
+                android:text="内分泌科"
+                android:textColor="#1296db"/>
+
+            <Button
+                android:id="@+id/but4"
+                android:layout_width="80dp"
+                android:layout_height="30dp"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="19dp"
+                android:background="#1296DB"
+                android:text="呼吸内科"
+                android:textColor="#1296db"
+                android:layout_marginRight="3dp"/>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:background="@color/white"
+            android:orientation="horizontal">
+            <Button
+                android:layout_width="155dp"
+                android:layout_height="30dp"
+                android:id="@+id/but5"
+                android:text="四川大学华西医院"
+                android:background="#1296DB"
+                android:layout_gravity="center_vertical"
+                android:textColor="#1296db"
+                android:layout_marginLeft="15dp"/>
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="30dp"
+                android:id="@+id/but6"
+                android:text="耳鼻咽喉科"
+                android:background="#1296DB"
+                android:layout_gravity="center_vertical"
+                android:textColor="#1296db"
+                android:layout_marginLeft="20dp"/>
+
+            <Button
+                android:layout_width="50dp"
+                android:layout_height="30dp"
+                android:textColor="#1296DB"
+                android:background="#1296DB"
+                android:text="全部"
+                android:id="@+id/but7"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="20dp"/>
+
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="42dp"
+        android:orientation="horizontal"
+        android:background="@color/white">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="名医推荐"
+            android:textColor="#000000"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="15dp"/>
+    </LinearLayout>
+
+    <ListView
+        android:id="@+id/list_view16"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"></ListView>
+</LinearLayout>

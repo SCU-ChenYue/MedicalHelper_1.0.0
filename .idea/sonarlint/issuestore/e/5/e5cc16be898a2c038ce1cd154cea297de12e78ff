@@ -1,0 +1,52 @@
+
+{
+java:S1128"YRemove this unused import 'com.example.medicalhlepers.ThreeMainFragment.FragmentMessage'.(ñ¹À‡ùÿÿÿÿ8¨œ·¸¤.
+`
+java:S1124="EReorder the modifiers to comply with the Java Language Specification.(Åêë»ûÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ø‘Åİÿÿÿÿÿ
+o	java:S116:"SRename this field "ll_point" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´Ç¸÷8é”®¸¤.
+p
+java:S14501"[Remove the "locationView" field and declare it as a local variable in the relevant methods.(úâšB
+¤
+java:S1186Ò"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ø´´øÿÿÿÿ8Óö¢¸¤.
+r
+java:S14502"WRemove the "callView" field and declare it as a local variable in the relevant methods.(ùšÒ“üÿÿÿÿ
+x
+java:S1450;"VRemove the "getBack" field and declare it as a local variable in the relevant methods.(¨şŞÄıÿÿÿÿ8Ó´ƒ¤.
+{
+java:S14504"`Remove the "getChooselocation" field and declare it as a local variable in the relevant methods.(³±¿Úşÿÿÿÿ
+Q
+java:S1128 "/Remove this unused import 'org.json.JSONArray'.(¬¸Ê’üÿÿÿÿ8Ã²Ü¤Ÿ.
+s	java:S116>"RRename this field "tv_desc" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­ñÈßşÿÿÿÿ8¦«³¸¤.
+x
+java:S14503"]Remove the "chooselocation" field and declare it as a local variable in the relevant methods.(½ˆı¡ıÿÿÿÿ
+b
+java:S1874ş"?Remove this use of "setOnPageChangeListener"; it is deprecated.(ü£‚ıÿÿÿÿ8ğù°¸¤.
+¤
+java:S1186ã"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(™Î«şÿÿÿÿ8Óö¢¸¤.
+s
+java:S14505"]Remove the "departmentList" field and declare it as a local variable in the relevant methods.(Ö£¤ò
+:
+java:S1659G"%Declare "hosType" on a separate line.(’İšH
+x
+java:S14507"]Remove the "searchForPrice" field and declare it as a local variable in the relevant methods.(ŸûÜ†ÿÿÿÿÿ
+E
+java:S10689"0Remove this unused "priceInquiry" private field.(ñĞó
+x
+java:S14508"]Remove the "doctorListShow" field and declare it as a local variable in the relevant methods.(Ğ·¥éùÿÿÿÿ
+n
+java:S14506"XRemove the "tesekeshi" field and declare it as a local variable in the relevant methods.(‡±éğ
+f
+java:S1301K"KReplace this "switch" statement by "if" statements to increase readability.(ıŞ³‹ùÿÿÿÿ
+;
+java:S1659G"&Declare "hosAddre" on a separate line.(’İšH
+;
+java:S1659G"&Declare "hosLevel" on a separate line.(’İšH
+g
+java:S1301ë"KReplace this "switch" statement by "if" statements to increase readability.(×ö³–úÿÿÿÿ
+w
+java:S1450?"ZRemove the "imageResIds" field and declare it as a local variable in the relevant methods.(ÒÖùû8¢Ã¹¸¤.
+c
+java:S1192a"HDefine a constant instead of duplicating this literal "hosName" 8 times.(ôšÙ”úÿÿÿÿ
+d
+java:S2142Ï"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8ö»¦¸¤.

@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.carlos.voiceline:mylibrary:1.0.6@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/caches/transforms-2/files-2.1/c0ae1c5bff2c15dcd5ffa1033f1a2094/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/caches/transforms-2/files-2.1/c0ae1c5bff2c15dcd5ffa1033f1a2094/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/caches/modules-2/files-2.1/com.carlos.voiceline/mylibrary/1.0.6/fd3dda12babf4608109ca6dc1432ddd13d4a2075/mylibrary-1.0.6-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/caches/modules-2/files-2.1/com.carlos.voiceline/mylibrary/1.0.6/f0b6248117067fad061d961774feaf7a94b8ca2f/mylibrary-1.0.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

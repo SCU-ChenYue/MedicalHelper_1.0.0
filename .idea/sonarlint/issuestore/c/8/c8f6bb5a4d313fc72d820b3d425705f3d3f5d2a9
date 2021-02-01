@@ -1,0 +1,9 @@
+
+Q	java:S125"<This block of commented-out lines of code should be removed.(™ôİô
+Q	java:S125+"<This block of commented-out lines of code should be removed.(¥îæ
+<	java:S131#""Add a default case to this switch.(øå´¡ÿÿÿÿÿ
+Q	java:S125&"<This block of commented-out lines of code should be removed.(™ôİô
+f
+java:S1301#"KReplace this "switch" statement by "if" statements to increase readability.(øå´¡ÿÿÿÿÿ
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ß×ñi
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Š·½‡

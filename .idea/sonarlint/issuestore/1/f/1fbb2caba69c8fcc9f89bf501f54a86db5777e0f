@@ -1,0 +1,60 @@
+
+Ÿ
+java:S1186¦"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‰ÁÕ–8‘â¾È–.
+L
+java:S1905´")Remove this unnecessary cast to "double".(î¬İøûÿÿÿÿ8ºÃ–.
+f
+java:S1192U"IDefine a constant instead of duplicating this literal "setting1" 3 times.(î’èÛ8‘â¾È–.
+u
+java:S3776ÿ"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(²·Ö“şÿÿÿÿ8ÆººÉ–.
+\
+java:S1854¹"9Remove this useless assignment to local variable "timer".(ñò”°úÿÿÿÿ8ÆººÉ–.
+j
+java:S1192["MDefine a constant instead of duplicating this literal "levelPercent" 4 times.(“éÜ8‘â¾È–.
+{	java:S115C"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(×§Ö¯ùÿÿÿÿ8‘ÊÂÈ–.
+q
+java:S1192X"ODefine a constant instead of duplicating this literal "docchooseLevel" 3 times.(šÍûİıÿÿÿÿ8‘â¾È–.
+[	java:S106 "9Replace this use of System.out or System.err by a logger.(©¬èùÿÿÿÿ8ºÃ–.
+v
+java:S1192W"TDefine a constant instead of duplicating this literal "hospitalchooseLevel" 3 times.(›ëœ†øÿÿÿÿ8‘â¾È–.
+o
+java:S1128"RRemove this unused import 'com.example.medicalhlepers.BasicActivity.MainActivity'.(Å€êî8†êäÁ–.
+M
+java:S1481¹"*Remove this unused "timer" local variable.(ñò”°úÿÿÿÿ8ÆººÉ–.
+M
+java:S1128"0Remove this unused import 'org.litepal.LitePal'.(˜Ô‘Æ8†êäÁ–.
+m
+java:S1192"JDefine a constant instead of duplicating this literal "longitude" 3 times.(ìºåöøÿÿÿÿ8ºÃ–.
+Ÿ
+java:S1186ˆ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‰ÁÕ–8‘â¾È–.
+r
+java:S1192Z"PDefine a constant instead of duplicating this literal "distancePercent" 4 times.(›Öò›şÿÿÿÿ8‘â¾È–.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(©æı úÿÿÿÿ
+p
+java:S1192V"SDefine a constant instead of duplicating this literal "hospitalchooseType" 3 times.(ñë¢8‘â¾È–.
+u
+java:S1128"XRemove this unused import 'com.example.medicalhlepers.RecordHelper.AudioRecordActivity'.(úôöí8É¥»É–.
+¤
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ñ®çâùÿÿÿÿ8‘â¾È–.
+[
+java:S1128"9Remove this unused import 'org.litepal.crud.DataSupport'.(Äƒîûÿÿÿÿ8ùıÃ–.
+l
+java:S1192¦"IDefine a constant instead of duplicating this literal "location" 4 times.(¶°ê™üÿÿÿÿ8ºÃ–.
+k
+java:S1192Y"IDefine a constant instead of duplicating this literal "distance" 4 times.(›‚ŸÏüÿÿÿÿ8‘â¾È–.
+¤
+java:S1186Ÿ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ñ®çâùÿÿÿÿ8‘â¾È–.
+[
+java:S1854º"8Remove this useless assignment to local variable "task".(ÄÏ‰Êûÿÿÿÿ8ÆººÉ–.
+g
+java:S1192"IDefine a constant instead of duplicating this literal "latitude" 3 times.(»Ú²é8ºÃ–.
+|
+java:S1450;"ZRemove the "saveSetting" field and declare it as a local variable in the relevant methods.(‘”çÿıÿÿÿÿ8ùıÃ–.
+x
+java:S1450:"VRemove the "getBack" field and declare it as a local variable in the relevant methods.(¨şŞÄıÿÿÿÿ8‚£õ…¤.
+n
+java:S1192Î"PDefine a constant instead of duplicating this literal "currentLocation" 5 times.(ÎÉÇá8è§åÃ–.
+U
+java:S1135½"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ8ÆººÉ–.
+L
+java:S1481º")Remove this unused "task" local variable.(ÄÏ‰Êûÿÿÿÿ8ÆººÉ–.

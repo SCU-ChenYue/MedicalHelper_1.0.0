@@ -1,0 +1,20 @@
+
+Y
+java:S1128"7Remove this unused import 'android.widget.BaseAdapter'.(ŒŸà“ıÿÿÿÿ8 ÿ·À .
+k
+java:S1128"NRemove this unused import 'com.example.medicalhlepers.Adapter.CommentAdapter'.(ğÉ„ß8´¿À .
+¤
+java:S1186¼"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ê¥¾àûÿÿÿÿ8²ŠÆ¸ .
+J
+java:S1185Y"(Remove this method to simply inherit it.(©¤„Íıÿÿÿÿ8åİ”¶ .
+c
+java:S1192f"FDefine a constant instead of duplicating this literal "phone" 5 times.(¾±”â8šÕ‚½ .
+o
+java:S1128"RRemove this unused import 'com.example.medicalhlepers.BasicActivity.MainActivity'.(Å€êî8Ê¸šÀ .
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.( ÷Àöıÿÿÿÿ
+Ÿ
+java:S1186·"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(«û³±8²ŠÆ¸ .
+J
+java:S1068/"(Remove this unused "flag" private field.(ˆòåİÿÿÿÿÿ8ñ€Ş¸ .
+9
+java:S1116J"Remove this empty statement.(¿ñì8ÂÍ–Â .

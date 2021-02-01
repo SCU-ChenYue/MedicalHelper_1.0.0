@@ -1,0 +1,54 @@
+
+b
+java:S1192X"GDefine a constant instead of duplicating this literal "status" 3 times.(à‡É ÿÿÿÿÿ
+D
+java:S1068E".Remove this unused "unReadText" private field.(ìŒ£È
+T	java:S106¸"9Replace this use of System.out or System.err by a logger.(àºÜþÿÿÿÿ
+z
+java:S1450>"_Remove the "textView_duifang" field and declare it as a local variable in the relevant methods.(Úö¡³üÿÿÿÿ
+o
+java:S1450E"YRemove the "unReadText" field and declare it as a local variable in the relevant methods.(ìŒ£È
+K
+java:S1172»"/Remove this unused method parameter "hosPhone".(ŸÊŽšùÿÿÿÿ
+—
+java:S1186^"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¡é††
+q
+java:S1450C"VRemove the "moreMsg" field and declare it as a local variable in the relevant methods.(ú“”¬ÿÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(øÖšŠ
+t	java:S116?"ZRename this field "textView_status" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼‡Øþúÿÿÿÿ
+L
+java:S1854ü"5Remove this useless assignment to local variable "j".(û°»·
+T	java:S106ž"9Replace this use of System.out or System.err by a logger.(µ£Ä“ùÿÿÿÿ
+Q	java:S125É"<This block of commented-out lines of code should be removed.( ›Ú.
+g
+java:S1301È"KReplace this "switch" statement by "if" statements to increase readability.(×ö³–úÿÿÿÿ
+s
+java:S1450B"XRemove the "callPhone" field and declare it as a local variable in the relevant methods.(øœÀÍúÿÿÿÿ
+n
+java:S14503"SRemove the "send" field and declare it as a local variable in the relevant methods.(óø¶Šøÿÿÿÿ
+=
+java:S1481ü"&Remove this unused "j" local variable.(û°»·
+?
+java:S1185Ç"(Remove this method to simply inherit it.(ÍÙ÷¢
+u	java:S1169"[Rename this field "FRAME_QUEUE_SIZE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”£Õîþÿÿÿÿ
+u	java:S116>"[Rename this field "textView_duifang" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Úö¡³üÿÿÿÿ
+7
+java:S1116?"Remove this empty statement.(¼‡Øþúÿÿÿÿ
+T	java:S106Á"9Replace this use of System.out or System.err by a logger.(¢Ëé•ÿÿÿÿÿ
+T	java:S106°"9Replace this use of System.out or System.err by a logger.(Ôñ®²ûÿÿÿÿ
+W	java:S125·"<This block of commented-out lines of code should be removed.(—˜‰øÿÿÿÿ
+W	java:S125À"<This block of commented-out lines of code should be removed.(óè¹üÿÿÿÿ
+D
+java:S1121†".Extract the assignment out of this expression.(ä·ç
+i
+java:S14504"SRemove the "edit" field and declare it as a local variable in the relevant methods.(ß“Æ™
+t	java:S1168"ZRename this field "CONNECT_TIMEOUT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥õ›Ÿúÿÿÿÿ
+E
+java:S1128&"/Remove this unused import 'java.util.Iterator'.(¥ÍòÕ
+t
+java:S1450:"YRemove the "wsListener" field and declare it as a local variable in the relevant methods.(çú×ùùÿÿÿÿ
+W	java:S125¯"<This block of commented-out lines of code should be removed.(¯Œäèüÿÿÿÿ
+>
+java:S10684"(Remove this unused "edit" private field.(ß“Æ™
+c
+java:S1192M"HDefine a constant instead of duplicating this literal "duifang" 3 times.(ÔÖúËþÿÿÿÿ

@@ -1,0 +1,16 @@
+
+H
+java:S1481/"+Remove this unused "intent" local variable.(å¯Ô«8ÕÚ¸™ .
+c
+java:S2142I"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8§ÎÀ› .
+z
+java:S1450&"XRemove the "backImage" field and declare it as a local variable in the relevant methods.(ƒğó¨øÿÿÿÿ8¨‘Â .
+W
+java:S1854/":Remove this useless assignment to local variable "intent".(å¯Ô«8ÕÚ¸™ .
+y
+java:S1450#"WRemove the "listView" field and declare it as a local variable in the relevant methods.(¯¤½ñûÿÿÿÿ8òªè™ .
+|
+java:S1450%"ZRemove the "askQuestion" field and declare it as a local variable in the relevant methods.(ƒÚ³ıÿÿÿÿ8ø©”œ .
+l
+java:S1128"ORemove this unused import 'com.example.medicalhlepers.Adapter.QuestionAdapter'.(›‚¼„8ÂÆÍ› .
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.( ÷Àöıÿÿÿÿ

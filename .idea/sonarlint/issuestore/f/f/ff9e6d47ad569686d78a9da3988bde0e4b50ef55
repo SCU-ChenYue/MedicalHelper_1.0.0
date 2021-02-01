@@ -1,0 +1,57 @@
+
+Q
+java:S1141†"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+I
+java:S1659’"&Declare "province" on a separate line.(ƒÛŠõşÿÿÿÿ8…–òË”.
+B
+java:S1659ÿ"&Declare "birthday" on a separate line.(Å’¼Åøÿÿÿÿ
+i
+java:S14501"SRemove the "back" field and declare it as a local variable in the relevant methods.(Ä­ìé
+S
+java:S1128"1Remove this unused import 'java.io.Serializable'.(èãîÂÿÿÿÿÿ8™œÂÁ–.
+j	java:S1164"PRename this field "Regis" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ö“œÕûÿÿÿÿ
+o
+java:S14504"TRemove the "Regis" field and declare it as a local variable in the relevant methods.(ö“œÕûÿÿÿÿ
+@
+java:S1659’"$Declare "idType" on a separate line.(ƒÛŠõşÿÿÿÿ
+@
+java:S1659ÿ"$Declare "idType" on a separate line.(Å’¼Åøÿÿÿÿ
+p
+java:S14502"SRemove the "pref" field and declare it as a local variable in the relevant methods.(†”Á¾8¸Ş–¢.
+n
+java:S14503"SRemove the "list" field and declare it as a local variable in the relevant methods.(Êª‡õıÿÿÿÿ
+p
+java:S1450+"ZRemove the "loginButton" field and declare it as a local variable in the relevant methods.(à…÷Ÿ
+E
+java:S1659’""Declare "city" on a separate line.(ƒÛŠõşÿÿÿÿ8…–òË”.
+F
+java:S1172á"(Remove this unused method parameter "v".(‹¡ã¯8ñÕÁ‰¤.
+t
+java:S3776;"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(¨Œşÿÿÿÿ8Àç›–¢.
+B
+java:S1659’"&Declare "idNumber" on a separate line.(ƒÛŠõşÿÿÿÿ
+I
+java:S1659’"&Declare "district" on a separate line.(ƒÛŠõşÿÿÿÿ8…–òË”.
+=
+java:S1659ÿ"!Declare "sex" on a separate line.(Å’¼Åøÿÿÿÿ
+P	java:S125r"<This block of commented-out lines of code should be removed.(ë­£7
+M
+java:S1144í"6Remove this unused private "initPersonalInfor" method.(”ñ
+a
+java:S1192c"FDefine a constant instead of duplicating this literal "phone" 3 times.(Ş¡û¬ıÿÿÿÿ
+B
+java:S1659’"&Declare "birthday" on a separate line.(ƒÛŠõşÿÿÿÿ
+Q
+java:S1128	"/Remove this unused import 'android.os.Message'.(¤ªæéıÿÿÿÿ8¨ğ¡–¢.
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¬öß
+r
+java:S1450*"]Remove the "registerButton" field and declare it as a local variable in the relevant methods.(›­®d
+^
+java:S1128
+"ARemove this unused import 'android.preference.PreferenceManager'.(ìùÖõ8œ•’–¢.
+?
+java:S1185Ò"(Remove this method to simply inherit it.(Ù«µ§
+B
+java:S1659ÿ"&Declare "idNumber" on a separate line.(Å’¼Åøÿÿÿÿ
+=
+java:S1659’"!Declare "sex" on a separate line.(ƒÛŠõşÿÿÿÿ

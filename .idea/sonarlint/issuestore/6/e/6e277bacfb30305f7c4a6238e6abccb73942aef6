@@ -1,0 +1,39 @@
+
+f
+java:S13016"KReplace this "switch" statement by "if" statements to increase readability.(ıŞ³‹ùÿÿÿÿ
+_
+java:S1192"HDefine a constant instead of duplicating this literal "hosName" 3 times.(óÀ‰©
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(€ÜÀ–
+?
+java:S1148¦"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+P
+java:S1128"5Remove this unused import 'android.widget.ImageView'.(ú¯ëàüÿÿÿÿ
+g
+java:S1128"RRemove this unused import 'com.example.medicalhlepers.BasicActivity.HospitalList'.(‘ğœI
+s
+java:S1450."]Remove the "editTextSearch" field and declare it as a local variable in the relevant methods.(ºîÔò
+q
+java:S14500"VRemove the "findDoc" field and declare it as a local variable in the relevant methods.( ø³÷ùÿÿÿÿ
+k
+java:S1450/"VRemove the "findHos" field and declare it as a local variable in the relevant methods.(ÿÆŠ.
+n
+java:S14501"XRemove the "searchHos" field and declare it as a local variable in the relevant methods.(÷Ç½
+o
+java:S14502"ZRemove the "yuyueRecord" field and declare it as a local variable in the relevant methods.(¬çÎ
+
+l	java:S116-"RRename this field "SUCCESS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚ ˆµüÿÿÿÿ
+<
+java:S1170-"!Make this final field static too.(‚ ˆµüÿÿÿÿ
+—
+java:S1186S"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¡é††
+C
+java:S1185x"(Remove this method to simply inherit it.(µ‚µõıÿÿÿÿ
+C
+java:S1185|"(Remove this method to simply inherit it.(Ö“˜½úÿÿÿÿ
+L
+java:S1854”"5Remove this useless assignment to local variable "j".(û°»·
+=
+java:S1481”"&Remove this unused "j" local variable.(û°»·
+U
+java:S3398¬">Move this method into the anonymous class declared at line 52.(ÄÛÆ¬
+Q	java:S125X"<This block of commented-out lines of code should be removed.(ŞĞâ

@@ -1,0 +1,13 @@
+
+K
+java:S1128"5Remove this unused import 'com.bumptech.glide.Glide'.(Ñˆ…Ë
+P
+java:S1128	"5Remove this unused import 'android.widget.ImageView'.(ú¯ëàüÿÿÿÿ
+k	java:S117K"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œ‚†§øÿÿÿÿ
+r	java:S116"XRename this field "drug_itemList" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’þ„Úþÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(£Ðäû
+k	java:S117;"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œ‚†§øÿÿÿÿ
+h
+java:S1128"KRemove this unused import 'com.example.medicalhlepers.ChatRoom.MsgAdapter'.(àä‡’8³¦ëî“.
+N
+java:S1128"8Remove this unused import 'androidx.annotation.NonNull'.(ˆÛúÜ

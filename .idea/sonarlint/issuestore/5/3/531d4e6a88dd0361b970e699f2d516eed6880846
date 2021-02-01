@@ -1,0 +1,66 @@
+
+{
+java:S1450."^Remove the "patientBirthday" field and declare it as a local variable in the relevant methods.(‚µÞ¦8Šˆ»õ’.
+u
+java:S1450("_Remove the "patientPhoneText" field and declare it as a local variable in the relevant methods.(ý±¿ð
+f
+java:S13012"KReplace this "switch" statement by "if" statements to increase readability.(ýÞ³‹ùÿÿÿÿ
+C
+java:S1659+"(Declare "department" on a separate line.(‰»ùžþÿÿÿÿ
+p
+java:S1450%"ZRemove the "hosNameText" field and declare it as a local variable in the relevant methods.(êâ·Œ
+v
+java:S1450 "[Remove the "hospitalText" field and declare it as a local variable in the relevant methods.(ä¶Ðòúÿÿÿÿ
+r
+java:S1450)"\Remove the "patientIdText" field and declare it as a local variable in the relevant methods.(Øìƒš
+a
+java:S1192:"FDefine a constant instead of duplicating this literal "title" 3 times.(—ùÈìþÿÿÿÿ
+s
+java:S1450'"]Remove the "patientSexText" field and declare it as a local variable in the relevant methods.(œåÒí
+}
+java:S1450*"[Remove the "submitButton" field and declare it as a local variable in the relevant methods.(öìªºûÿÿÿÿ8¬¬çºŸ.
+?
+java:S1659+"$Declare "doctor" on a separate line.(‰»ùžþÿÿÿÿ
+@
+java:S1659."*Declare "patientPhone" on a separate line.(‚µÞ¦
+s
+java:S1450!"]Remove the "departmentText" field and declare it as a local variable in the relevant methods.(†ð³ñ
+]
+java:S11929"GDefine a constant instead of duplicating this literal "doctor" 3 times.(øàúÉ
+>
+java:S1659+"#Declare "title" on a separate line.(‰»ùžþÿÿÿÿ
+H
+java:S1128"-Remove this unused import 'org.w3c.dom.Text'.(¶Äè‹þÿÿÿÿ
+_
+java:S11926"IDefine a constant instead of duplicating this literal "hospital" 3 times.(‰†«Ÿ
+a
+java:S11927"KDefine a constant instead of duplicating this literal "department" 3 times.(ºõò÷
+A
+java:S1659+"&Declare "hospital" on a separate line.(‰»ùžþÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(è÷’Æ
+P
+java:S1068."3Remove this unused "patientBirthday" private field.(‚µÞ¦8Šˆ»õ’.
+r
+java:S1450""WRemove the "dateText" field and declare it as a local variable in the relevant methods.(‹â“éøÿÿÿÿ
+v
+java:S1450$"[Remove the "hosTitleText" field and declare it as a local variable in the relevant methods.(˜áÒÉûÿÿÿÿ
+C
+java:S1659."-Declare "patientIdNumber" on a separate line.(‚µÞ¦
+]
+java:S11928"HDefine a constant instead of duplicating this literal "shangwu" 3 times.(Ñ÷µ*
+y
+java:S1450&"^Remove the "patientNameText" field and declare it as a local variable in the relevant methods.(È»¾Ìùÿÿÿÿ
+>
+java:S1659."(Declare "patientSex" on a separate line.(‚µÞ¦
+~
+java:S1450-"cRemove the "personalMessageStore" field and declare it as a local variable in the relevant methods.(¦´ÞÉùÿÿÿÿ
+
+java:S1450,"dRemove the "personalMessageStores" field and declare it as a local variable in the relevant methods.(‹ù’ôûÿÿÿÿ
+@
+java:S1659+"%Declare "shangwu" on a separate line.(‰»ùžþÿÿÿÿ
+J
+java:S1659."-Declare "patientBirthday" on a separate line.(‚µÞ¦8Ûù¶õ’.
+u
+java:S1450#"ZRemove the "shangwuText" field and declare it as a local variable in the relevant methods.(µÔÃÿýÿÿÿÿ
+y
+java:S1450"WRemove the "docPrice" field and declare it as a local variable in the relevant methods.(…ê¿Üüÿÿÿÿ8óÂÞºŸ.

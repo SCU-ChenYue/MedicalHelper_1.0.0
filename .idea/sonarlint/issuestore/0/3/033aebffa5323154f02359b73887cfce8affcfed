@@ -1,0 +1,49 @@
+
+{
+java:S14508"YRemove the "hosAddress" field and declare it as a local variable in the relevant methods.(èÁÄùÿÿÿÿ8å„¢¸–.
+v
+java:S14509"ZRemove the "hosDistance" field and declare it as a local variable in the relevant methods.(Ìçß8å„¢¸–.
+]	java:S125B"<This block of commented-out lines of code should be removed.(õñØ²øÿÿÿÿ8µ½Ï¸–.
+^	java:S125ƒ"<This block of commented-out lines of code should be removed.(€¡Ï¥ûÿÿÿÿ8å„¢¸–.
+n
+java:S1301ò"KReplace this "switch" statement by "if" statements to increase readability.(×ö³–úÿÿÿÿ8µ½Ï¸–.
+r
+java:S1128&"URemove this unused import 'com.example.medicalhlepers.BasicActivity.HospitalMessage'.(òÛæ8†êÒ‹¤.
+}
+java:S14507"[Remove the "hospitalName" field and declare it as a local variable in the relevant methods.(›ÜÑ¸şÿÿÿÿ8µ½Ï¸–.
+w
+java:S1450:"ZRemove the "routeButton" field and declare it as a local variable in the relevant methods.(ÒŠ­¤8å„¢¸–.
+X	java:S125x"<This block of commented-out lines of code should be removed.(ìÕüæ8µ½Ï¸–.
+w
+java:S1450;"ZRemove the "yuyueButton" field and declare it as a local variable in the relevant methods.(õ…¢„8ì¹Øƒ¤.
+]	java:S125q"<This block of commented-out lines of code should be removed.(€¡Ï¥ûÿÿÿÿ8×¿ã¸–.
+q	java:S116<"URename this field "hospital_2" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(í§‰ß8­õ‹¤.
+m
+java:S1192L"PDefine a constant instead of duplicating this literal "currentLocation" 4 times.(„ß·ë8áÙÑ—¢.
+R
+java:S1481 "/Remove this unused "currentLat" local variable.(ªÌüÿÿÿÿ8µ½Ï¸–.
+a
+java:S1854 ">Remove this useless assignment to local variable "currentLat".(ªÌüÿÿÿÿ8µ½Ï¸–.
+;
+java:S1128"Remove this duplicated import.(€¶£î8å„¢¸–.
+j	java:S1166"NRename this field "TAG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Å½öŞ8µ½Ï¸–.
+R
+java:S1481¡"/Remove this unused "currentLon" local variable.(¿‰î¢øÿÿÿÿ8å„¢¸–.
+^	java:S125¢"<This block of commented-out lines of code should be removed.(Òƒ±ûÿÿÿÿ8µ½Ï¸–.
+€
+java:S14505"^Remove the "mLocationOption" field and declare it as a local variable in the relevant methods.(“˜’Óşÿÿÿÿ8µ½Ï¸–.
+@
+java:S1128"Remove this duplicated import.(°şÊóøÿÿÿÿ8å„¢¸–.
+L
+java:S1128"/Remove this unused import 'android.os.Handler'.(ûÛ’¡8å„¢¸–.
+a
+java:S1854¡">Remove this useless assignment to local variable "currentLon".(¿‰î¢øÿÿÿÿ8å„¢¸–.
+y
+java:S1450-"WRemove the "distance" field and declare it as a local variable in the relevant methods.(İıõ½ûÿÿÿÿ8£È…Œ¤.
+t
+java:S1450,"WRemove the "hosAddre" field and declare it as a local variable in the relevant methods.(Ş®ë÷8†İµŒ¤.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(©æı úÿÿÿÿ
+U
+java:S1128"3Remove this unused import 'android.graphics.Color'.(øãíòşÿÿÿÿ8å„¢¸–.
+{
+java:S1104š"]Make mLocationListener a static final constant or non-public and provide accessors if needed.( úü8µ½Ï¸–.

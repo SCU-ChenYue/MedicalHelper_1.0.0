@@ -1,0 +1,243 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:fresco="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+            <LinearLayout
+                android:background="#1296DB"
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="150dp">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="44dp"
+                    android:background="#1296DB">
+
+                    <ImageView
+                        android:id="@+id/img_back"
+                        android:layout_width="44dp"
+                        android:layout_height="44dp"
+                        android:scaleType="center"
+                        android:src="@drawable/icon_back_white" />
+
+                </RelativeLayout>
+
+                <LinearLayout
+                    android:orientation="vertical" android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <RelativeLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="95dp">
+
+                        <com.facebook.drawee.view.SimpleDraweeView
+                            android:id="@+id/imageView8"
+                            android:layout_width="65dp"
+                            android:layout_height="75dp"
+                            android:layout_alignParentStart="true"
+                            android:layout_alignParentLeft="true"
+                            android:layout_centerVertical="true"
+                            android:layout_marginStart="16dp"
+                            android:layout_marginLeft="16dp"
+                            fresco:roundAsCircle="true"
+                            fresco:roundingBorderWidth="1dp"
+                            android:src="@mipmap/doc1" />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="10dp"
+                            android:text="张传外"
+                            android:textSize="17sp"
+                            android:textColor="#ffffff"
+                            android:id="@+id/textView21"
+                            android:layout_alignTop="@+id/imageView8"
+                            android:layout_toRightOf="@+id/imageView8"
+                            android:layout_toEndOf="@+id/imageView8" />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="6dp"
+                            android:text="主任医师"
+                            android:textColor="#ffffff"
+                            android:textSize="13sp"
+                            android:id="@+id/textView22"
+                            android:layout_alignBottom="@+id/textView21"
+                            android:layout_toRightOf="@+id/textView21"
+                            android:layout_toEndOf="@+id/textView21" />
+
+                        <TextView
+                            android:id="@+id/textView23"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_alignStart="@+id/textView21"
+                            android:layout_alignLeft="@+id/textView21"
+                            android:layout_alignBottom="@+id/imageView8"
+                            android:layout_marginStart="3dp"
+                            android:layout_marginLeft="3dp"
+                            android:layout_marginBottom="30dp"
+                            android:text="四川大学华西医院"
+                            android:textColor="#ffffff"
+                            android:textSize="13sp" />
+
+                        <TextView
+                            android:id="@+id/textView24"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_alignStart="@+id/textView23"
+                            android:layout_alignLeft="@+id/textView23"
+                            android:layout_alignTop="@+id/textView23"
+                            android:layout_marginStart="0dp"
+                            android:layout_marginLeft="0dp"
+                            android:layout_marginTop="23dp"
+                            android:text="乳腺外科专科门诊"
+                            android:textColor="#ffffff"
+                            android:textSize="13sp" />
+
+                        <ImageView
+                            android:layout_width="30dp"
+                            android:layout_height="30dp"
+                            android:id="@+id/img_follow"
+                            android:layout_marginTop="17dp"
+                            android:layout_alignParentEnd="true"
+                            android:layout_marginRight="20dp"
+                            android:src="@drawable/shoucang" />
+
+                        <ImageView
+                            android:layout_width="27dp"
+                            android:layout_height="27dp"
+                            android:id="@+id/img_zixun"
+                            android:layout_marginTop="19dp"
+                            android:layout_toLeftOf="@id/img_follow"
+                            android:layout_marginRight="15dp"
+                            android:src="@drawable/zixun" />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:textColor="@color/white"
+                            android:textSize="11sp"
+                            android:text="咨询"
+                            android:layout_below="@id/img_zixun"
+                            android:layout_alignParentEnd="true"
+                            android:layout_marginRight="66dp"
+                            android:layout_marginTop="1dp"/>
+
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:textColor="@color/white"
+                            android:text="未关注"
+                            android:id="@+id/guanzhu"
+                            android:textSize="11sp"
+                            android:layout_below="@id/img_follow"
+                            android:layout_alignParentEnd="true"
+                            android:layout_marginRight="18dp"/>
+
+                    </RelativeLayout>
+                </LinearLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="55dp"
+                android:background="#b8dfcb"
+                android:orientation="horizontal"
+                android:padding="10dp">
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:orientation="vertical">
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="服务次数"/>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="3005"
+                        android:textColor="#ff9000" />
+                </LinearLayout>
+
+                <View
+                    android:layout_width="1dp"
+                    android:layout_height="match_parent"
+                    android:background="@color/white"
+                    android:layout_marginTop="3dp"
+                    android:layout_marginBottom="3dp"/>
+
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:orientation="vertical">
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:gravity="center"
+                        android:text="粉丝"/>
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="243"
+                        android:textColor="#ff9000" />
+
+                </LinearLayout>
+
+                <View
+                    android:layout_width="1dp"
+                    android:layout_height="match_parent"
+                    android:background="@color/white"
+                    android:layout_marginTop="3dp"
+                    android:layout_marginBottom="3dp"/>
+
+            </LinearLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:background="#F2F2F2"
+                android:layout_height="3dp"/>
+
+            <cn.carbs.android.expandabletextview.library.ExpandableTextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:lineSpacingExtra="3dp"
+                android:textSize="15sp"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="栗震亚，男，1981年华西医科大学口腔医学院研究生毕业，硕士。国际牙医师学院院士，甘肃省优秀专家。主任医师，教授，兰州大学硕士研究生导师，中华医学会甘肃省分会副会长。"
+                android:id="@+id/jianjie" />
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="10dp"
+                android:layout_marginTop="3dp"
+                android:background="#F2F2F2" />
+
+            <ListView
+                android:layout_width="match_parent"
+                android:layout_height="400dp"
+                android:id="@+id/answerList"/>
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</LinearLayout>

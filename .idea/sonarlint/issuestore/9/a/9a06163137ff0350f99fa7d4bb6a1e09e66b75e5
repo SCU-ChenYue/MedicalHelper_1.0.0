@@ -1,0 +1,31 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ø‘ÅÝÿÿÿÿÿ
+>
+java:S1148|"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+P
+java:S1128"5Remove this unused import 'android.widget.ImageView'.(ú¯ëàüÿÿÿÿ
+`
+java:S1128"ERemove this unused import 'com.example.medicalhlepers.Doctor.Doctor'.(Ä©ƒîÿÿÿÿÿ
+^
+java:S1128"CRemove this unused import 'android.database.sqlite.SQLiteDatabase'.(ãµèÈùÿÿÿÿ
+P
+java:S1128":Remove this unused import 'android.content.ContentValues'.(å’µÞ
+J
+java:S1128"4Remove this unused import 'android.widget.EditText'.(†Å›Ú
+r
+java:S1450)"WRemove the "dbHelper" field and declare it as a local variable in the relevant methods.(¾¶ƒüýÿÿÿÿ
+n
+java:S1450*"SRemove the "list" field and declare it as a local variable in the relevant methods.(Êª‡õýÿÿÿÿ
+v
+java:S1450&"[Remove the "mTextMessage" field and declare it as a local variable in the relevant methods.(×°¼ùøÿÿÿÿ
+<	java:S131;""Add a default case to this switch.(øå´¡ÿÿÿÿÿ
+<
+java:S1659o"!Declare "sex" on a separate line.(Å’¼Åøÿÿÿÿ
+?
+java:S1659o"$Declare "idType" on a separate line.(Å’¼Åøÿÿÿÿ
+A
+java:S1659o"&Declare "idNumber" on a separate line.(Å’¼Åøÿÿÿÿ
+A
+java:S1659o"&Declare "birthday" on a separate line.(Å’¼Åøÿÿÿÿ
+K
+java:S1068&"0Remove this unused "mTextMessage" private field.(×°¼ùøÿÿÿÿ

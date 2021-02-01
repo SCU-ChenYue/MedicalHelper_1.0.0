@@ -1,0 +1,43 @@
+
+W	java:S125‡"<This block of commented-out lines of code should be removed.(óè¹üÿÿÿÿ
+h	java:S101³"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ıÓğÇıÿÿÿÿ
+D
+java:S1185Û"(Remove this method to simply inherit it.(µ‚µõıÿÿÿÿ
+S
+java:S1854|"=Remove this useless assignment to local variable "messages1".(Çİ„é
+u	java:S116@"[Rename this field "FRAME_QUEUE_SIZE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”£Õîşÿÿÿÿ
+<	java:S131z""Add a default case to this switch.(øãş•ÿÿÿÿÿ
+T	java:S106ç"9Replace this use of System.out or System.err by a logger.(µ£Ä“ùÿÿÿÿ
+t	java:S116?"ZRename this field "CONNECT_TIMEOUT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥õ›Ÿúÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(€ÜÀ–
+f
+java:S1301z"KReplace this "switch" statement by "if" statements to increase readability.(øãş•ÿÿÿÿÿ
+B
+java:S1905ğ"&Remove this unnecessary cast to "Msg".(ÔàÓşÿÿÿÿ
+T	java:S106ˆ"9Replace this use of System.out or System.err by a logger.(¢Ëé•ÿÿÿÿÿ
+`
+java:S1192¨"IDefine a constant instead of duplicating this literal "userName" 3 times.(¶›‡ß
+s
+java:S1450>"XRemove the "webSocket" field and declare it as a local variable in the relevant methods.(‘»ú‘ùÿÿÿÿ
+T	java:S106ÿ"9Replace this use of System.out or System.err by a logger.(àºÜşÿÿÿÿ
+W	java:S125ö"<This block of commented-out lines of code should be removed.(¯Œäèüÿÿÿÿ
+f
+java:S1301C"KReplace this "switch" statement by "if" statements to increase readability.(ıŞ³‹ùÿÿÿÿ
+
+java:S14506"dRemove the "personalMessageStores" field and declare it as a local variable in the relevant methods.(‹ù’ôûÿÿÿÿ
+<	java:S131C""Add a default case to this switch.(ıŞ³‹ùÿÿÿÿ
+W	java:S125ş"<This block of commented-out lines of code should be removed.(—˜‰øÿÿÿÿ
+~
+java:S14507"cRemove the "personalMessageStore" field and declare it as a local variable in the relevant methods.(¦´ŞÉùÿÿÿÿ
+T	java:S106÷"9Replace this use of System.out or System.err by a logger.(Ôñ®²ûÿÿÿÿ
+W	java:S125å"<This block of commented-out lines of code should be removed.(Øı¥€ıÿÿÿÿ
+]
+java:S2142Ë"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+t
+java:S1450="YRemove the "wsListener" field and declare it as a local variable in the relevant methods.(çú×ùùÿÿÿÿ
+^
+java:S1192§"HDefine a constant instead of duplicating this literal "duifang" 3 times.(‡ÌÈq
+H
+java:S1068>"-Remove this unused "webSocket" private field.(‘»ú‘ùÿÿÿÿ
+D
+java:S1121¬".Extract the assignment out of this expression.(ä·ç

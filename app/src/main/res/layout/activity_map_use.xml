@@ -1,0 +1,61 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.medicalhlepers.MapUse.MapUse">
+
+    <com.amap.api.maps.MapView
+        android:id="@+id/map"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1">
+    </com.amap.api.maps.MapView>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="10dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="四川大学华西医院"
+            android:textColor="#000000"
+            android:textSize="19sp"
+            android:layout_marginLeft="10dp"
+            android:id="@+id/hospitalName"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="锦江区春熙路第一城B座14楼578号"
+            android:textSize="14sp"
+            android:layout_marginLeft="8dp"
+            android:layout_marginTop="5dp"
+            android:id="@+id/hospitalAddre"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="驾车6.2公里 需20分钟"
+            android:textSize="14sp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="3dp"
+            android:id="@+id/hospitalDistance"/>
+
+        <Button
+            android:layout_width="330dp"
+            android:layout_height="40dp"
+            android:layout_gravity="center_horizontal"
+            android:text="查看路线"
+            android:textColor="@color/white"
+            android:textStyle="bold"
+            android:id="@+id/checkroute"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/button_circle_shape2"/>
+
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/white"
+    tools:context="com.example.medicalhlepers.Forum.SearchTheAnswer">
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="10dp"
+        android:background="@color/white" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="42dp"
+        android:layout_gravity="center_vertical"
+        android:paddingTop="5dp"
+        android:paddingBottom="5dp"
+        android:background="#ffffff" >
+
+        <LinearLayout
+            android:id="@+id/header_layout"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@drawable/recommend_search_edit_shape2"
+            android:layout_weight="1"
+            android:layout_marginLeft="13dp"
+            android:gravity="center">
+
+            <ImageView
+                android:id="@+id/header_text"
+                android:layout_width="18dp"
+                android:layout_height="18dp"
+                android:layout_gravity="center_vertical"
+                android:src="@drawable/backgray"
+                android:layout_marginLeft="10dp"/>
+
+            <EditText
+                android:id="@+id/auto_edit"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_weight="3"
+                android:background="#f2f2f2"
+                android:layout_marginRight="10dp"
+                android:layout_marginStart="15dp"
+                android:textCursorDrawable="@drawable/color_cursor"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="5dp"
+                android:singleLine="true"
+                android:hint="搜索问题"
+                android:textColor="#525252" />
+
+            <ImageView
+                android:id="@+id/ivDeleteText"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:layout_weight="0.5"
+                android:paddingRight="7dp"
+                android:layout_gravity="center_vertical"
+                android:src="@drawable/delete_icon" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:gravity="right" >
+
+            <TextView
+                android:id="@+id/searchbutton"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:gravity="center_vertical"
+                android:layout_marginRight="15dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="3dp"
+                android:layout_marginBottom="3dp"
+                android:text="搜索" />
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="4dp"
+        android:background="@color/white" />
+
+
+    <ListView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:id="@+id/historyRecord"/>
+
+</LinearLayout>

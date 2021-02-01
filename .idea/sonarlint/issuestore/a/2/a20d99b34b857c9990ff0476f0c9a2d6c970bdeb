@@ -1,0 +1,22 @@
+
+s
+java:S1450*"VRemove the "adapter" field and declare it as a local variable in the relevant methods.(ß–™„8­†§ÌŸ.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.( ÷Àöıÿÿÿÿ
+}
+java:S1450%"[Remove the "questionItem" field and declare it as a local variable in the relevant methods.(Ÿ‰ËÔıÿÿÿÿ8ºë†ğŸ.
+{
+java:S1450#"^Remove the "descriptionText" field and declare it as a local variable in the relevant methods.(™ßØÈ8•Ğ¾ğŸ.
+l
+java:S1128"ORemove this unused import 'com.example.medicalhlepers.Adapter.QuestionAdapter'.(›‚¼„8¼‘¤ÌŸ.
+}
+java:S1450!"[Remove the "questionText" field and declare it as a local variable in the relevant methods.(«ÊĞ‰úÿÿÿÿ8ìıˆğŸ.
+h
+java:S1192o"KDefine a constant instead of duplicating this literal "doctorInfo" 7 times.(Ê¾ìÉ8³ÀºôŸ.
+z
+java:S1450&"XRemove the "backImage" field and declare it as a local variable in the relevant methods.(ƒğó¨øÿÿÿÿ8ÚüÂ .
+D
+java:S1659("'Declare "answerNum" on a separate line.(‡Î·›8ÛÙÀÌŸ.
+u
+java:S1450("XRemove the "answerNum" field and declare it as a local variable in the relevant methods.(‡Î·›8ìıˆğŸ.
+~
+java:S1450""\Remove the "answerNumText" field and declare it as a local variable in the relevant methods.(ó«á†øÿÿÿÿ8—ÅÌŸ.

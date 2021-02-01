@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/white"
+    tools:context="com.example.medicalhlepers.Forum.WriteQuestion">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="44dp"
+        android:background="@color/white">
+
+        <ImageView
+            android:layout_width="17dp"
+            android:layout_height="17dp"
+            android:src="@drawable/guanbi"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="17dp"
+            android:id="@+id/guanbi"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="发布问题"
+            android:layout_centerVertical="true"
+            android:layout_alignParentEnd="true"
+            android:layout_marginRight="10dp"
+            android:id="@+id/fabuwenti"/>
+
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="@color/white"
+        android:padding="18dp">
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="输入问题并以问号结尾"
+            android:background="@null"
+            android:textStyle="bold"
+            android:textSize="20sp"
+            android:textCursorDrawable="@drawable/color_cursor"
+            android:id="@+id/shuruwenti"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="7dp"
+        android:layout_marginRight="7dp"
+        android:paddingTop="12dp"
+        android:orientation="vertical"
+        android:paddingStart="7dp"
+        android:paddingEnd="7dp"
+        android:paddingBottom="12dp"
+        android:background="@drawable/blackground">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#7896be"
+            android:text="* 保持文字简练，表述清除问题的关键点和要点"
+            android:textSize="15sp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#7896be"
+            android:text="* 问题要大于5个字符，问题描述尽量详细"
+            android:layout_marginTop="5dp"
+            android:textSize="15sp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#7896be"
+            android:text="* 先确保没有相似问题被提问"
+            android:layout_marginTop="5dp"
+            android:textSize="15sp"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="@color/white"
+        android:layout_marginTop="10dp"
+        android:padding="15dp">
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="对问题补充说明，可以更快获得解答（选填）"
+            android:background="@null"
+            android:textSize="17sp"
+            android:lineSpacingExtra="5dp"
+            android:textCursorDrawable="@drawable/color_cursor"
+            android:id="@+id/wentineirong"/>
+
+    </LinearLayout>
+
+</LinearLayout>

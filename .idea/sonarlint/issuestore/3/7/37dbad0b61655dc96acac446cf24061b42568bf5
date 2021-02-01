@@ -1,0 +1,38 @@
+
+S
+java:S1128"8Remove this unused import 'android.widget.LinearLayout'.(çîšçúÿÿÿÿ
+s
+java:S14500"VRemove the "getBack" field and declare it as a local variable in the relevant methods.(Ü¤ˆ8”“Ì¥¤.
+[	java:S106š"9Replace this use of System.out or System.err by a logger.(Íà÷ıÿÿÿÿ8¹¾Éñ“.
+n	java:S116'"TRename this field "price_all" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İö÷ãøÿÿÿÿ
+O
+java:S1481}"-Remove this unused "response" local variable.(°Áøœûÿÿÿÿ8¹¾Éñ“.
+Z	java:S106?"9Replace this use of System.out or System.err by a logger.(Íà÷ıÿÿÿÿ8ÌÊñ“.
+h
+java:S1192C"FDefine a constant instead of duplicating this literal "price" 3 times.(Ã¼ äüÿÿÿÿ8‡Éñ“.
+E
+java:S10683"/Remove this unused "description" private field.(›¸®ö
+l
+java:S1450)"VRemove the "buyDrug" field and declare it as a local variable in the relevant methods.(ğ–ŠÜ
+F
+java:S1068,"0Remove this unused "imageUrl_all" private field.(µŞè
+n	java:S116("TRename this field "Text_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–ßğ©ÿÿÿÿÿ
+m	java:S116+"SRename this field "name_all" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éßàüÿÿÿÿ
+^
+java:S1854}"<Remove this useless assignment to local variable "response".(°Áøœûÿÿÿÿ8¹¾Éñ“.
+q
+java:S1450,"[Remove the "imageUrl_all" field and declare it as a local variable in the relevant methods.(µŞè
+v	java:S1158"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Èœáô8Èùêğ“.
+o	java:S116-"URename this field "Text_price" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–§­¬ùÿÿÿÿ
+h	java:S1162"SRename this field "DrugName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÓŞ–œ
+I
+java:S1068!",Remove this unused "localUrl" private field.(Å´ 8ŒşüÕ¦.
+j
+java:S1192 "MUse already-defined constant 'alihttp' instead of duplicating its value here.(¸ĞÁš8Èùêğ“.
+C	java:S131d""Add a default case to this switch.(×“¾ñùÿÿÿÿ8¹¾Éñ“.
+m
+java:S1301d"KReplace this "switch" statement by "if" statements to increase readability.(×“¾ñùÿÿÿÿ8¹¾Éñ“.
+v
+java:S14501"TRemove the "share" field and declare it as a local variable in the relevant methods.(ÂÕ†Úúÿÿÿÿ8ŸÇï¥¤.
+l	java:S116,"WRename this field "imageUrl_all" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µŞè
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ß×ñi

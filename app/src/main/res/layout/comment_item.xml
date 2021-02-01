@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="60dp"
+    android:focusable="false"
+    android:orientation="horizontal">
+
+    <com.facebook.drawee.view.SimpleDraweeView
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_gravity="center_vertical"
+        android:layout_marginLeft="10dp"
+        android:src="@drawable/touxiang"/>
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:orientation="vertical"
+        android:layout_marginLeft="5dp">
+        
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="杜伟宏"
+                android:textSize="15sp"
+                android:id="@+id/commentName"/>
+            
+            <ImageView
+                android:layout_width="15dp"
+                android:layout_height="15dp"
+                android:layout_toLeftOf="@+id/zanNum"
+                android:layout_marginRight="3dp"
+                android:src="@drawable/zantong"
+                android:layout_marginTop="3dp"
+                android:id="@+id/zantong"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="15sp"
+                android:layout_alignParentEnd="true"
+                android:layout_marginRight="10dp"
+                android:text="16"
+                android:id="@+id/zanNum"/>
+
+        </RelativeLayout>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="这个医生非常棒，治好了我多年的肾痛。"
+            android:textSize="15sp"
+            android:textColor="#515151"
+            android:layout_marginTop="5dp"
+            android:id="@+id/commentText"/>
+
+    </LinearLayout>
+
+</LinearLayout>

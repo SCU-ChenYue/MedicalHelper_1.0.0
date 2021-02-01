@@ -1,0 +1,16 @@
+
+A
+java:S1659%"&Declare "hospital" on a separate line.(€¶ïÍûÿÿÿÿ
+?
+java:S1659%"$Declare "status" on a separate line.(€¶ïÍûÿÿÿÿ
+T
+java:S1128	"2Remove this unused import 'android.widget.Button'.(²òžýÿÿÿÿ8²ýÚ“•.
+C
+java:S1659%"(Declare "department" on a separate line.(€¶ïÍûÿÿÿÿ
+>
+java:S1659%"#Declare "title" on a separate line.(€¶ïÍûÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ç—ä¾øÿÿÿÿ
+n
+java:S1450""XRemove the "searchDoc" field and declare it as a local variable in the relevant methods.(õº•È
+r
+java:S1450#"WRemove the "listView" field and declare it as a local variable in the relevant methods.(¯¤½ñûÿÿÿÿ

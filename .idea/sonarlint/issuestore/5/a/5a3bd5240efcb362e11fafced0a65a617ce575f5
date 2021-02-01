@@ -1,0 +1,13 @@
+
+f	java:S116%"QRename this field "LINE_W" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú’Û
+s	java:S116*"^Rename this field "DEFAULT_WAVE_HEIGHT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜À¸ë
+B
+java:S1068"'Remove this unused "TAG" private field.(ÿà·ıÿÿÿÿ
+j	java:S116&"URename this field "MIN_WAVE_H" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğã‰·
+V	java:S125~"<This block of commented-out lines of code should be removed.(Œ‡¥ ùÿÿÿÿ
+u
+java:S3012Ÿ"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(ŸŸ„¡ıÿÿÿÿ
+o	java:S116'"URename this field "MAX_WAVE_H" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ä›í¾ıÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ª¨º
+@
+java:S1068""*Remove this unused "canvas" private field.(Šïï

@@ -1,0 +1,14 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¥àåû
+>
+java:S1148>"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+H
+java:S1128"3Remove this unused import 'android.content.Intent'.(³ð‹G
+K
+java:S1128"0Remove this unused import 'org.json.JSONObject'.(œÖ´üþÿÿÿÿ
+J
+java:S1128"/Remove this unused import 'org.json.JSONArray'.(¬¸Ê’üÿÿÿÿ
+W
+java:S1854<"<Remove this useless assignment to local variable "response".(°Áøœûÿÿÿÿ
+H
+java:S1481<"-Remove this unused "response" local variable.(°Áøœûÿÿÿÿ

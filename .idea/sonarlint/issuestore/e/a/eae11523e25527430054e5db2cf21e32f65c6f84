@@ -1,0 +1,21 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(£Ğäû
+D
+java:S1128")Remove this unused import 'java.net.URL'.(ñìÁ„üÿÿÿÿ
+P
+java:S1128
+"5Remove this unused import 'android.widget.ImageView'.(ú¯ëàüÿÿÿÿ
+Z
+java:S1128"?Remove this unused import 'android.graphics.drawable.Drawable'.(Á‰º„ùÿÿÿÿ
+I
+java:S1128"3Remove this unused import 'java.net.URLConnection'.(š¿šó
+?
+java:S1128")Remove this unused import 'java.net.URI'.(Ö¦¨°
+K
+java:S1128"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ
+F
+java:S1128"0Remove this unused import 'java.io.InputStream'.(¹»º
+P
+java:S18545"5Remove this useless assignment to local variable "a".(¨Ã¢Ûùÿÿÿÿ
+A
+java:S14815"&Remove this unused "a" local variable.(¨Ã¢Ûùÿÿÿÿ

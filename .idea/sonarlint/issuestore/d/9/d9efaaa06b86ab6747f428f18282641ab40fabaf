@@ -1,0 +1,16 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ðî»Ðüÿÿÿÿ
+J
+java:S1128"4Remove this unused import 'java.lang.reflect.Array'.(‡¡É˜
+F
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ
+h
+java:S1128"SRemove this unused import 'com.example.medicalhlepers.DoctorMessage.DoctorMessage'.(“œàs
+1
+java:S36266"Remove this redundant jump.(ÉŠ©ƒ
+R
+java:S18541"<Remove this useless assignment to local variable "iterator".(²±Î‘
+o
+java:S2293<"YReplace the type specification in this constructor call with the diamond operator ("<>").(ãßö‰
+C
+java:S14811"-Remove this unused "iterator" local variable.(²±Î‘

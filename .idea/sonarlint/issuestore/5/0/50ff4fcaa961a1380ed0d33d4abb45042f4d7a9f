@@ -1,0 +1,77 @@
+
+]
+java:S1854›":Remove this useless assignment to local variable "result".(ÄÊİÖøÿÿÿÿ8×Å¼Ç–.
+i
+java:S1128"MRemove this unused import 'com.example.medicalhlepers.AIdiagnose.Hospital_2'.(ş©°8¬…ÁÕ¦.
+j
+java:S1128#"HRemove this unused import 'com.example.medicalhlepers.MapUse.AMapUtils'.(÷¾ì¶ùÿÿÿÿ8¬…ÁÕ¦.
+Y	java:S125Ê"<This block of commented-out lines of code should be removed.(ığ×ü8İ£›«¥.
+g
+java:S1128%"ERemove this unused import 'com.example.medicalhlepers.MapUse.MapUse'.(ı®©Òşÿÿÿÿ8ÜËåŸ–.
+w
+java:S2293á"YReplace the type specification in this constructor call with the diamond operator ("<>").(ãŞõ•8İ£›«¥.
+]	java:S125e"<This block of commented-out lines of code should be removed.(èŠĞÎüÿÿÿÿ8¦ˆÄ–.
+Y	java:S125×"<This block of commented-out lines of code should be removed.(÷™ë¥8×Å¼Ç–.
+{
+java:S1104Á"]Make mLocationListener a static final constant or non-public and provide accessors if needed.( úü8İ£›«¥.
+m
+java:S1450<"XRemove the "emptyView" field and declare it as a local variable in the relevant methods.(ãú.
+[
+java:S1197Û"8Move the array designator from the variable to the type.(¨ÅŠÂûÿÿÿÿ8İ£›«¥.
+M
+java:S5411ù"*Use the primitive boolean expression here.(‡šÑ©ûÿÿÿÿ8ªÜ¦ª¥.
+w
+java:S1128"URemove this unused import 'com.example.medicalhlepers.AIdiagnose.DiagonseResultMain'.(÷¯õşÿÿÿÿ8æ¯îı¤.
+[	java:S106¸"9Replace this use of System.out or System.err by a logger.(¨³®Íùÿÿÿÿ8×Å¼Ç–.
+L
+java:S1068I"1Remove this unused "minRecordTime" private field.(òµÚşÿÿÿÿ
+Y	java:S125—"<This block of commented-out lines of code should be removed.(ÅŸ£ô8Ğ‘¬È”.
+Y	java:S125­"<This block of commented-out lines of code should be removed.(˜á¤Â8×Å¼Ç–.
+X
+java:S1854¥":Remove this useless assignment to local variable "result".(Ğ¶øô8×Å¼Ç–.
+E
+java:S1481ç"(Remove this unused "idd" local variable.(µàù8ø™›€¥.
+]
+java:S1854Ÿ":Remove this useless assignment to local variable "result".(œú˜°úÿÿÿÿ8×Å¼Ç–.
+Q
+java:S1128+"4Remove this unused import 'java.text.DecimalFormat'.(¤°Ó˜8¬…ÁÕ¦.
+b
+java:S1128$"ERemove this unused import 'com.example.medicalhlepers.MapUse.LngLat'.(®ØŒÆ8¬…ÁÕ¦.
+Y	java:S125·"<This block of commented-out lines of code should be removed.(Ã‰Œî8×Å¼Ç–.
+^	java:S125è"<This block of commented-out lines of code should be removed.(Â¡›±ıÿÿÿÿ8×Å¼Ç–.
+^	java:S125Ê"<This block of commented-out lines of code should be removed.(Å°ŸŞøÿÿÿÿ8×Å¼Ç–.
+{	java:S115P"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(×§Ö¯ùÿÿÿÿ8»‹•È”.
+|
+java:S2293å"YReplace the type specification in this constructor call with the diamond operator ("<>").(’¦Øşÿÿÿÿ8×Å¼Ç–.
+U
+java:S1854é"7Remove this useless assignment to local variable "idd".(¯Û¢¤8ø™›€¥.
+€
+java:S1450T"^Remove the "mLocationClient" field and declare it as a local variable in the relevant methods.(íìåúÿÿÿÿ8õÑãŸ–.
+m
+java:S1192o"PDefine a constant instead of duplicating this literal "currentLocation" 7 times.(˜îë8†ÌÃ–.
+€
+java:S1450V"^Remove the "mLocationOption" field and declare it as a local variable in the relevant methods.(“˜’Óşÿÿÿÿ8õÑãŸ–.
+F
+java:S1172Å"(Remove this unused method parameter "v".(‹¡ã¯8×Å¼Ç–.
+o
+java:S1128&"MRemove this unused import 'com.example.medicalhlepers.Tools.AnalyzeActivity'.(µ«€Øüÿÿÿÿ8ˆíŒÉ–.
+W	java:S125"<This block of commented-out lines of code should be removed.(Ÿ²ï×şÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ª¨º
+Y	java:S125í"<This block of commented-out lines of code should be removed.(šıé€8×Å¼Ç–.
+^	java:S125Â"<This block of commented-out lines of code should be removed.(ûğÆşÿÿÿÿ8×Å¼Ç–.
+p
+java:S3776€"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(ŸÙ¨÷8×Å¼Ç–.
+U
+java:S1854ë"7Remove this useless assignment to local variable "idd".(ƒ•üÔ8ø™›€¥.
+g
+java:S1192¥"IDefine a constant instead of duplicating this literal "params :" 3 times.(Ğ¶øô8×Å¼Ç–.
+O
+java:S1068]"2Remove this unused "docchooseLevel" private field.(òÂ—ğ8³¨”Ö¦.
+R
+java:S1066ƒ"/Merge this if statement with the enclosing one.(Ñ€Ûûÿÿÿÿ8×Å¼Ç–.
+[	java:S106®"9Replace this use of System.out or System.err by a logger.(°…˜íşÿÿÿÿ8×Å¼Ç–.
+q
+java:S1450;"TRemove the "ivSet" field and declare it as a local variable in the relevant methods.(ËÃ¡8ßÙ¹–.
+V
+java:S1197è"8Move the array designator from the variable to the type.(Ô„¡å8İ£›«¥.
+X	java:S125ğ"<This block of commented-out lines of code should be removed.(ÛÛ}8×Å¼Ç–.

@@ -1,0 +1,17 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ç—ä¾øÿÿÿÿ
+w
+java:S1450."ZRemove the "guanzhuText" field and declare it as a local variable in the relevant methods.(¾ôÃ„8Ä™ .
+H
+java:S1068%"+Remove this unused "docName" private field.(ÿ€¬½8£Ï¶Å .
+N
+java:S1068'",Remove this unused "userName" private field.(Û”øÚøÿÿÿÿ8£Ï¶Å .
+G
+java:S1068&"*Remove this unused "status" private field.(‹ºÙÈ8£Ï¶Å .
+y
+java:S1450("\Remove the "shoucangImage" field and declare it as a local variable in the relevant methods.(ÇÏ•÷8—¯ö .
+T
+java:S1128
+"2Remove this unused import 'android.widget.Button'.(²òıÿÿÿÿ8úÀ¢Æ .
+y
+java:S14503"WRemove the "listView" field and declare it as a local variable in the relevant methods.(¯¤½ñûÿÿÿÿ8ûù¢Ä .

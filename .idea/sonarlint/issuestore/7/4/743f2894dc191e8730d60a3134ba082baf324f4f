@@ -1,0 +1,46 @@
+
+f
+java:S1192|"KDefine a constant instead of duplicating this literal "department" 6 times.(Íâ¤ùÿÿÿÿ
+A
+java:S14819"+Remove this unused "intent" local variable.(å¯Ô«
+l
+java:S1450,"VRemove the "button7" field and declare it as a local variable in the relevant methods.(¸¦’
+l
+java:S1450+"VRemove the "button6" field and declare it as a local variable in the relevant methods.(«‡Â
+=
+java:S1659¹"&Declare "hospital" on a separate line.(ÆÜÍÎ
+J
+java:S1128	"/Remove this unused import 'android.os.Message'.(¤ªæéıÿÿÿÿ
+q
+java:S14503"[Remove the "searchLayout" field and declare it as a local variable in the relevant methods.(ªÒÊ¬
+b
+java:S1192P"GDefine a constant instead of duplicating this literal "status" 9 times.(¾À‰îûÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ç—ä¾øÿÿÿÿ
+l
+java:S1450'"VRemove the "button2" field and declare it as a local variable in the relevant methods.(Á¢ñ¢
+d
+java:S1128"IRemove this unused import 'com.example.medicalhlepers.database.Hospital'.(”ºÈŸùÿÿÿÿ
+l
+java:S1450("VRemove the "button3" field and declare it as a local variable in the relevant methods.(›İÜÚ
+L
+java:S1854¶"5Remove this useless assignment to local variable "j".(û°»·
+V	java:S125L"<This block of commented-out lines of code should be removed.(ËéÈÕüÿÿÿÿ
+\
+java:S1128":Remove this unused import 'android.widget.RelativeLayout'.(ü¯ğõşÿÿÿÿ8¼£í“•.
+q
+java:S1450&"VRemove the "button1" field and declare it as a local variable in the relevant methods.(Å–É´øÿÿÿÿ
+:
+java:S1659¹"#Declare "title" on a separate line.(ÆÜÍÎ
+P
+java:S18549":Remove this useless assignment to local variable "intent".(å¯Ô«
+=
+java:S1481¶"&Remove this unused "j" local variable.(û°»·
+q
+java:S1450*"VRemove the "button5" field and declare it as a local variable in the relevant methods.(Ï¤…ıÿÿÿÿÿ
+<	java:S131y""Add a default case to this switch.(×“¾ñùÿÿÿÿ
+?
+java:S1659¹"(Declare "department" on a separate line.(ÆÜÍÎ
+l
+java:S1450)"VRemove the "button4" field and declare it as a local variable in the relevant methods.(ÂÊÕç
+r
+java:S1450-"WRemove the "listView" field and declare it as a local variable in the relevant methods.(¯¤½ñûÿÿÿÿ

@@ -1,0 +1,7 @@
+
+?
+java:S1659")Declare "cachedPools" on a separate line.(ë©Üä
+u	java:S116"[Rename this field "EXECUTOR_THREADS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÍÔııÿÿÿÿ
+[
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(Ğ§œš
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ª¨º

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#EBEBEB"
+        android:orientation="vertical" >
+
+        <include
+            android:id="@+id/consultation_header"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            layout="@layout/header3" />
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1" >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical" >
+
+               <ListView
+                   android:layout_width="match_parent"
+                   android:layout_height="600dp"
+                   android:id="@+id/list_view10"/>
+
+
+                <TextView
+                    android:id="@+id/create_case_two_tip_text"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:padding="10dp"
+                    android:text="选择其它你存在的某一项症状，进行进一步诊断分析"
+                    android:textColor="@color/consultation_color_red" />
+            </LinearLayout>
+        </ScrollView>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/consultation_color_F4F4F4"
+            android:orientation="horizontal" >
+
+            <Button
+                android:id="@+id/create_case_btn_finish_save"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@drawable/create_case_submit_selector"
+                android:padding="10dp"
+                android:text="清空"
+                android:textColor="@color/consultation_color_white" />
+
+            <LinearLayout
+                android:layout_width="1dp"
+                android:layout_height="match_parent"
+                android:background="#FFFFFF" >
+            </LinearLayout>
+
+            <Button
+                android:id="@+id/create_case_btn_finish_sumbit"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@drawable/create_case_submit_selector"
+                android:padding="10dp"
+                android:text="确定"
+                android:textColor="@color/consultation_color_white" />
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 记得设置padding属性哦，不然效果就变成控件超出布局，很丑的-->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center_horizontal"
+    android:gravity="center_horizontal"
+    android:orientation="vertical"
+    android:padding="20dp">
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="身份证"
+        android:background="@color/white"
+        android:id="@+id/shenfenzheng"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="户口簿"
+        android:background="@color/white"
+        android:id="@+id/hukoubu"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="中国护照"
+        android:background="@color/white"
+        android:id="@+id/zhongguohuzhao"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="外国护照"
+        android:background="@color/white"
+        android:id="@+id/waiguohuzhao"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="港澳通行证"
+        android:background="@color/white"
+        android:id="@+id/gangaotongxing"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="台湾通行证"
+        android:background="@color/white"
+        android:id="@+id/taiwan"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="解放军士兵证"
+        android:background="@color/white"
+        android:id="@+id/shibingzheng"/>
+
+</LinearLayout>

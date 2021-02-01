@@ -1,0 +1,31 @@
+
+f
+java:S1301:"KReplace this "switch" statement by "if" statements to increase readability.(ýÞ³‹ùÿÿÿÿ
+g
+java:S1301¾"KReplace this "switch" statement by "if" statements to increase readability.(×ö³–úÿÿÿÿ
+c
+java:S1192M"HDefine a constant instead of duplicating this literal "hosName" 8 times.(ôšÙ”úÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ø‘ÅÝÿÿÿÿÿ
+?
+java:S1148·"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+?
+java:S1148ã"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+^
+java:S1128"CRemove this unused import 'android.database.sqlite.SQLiteDatabase'.(ãµèÈùÿÿÿÿ
+h
+java:S1128"RRemove this unused import 'com.example.medicalhlepers.database.MyDatabaseHelper1'.(ŽÂ²™
+O
+java:S1128
+"4Remove this unused import 'android.database.Cursor'.(ŽÔäåúÿÿÿÿ
+d
+java:S1128"IRemove this unused import 'com.example.medicalhlepers.database.Hospital'.(”ºÈŸùÿÿÿÿ
+A
+java:S16597"&Declare "hosAddre" on a separate line.(™‰»Äüÿÿÿÿ
+A
+java:S16597"&Declare "hosLevel" on a separate line.(™‰»Äüÿÿÿÿ
+@
+java:S16597"%Declare "hosType" on a separate line.(™‰»Äüÿÿÿÿ
+`
+java:S11245"EReorder the modifiers to comply with the Java Language Specification.(Åêë»ûÿÿÿÿ
+˜
+java:S1186£"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¡é††

@@ -1,0 +1,19 @@
+
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¬öß
+?
+java:S1148Ž"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+p
+java:S1450$"ZRemove the "loginButton" field and declare it as a local variable in the relevant methods.(à…÷Ÿ
+r
+java:S1450#"]Remove the "registerButton" field and declare it as a local variable in the relevant methods.(›­®d
+V
+java:S1117O";Rename "account" which hides the field declared at line 40.(¸¯Õžùÿÿÿÿ
+W
+java:S1117P"<Rename "password" which hides the field declared at line 41.(±õÉõøÿÿÿÿ
+_
+java:S1117ƒ"HRename "personalMessageStore" which hides the field declared at line 34.(“õ´
+?
+java:S1185—"(Remove this method to simply inherit it.(Ù«µ§
+S
+java:S1068""8Remove this unused "personalMessageStore" private field.(¦´ÞÉùÿÿÿÿ
+P	java:S125}"<This block of commented-out lines of code should be removed.(ë­£7

@@ -1,0 +1,42 @@
+
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(İãc
+`
+java:S1192Š"IDefine a constant instead of duplicating this literal "params :" 3 times.(Ğ¶øô
+V
+java:S1854„":Remove this useless assignment to local variable "result".(œú˜°úÿÿÿÿ
+l	java:S116""WRename this field "voice_button" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€Êì
+p
+java:S2293»"YReplace the type specification in this constructor call with the diamond operator ("<>").(ãŞõ•
+R	java:S125’"<This block of commented-out lines of code should be removed.(˜á¤Â
+T	java:S106“"9Replace this use of System.out or System.err by a logger.(°…˜íşÿÿÿÿ
+g	java:S101!"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(şÍ²¡ùÿÿÿÿ
+V	java:S125O"<This block of commented-out lines of code should be removed.(Â¡›±ıÿÿÿÿ
+R	java:S125œ"<This block of commented-out lines of code should be removed.(Ã‰Œî
+Q	java:S1257"<This block of commented-out lines of code should be removed.(ÖÑšÜ
+`
+java:S1128"ERemove this unused import 'com.baidu.speech.VoiceRecognitionService'.(ãŸ´Œûÿÿÿÿ
+q
+java:S1450""[Remove the "voice_button" field and declare it as a local variable in the relevant methods.(€Êì
+T	java:S106"9Replace this use of System.out or System.err by a logger.(¨³®Íùÿÿÿÿ
+O
+java:S1197Â"8Move the array designator from the variable to the type.(Ô„¡å
+V	java:S125<"<This block of commented-out lines of code should be removed.(»©ƒ§ıÿÿÿÿ
+h
+java:S3776g"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(ŸÙ¨÷
+a
+java:S1128"FRemove this unused import 'androidx.recyclerview.widget.RecyclerView'.(Îèòçøÿÿÿÿ
+J
+java:S1066j"/Merge this if statement with the enclosing one.(Ñ€Ûûÿÿÿÿ
+P
+java:S1128"5Remove this unused import 'android.widget.ImageView'.(ú¯ëàüÿÿÿÿ
+t
+java:S2293L"YReplace the type specification in this constructor call with the diamond operator ("<>").(’¦Øşÿÿÿÿ
+P	java:S125W"<This block of commented-out lines of code should be removed.(ÛÛ}
+W	java:S125¨"<This block of commented-out lines of code should be removed.(ûğÆşÿÿÿÿ
+V
+java:S1854€":Remove this useless assignment to local variable "result".(ÄÊİÖøÿÿÿÿ
+Q
+java:S1854Š":Remove this useless assignment to local variable "result".(Ğ¶øô
+T
+java:S1197µ"8Move the array designator from the variable to the type.(¨ÅŠÂûÿÿÿÿ
+Q	java:S125T"<This block of commented-out lines of code should be removed.(šıé€

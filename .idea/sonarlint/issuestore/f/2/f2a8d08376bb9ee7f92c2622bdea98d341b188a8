@@ -1,0 +1,14 @@
+
+N
+java:S2589;"8Remove this expression which always evaluates to "false"(¾˜î”
+T
+java:S1155;">Use isEmpty() to check whether the collection is empty or not.(¾˜î”
+j
+java:S2259:"U"NullPointerException" will be thrown when invoking method "findDeniedPermissions()".(åÏê[
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ªž¨º
+k
+java:S2259H"U"NullPointerException" will be thrown when invoking method "findDeniedPermissions()".(½ëµ«
+{
+java:S1488d"eImmediately return this expression instead of assigning it to the temporary variable "hasPermission".(îŒ¿ë
+T
+java:S1155J">Use isEmpty() to check whether the collection is empty or not.(ž§ƒÖ

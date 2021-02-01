@@ -1,0 +1,77 @@
+
+[
+java:S1128">Remove this unused import 'android.provider.ContactsContract'.(üç§±8Â™óÊ”.
+f
+java:S1192‡"HDefine a constant instead of duplicating this literal "hosName" 3 times.(óÀ‰©8ß²ÈÍ”.
+n	java:S117ü"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(È§Ò8ß²ÈÍ”.
+s	java:S116]"RRename this field "tv_desc" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­ñÈßşÿÿÿÿ8³ÿÉ”.
+‰
+java:S1450C"gRemove the "personalMessageStoreList" field and declare it as a local variable in the relevant methods.(îÿûÿÿÿÿ8Â™óÊ”.
+s	java:S116D"RRename this field "SUCCESS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚ ˆµüÿÿÿÿ8³ÿÉ”.
+S
+java:S1854"5Remove this useless assignment to local variable "j".(û°»·8ß²ÈÍ”.
+n	java:S117ú"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯ûİŠ8§íË”.
+d
+java:S2142†"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8³ÿÉ”.
+s	java:S117ş"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šÀõìüÿÿÿÿ8ß²ÈÍ”.
+z
+java:S1450N"XRemove the "DrugQuery" field and declare it as a local variable in the relevant methods.(¶€òˆøÿÿÿÿ8³ÿÉ”.
+k
+java:S1450F"VRemove the "findHos" field and declare it as a local variable in the relevant methods.(ÿÆŠ.
+¤
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ø´´øÿÿÿÿ8ß²ÈÍ”.
+P
+java:S1481Ö"-Remove this unused "response" local variable.(°Áøœûÿÿÿÿ8ß²ÈÍ”.
+n
+java:S1301¼"KReplace this "switch" statement by "if" statements to increase readability.(×“¾ñùÿÿÿÿ8³ÿÉ”.
+u	java:S116N"TRename this field "DrugQuery" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶€òˆøÿÿÿÿ8³ÿÉ”.
+[
+java:S1068O"9Remove this unused "dragFloatActionButton" private field.(˜ü¿Íüÿÿÿÿ8³ÿÉ”.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(€ÜÀ–
+q
+java:S1450G"VRemove the "findDoc" field and declare it as a local variable in the relevant methods.( ø³÷ùÿÿÿÿ
+w
+java:S1450^"ZRemove the "imageResIds" field and declare it as a local variable in the relevant methods.(ÒÖùû8³ÿÉ”.
+C
+java:S1170D"!Make this final field static too.(‚ ˆµüÿÿÿÿ8³ÿÉ”.
+O
+java:S1068E"2Remove this unused "editTextSearch" private field.(ºîÔò8ÇË†Ø¤.
+o
+java:S1450I"ZRemove the "yuyueRecord" field and declare it as a local variable in the relevant methods.(¬çÎ
+
+¤
+java:S1186®"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(™Î«şÿÿÿÿ8ß²ÈÍ”.
+Y	java:S125¸"<This block of commented-out lines of code should be removed.(Îõ¡„8ß²ÈÍ”.
+D	java:S131¼""Add a default case to this switch.(×“¾ñùÿÿÿÿ8³ÿÉ”.
+K
+java:S1185ò"(Remove this method to simply inherit it.(µ‚µõıÿÿÿÿ8ß²ÈÍ”.
+o	java:S116\"SRename this field "ll_point" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´Ç¸÷8ú¡¼¸¤.
+t
+java:S1450L"WRemove the "findddoc" field and declare it as a local variable in the relevant methods.(£¥Õ¥8³ÿÉ”.
+H
+java:S11284"+Remove this unused import 'java.util.Date'.(¸…¼ü8Â™óÊ”.
+n	java:S117ù"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹ƒÌ°8ß²ÈÍ”.
+\
+java:S1161h":Add the "@Override" annotation above this method signature(¯¨ñ‹úÿÿÿÿ8³ÿÉ”.
+b
+java:S1874¹"?Remove this use of "setOnPageChangeListener"; it is deprecated.(ü£‚ıÿÿÿÿ8ú¡¼¸¤.
+m
+java:S1301R"KReplace this "switch" statement by "if" statements to increase readability.(ıŞ³‹ùÿÿÿÿ8³ÿÉ”.
+a
+java:S1155">Use isEmpty() to check whether the collection is empty or not.(‘Âªÿÿÿÿÿ8ß²ÈÍ”.
+€
+java:S1450J"^Remove the "choooseLocation" field and declare it as a local variable in the relevant methods.(îÜÚ©ûÿÿÿÿ8’ŠÎÊ”.
+D
+java:S1481"&Remove this unused "j" local variable.(û°»·8ß²ÈÍ”.
+\
+java:S3398¦">Move this method into the anonymous class declared at line 80.(ÄÛÆ¬8ß²ÈÍ”.
+n
+java:S1450H"XRemove the "searchHos" field and declare it as a local variable in the relevant methods.(ß‰•å
+Y	java:S125¶"<This block of commented-out lines of code should be removed.(ŞĞâ8³ÿÉ”.
+n	java:S117ï"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨§¨8ß²ÈÍ”.
+K
+java:S1185ö"(Remove this method to simply inherit it.(Ö“˜½úÿÿÿÿ8ß²ÈÍ”.
+
+java:S1319“"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(Â§‚8ß²ÈÍ”.
+_
+java:S1854Ö"<Remove this useless assignment to local variable "response".(°Áøœûÿÿÿÿ8ß²ÈÍ”.

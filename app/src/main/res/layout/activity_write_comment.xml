@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    tools:context="com.example.medicalhlepers.Forum.WriteComment">
+
+    <LinearLayout
+        android:id="@+id/top"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_marginTop="10dp"
+        android:orientation="horizontal"
+        android:layout_alignParentTop="true">
+
+        <ImageView
+            android:layout_width="17dp"
+            android:layout_height="17dp"
+            android:src="@drawable/guanbi"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="17dp"
+            android:id="@+id/guanbi"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="23dp"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:text="全部 88 条评论"
+            android:textColor="#515151"
+            android:id="@+id/commentNum"/>
+
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="5dp"
+        android:layout_marginTop="10dp"
+        android:background="#F2F2F2"
+        android:layout_below="@+id/top"
+        android:id="@+id/fenge1"/>
+
+    <ListView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/commentList"
+        android:layout_below="@+id/fenge1"/>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="#F2F2F2"
+        android:layout_above="@+id/input" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:orientation="horizontal"
+        android:background="@color/white"
+        android:id="@+id/input"
+        android:layout_alignParentBottom="true">
+
+        <EditText
+            android:layout_marginLeft="10dp"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:background="@null"
+            android:hint="请输入评论"
+            android:textSize="18sp"
+            android:layout_gravity="center_vertical"
+            android:textCursorDrawable="@drawable/color_cursor"
+            android:id="@+id/writeComment"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="发布"
+            android:layout_gravity="center_vertical"
+            android:textSize="18sp"
+            android:layout_marginRight="10dp"
+            android:id="@+id/fabupinglun"/>
+
+    </LinearLayout>
+
+
+</RelativeLayout>

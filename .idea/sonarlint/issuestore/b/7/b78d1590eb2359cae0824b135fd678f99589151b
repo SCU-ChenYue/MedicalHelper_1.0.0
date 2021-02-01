@@ -1,0 +1,17 @@
+
+K
+java:S1854\"5Remove this useless assignment to local variable "j".(û°»·
+f
+java:S1301+"KReplace this "switch" statement by "if" statements to increase readability.(ıŞ³‹ùÿÿÿÿ
+\
+java:S2142w"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+H
+java:S1128
+"-Remove this unused import 'android.util.Log'.(Ô¦Ø²øÿÿÿÿ
+[
+java:S1124("EReorder the modifiers to comply with the Java Language Specification.(Ùöó›
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(è÷’Æ
+s
+java:S1450#"VRemove the "getBack" field and declare it as a local variable in the relevant methods.(Ü¤ˆ8ˆÊ¤¤.
+<
+java:S1481\"&Remove this unused "j" local variable.(û°»·

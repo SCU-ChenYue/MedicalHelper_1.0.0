@@ -1,0 +1,12 @@
+
+}
+java:S1450"[Remove the "saveIdNumber" field and declare it as a local variable in the relevant methods.(›ƒúÿøÿÿÿÿ8­¯¨Ö¦.
+u
+java:S1450"XRemove the "imageView" field and declare it as a local variable in the relevant methods.(øû¯8ƒî¨Ö¦.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¥àåû
+W
+java:S1854="<Remove this useless assignment to local variable "response".(°Áøœûÿÿÿÿ
+T
+java:S1128"2Remove this unused import 'android.widget.Button'.(²òıÿÿÿÿ8ŸáÌô”.
+H
+java:S1481="-Remove this unused "response" local variable.(°Áøœûÿÿÿÿ

@@ -1,0 +1,4 @@
+
+i
+java:S1104	"SMake content a static final constant or non-public and provide accessors if needed.(­ÁÅ’
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(øÖšŠ

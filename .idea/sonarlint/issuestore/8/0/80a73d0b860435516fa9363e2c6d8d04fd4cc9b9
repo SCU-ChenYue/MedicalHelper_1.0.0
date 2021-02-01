@@ -1,0 +1,30 @@
+
+f
+java:S13011"KReplace this "switch" statement by "if" statements to increase readability.(ýÞ³‹ùÿÿÿÿ
+c
+java:S1192^"HDefine a constant instead of duplicating this literal "hosName" 3 times.(¶‹ªƒúÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ø‘ÅÝÿÿÿÿÿ
+?
+java:S1148†"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+Z
+java:S1128"?Remove this unused import 'android.graphics.drawable.Drawable'.(Á‰º„ùÿÿÿÿ
+^
+java:S1128"CRemove this unused import 'android.database.sqlite.SQLiteDatabase'.(ãµèÈùÿÿÿÿ
+a
+java:S1128"FRemove this unused import 'com.facebook.drawee.view.SimpleDraweeView'.(ÓÇ«·ýÿÿÿÿ
+O
+java:S1128"4Remove this unused import 'android.database.Cursor'.(ŽÔäåúÿÿÿÿ
+E
+java:S1128"/Remove this unused import 'java.util.Iterator'.(¥ÍòÕ
+i
+java:S1128"NRemove this unused import 'com.example.medicalhlepers.Yuyue.AppointmentClass'.(×ü¿£þÿÿÿÿ
+l	java:S116*"RRename this field "SUCCESS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚ ˆµüÿÿÿÿ
+<
+java:S1170*"!Make this final field static too.(‚ ˆµüÿÿÿÿ
+K
+java:S1854t"5Remove this useless assignment to local variable "j".(û°»·
+<
+java:S1481t"&Remove this unused "j" local variable.(û°»·
+T
+java:S3398T">Move this method into the anonymous class declared at line 47.(ÄÛÆ¬
+V	java:S125@"<This block of commented-out lines of code should be removed.(Õ«ØÖþÿÿÿÿ

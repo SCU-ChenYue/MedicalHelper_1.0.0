@@ -1,0 +1,14 @@
+
+f
+java:S1301&"KReplace this "switch" statement by "if" statements to increase readability.(ýÞ³‹ùÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(è÷’Æ
+>
+java:S1148i"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+H
+java:S1128	"-Remove this unused import 'android.util.Log'.(Ô¦Ø²øÿÿÿÿ
+[
+java:S1124#"EReorder the modifiers to comply with the Java Language Specification.(Ùöó›
+K
+java:S1854Y"5Remove this useless assignment to local variable "j".(û°»·
+<
+java:S1481Y"&Remove this unused "j" local variable.(û°»·

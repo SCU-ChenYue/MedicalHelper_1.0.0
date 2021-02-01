@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F2F2F2"
+    android:orientation="vertical"
+    android:fitsSystemWindows="true"
+    tools:context="com.example.medicalhlepers.ThreeMainFragment.FragmentMessage">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fitsSystemWindows="true">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:fitsSystemWindows="true">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@mipmap/record_head"
+                android:orientation="vertical"
+                android:fitsSystemWindows="true">
+                <include layout="@layout/home_title_bar"/>
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="180dp">
+                    <androidx.viewpager.widget.ViewPager
+                        android:id="@+id/vp"
+                        android:layout_width="match_parent"
+                        android:layout_height="180dp">
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="40dp"
+                            android:background="#6000"
+                            android:gravity="center_horizontal"
+                            android:orientation="vertical"
+                            android:padding="5dp">
+
+                            <LinearLayout
+                                android:id="@+id/ll_point"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_marginTop="5dp"
+                                android:orientation="horizontal"></LinearLayout>
+
+                            <TextView
+                                android:id="@+id/tv_desc"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:textColor="#fff" />
+                        </LinearLayout>
+                    </androidx.viewpager.widget.ViewPager>
+
+                </RelativeLayout>
+            </LinearLayout>
+            <include layout="@layout/index_home_list4" />
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="7dp"/>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:orientation="horizontal"
+                android:background="@color/white">
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:textSize="15sp"
+                    android:text="推荐医院"
+                    android:background="@color/white"
+                    android:layout_marginLeft="20dp"
+                    android:textColor="#1296DB"
+                    android:textStyle="bold"/>
+            </LinearLayout>
+
+        </LinearLayout>
+    </ScrollView>
+
+    <ListView
+        android:id="@+id/list_view5"
+        android:layout_width="match_parent"
+        android:layout_height="305dp"></ListView>
+
+</LinearLayout>

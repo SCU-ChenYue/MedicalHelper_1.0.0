@@ -1,0 +1,25 @@
+
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¸…Ñ¯úÿÿÿÿ
+k	java:S117$"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÍÄÕùÿÿÿÿ
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ß×ñi
+>
+java:S11489"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+>
+java:S1148`"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+>
+java:S1148c"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+{
+java:S1450"`Remove the "convertViewHolder" field and declare it as a local variable in the relevant methods.(Ù®ÙÀùÿÿÿÿ
+Q
+java:S1854G";Remove this useless assignment to local variable "imageBM".(¤®Ş­
+S	java:S106I"9Replace this use of System.out or System.err by a logger.(Óìšıÿÿÿÿ
+S	java:S106_"9Replace this use of System.out or System.err by a logger.(à€Æ­şÿÿÿÿ
+M
+java:S1135^"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ
+N	java:S106b"9Replace this use of System.out or System.err by a logger.(“ÈŞÄ
+B
+java:S1481G",Remove this unused "imageBM" local variable.(¤®Ş­
+P
+java:S1068"5Remove this unused "convertViewHolder" private field.(Ù®ÙÀùÿÿÿÿ
+D
+java:S1144B".Remove this unused private "loadImage" method.(Ü¾Õ£

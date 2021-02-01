@@ -1,0 +1,54 @@
+
+]	java:S125J"<This block of commented-out lines of code should be removed.(õñØ²øÿÿÿÿ8¤¢÷•.
+^	java:S125œ"<This block of commented-out lines of code should be removed.(€¡Ï¥ûÿÿÿÿ8Ç‚İø•.
+w
+java:S1450D"ZRemove the "routeButton" field and declare it as a local variable in the relevant methods.(ÒŠ­¤8·Ì¤™–.
+^	java:S125»"<This block of commented-out lines of code should be removed.(Òƒ±ûÿÿÿÿ8‰„÷•.
+€
+java:S1450?"^Remove the "mLocationOption" field and declare it as a local variable in the relevant methods.(“˜’Óşÿÿÿÿ8—œº÷•.
+a
+java:S1854º">Remove this useless assignment to local variable "currentLon".(¿‰î¢øÿÿÿÿ8‰„÷•.
+o
+java:S1128'"RRemove this unused import 'com.example.medicalhlepers.BasicActivity.MainActivity'.(Å€êî8¶†®—¢.
+a
+java:S1854¹">Remove this useless assignment to local variable "currentLat".(ªÌüÿÿÿÿ8‰„÷•.
+R
+java:S1481º"/Remove this unused "currentLon" local variable.(¿‰î¢øÿÿÿÿ8‰„÷•.
+M
+java:S1128,"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8ëş³ô•.
+n
+java:S1301"KReplace this "switch" statement by "if" statements to increase readability.(×ö³–úÿÿÿÿ8²ŸŠ÷•.
+K
+java:S1068C"/Remove this unused "hosDistance" private field.(Ìçß8Ôï¢˜–.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(öºú‡
+{
+java:S1450B"YRemove the "hosAddress" field and declare it as a local variable in the relevant methods.(èÁÄùÿÿÿÿ8Ãš©˜–.
+L
+java:S1128"/Remove this unused import 'android.os.Handler'.(ûÛ’¡8ñÍê÷•.
+t
+java:S14507"WRemove the "hosAddre" field and declare it as a local variable in the relevant methods.(Ş®ë÷8¬‡ì˜–.
+}
+java:S1450A"[Remove the "hospitalName" field and declare it as a local variable in the relevant methods.(›ÜÑ¸şÿÿÿÿ8Ãš©˜–.
+Y	java:S125‘"<This block of commented-out lines of code should be removed.(ìÕüæ8ëş³ô•.
+v
+java:S1450C"ZRemove the "hosDistance" field and declare it as a local variable in the relevant methods.(Ìçß8Ãš©˜–.
+]	java:S125h"<This block of commented-out lines of code should be removed.(æ»™Şúÿÿÿÿ8Àæ÷•.
+r
+java:S1192"PDefine a constant instead of duplicating this literal "currentLocation" 6 times.(Íİûğıÿÿÿÿ8©¼Ú¢Ÿ.
+r
+java:S1128%"PRemove this unused import 'com.amap.api.navi.services.search.model.LatLonPoint'.(¼µñàøÿÿÿÿ8“ÚÅ˜–.
+U
+java:S1128"3Remove this unused import 'android.graphics.Color'.(øãíòşÿÿÿÿ8–•úô•.
+[
+java:S1128+"9Remove this unused import 'org.litepal.crud.DataSupport'.(Äƒîûÿÿÿÿ8ëş³ô•.
+m
+java:S1128("PRemove this unused import 'com.example.medicalhlepers.HospitalAddress.HosAddre'.(ª¦¨©8ëş³ô•.
+R
+java:S1481¹"/Remove this unused "currentLat" local variable.(ªÌüÿÿÿÿ8‰„÷•.
+Q
+java:S1128)"/Remove this unused import 'org.json.JSONArray'.(¬¸Ê’üÿÿÿÿ8Å—á¤Ÿ.
+a
+java:S1128 "DRemove this unused import 'com.amap.api.maps.model.MyLocationStyle'.(ëòû8–•úô•.
+j	java:S116@"NRename this field "TAG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Å½öŞ8ÿ˜Ûõ•.
+{
+java:S1104³"]Make mLocationListener a static final constant or non-public and provide accessors if needed.( úü8ÃÜ’÷•.

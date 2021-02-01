@@ -1,0 +1,24 @@
+
+r
+java:S1128"PRemove this unused import 'com.example.medicalhlepers.DoctorMessage.DoctorList'.(¨Æ„»ıÿÿÿÿ8Ç ¬Œ¤.
+x
+java:S1450+"VRemove the "getBack" field and declare it as a local variable in the relevant methods.(¨şŞÄıÿÿÿÿ8ÌŠˆ¤.
+y
+java:S1450#"\Remove the "hospitalLevel" field and declare it as a local variable in the relevant methods.(€²Ö–8ÌõÈ‹¤.
+}
+java:S1450""[Remove the "hospitalName" field and declare it as a local variable in the relevant methods.(›ÜÑ¸şÿÿÿÿ8ÌõÈ‹¤.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(©æı úÿÿÿÿ
+y
+java:S1450%"\Remove the "hospitalAddre" field and declare it as a local variable in the relevant methods.(‚€şÀ8”‘Ë‹¤.
+x
+java:S1450$"[Remove the "hospitalType" field and declare it as a local variable in the relevant methods.(ÄƒâÒ8ÌõÈ‹¤.
+q	java:S116("URename this field "hospital_2" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(í§‰ß8Êø†Œ¤.
+m	java:S117M"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìø—Ù8øØïŒ¤.
+y
+java:S1450'"WRemove the "listView" field and declare it as a local variable in the relevant methods.(¯¤½ñûÿÿÿÿ8®ƒğŒ¤.
+Q
+java:S1128"/Remove this unused import 'android.os.Message'.(¤ªæéıÿÿÿÿ8Ôæ§Œ¤.
+z
+java:S1450!"]Remove the "departmentName" field and declare it as a local variable in the relevant methods.(â«ğİ8æ”Ã‹¤.
+
+java:S1450&"_Remove the "hospitalDistance" field and declare it as a local variable in the relevant methods.(ç¦³ãúÿÿÿÿ8ğÍÍ‹¤.

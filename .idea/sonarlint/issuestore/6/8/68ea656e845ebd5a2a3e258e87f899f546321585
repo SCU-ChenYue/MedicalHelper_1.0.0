@@ -1,0 +1,99 @@
+
+s	java:S117×"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìÕÆ±úÿÿÿÿ8¸›íô”.
+e
+java:S1192à"IDefine a constant instead of duplicating this literal "idNumber" 3 times.(¦Ù¹Ëúÿÿÿÿ
+]
+java:S1192Û"FDefine a constant instead of duplicating this literal "phone" 3 times.(Ùğ†
+H
+java:S1128"-Remove this unused import 'android.Manifest'.(¦øïúÿÿÿÿ
+W
+java:S1128"<Remove this unused import 'android.content.DialogInterface'.(Š­›¨şÿÿÿÿ
+S
+java:S1128"=Remove this unused import 'androidx.core.app.ActivityCompat'.(ş¤—²
+h
+java:S1450P"SRemove the "head" field and declare it as a local variable in the relevant methods.(Šü
+W
+java:S1075Q"ARefactor your code to get this URI from a customizable parameter.(ë¦ã
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¥àåû
+R	java:S125Æ"<This block of commented-out lines of code should be removed.(ÊŸ¶ß
+l
+java:S1450M"VRemove the "getBack" field and declare it as a local variable in the relevant methods.(Ü¤ˆ
+_
+java:S1854ü"<Remove this useless assignment to local variable "username".(ŞÇÏşüÿÿÿÿ8¸›íô”.
+_
+java:S1854Â"<Remove this useless assignment to local variable "response".(°Áøœûÿÿÿÿ8¸›íô”.
+„
+java:S1192å"fDefine a constant instead of duplicating this literal "http://39.96.41.6:8080/modifyUserInfo" 3 times.(¨Ü•—8¸›íô”.
+n	java:S117Å"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ç©÷˜8œİÁ .
+c
+java:S2147Û"ECombine this catch with the one at line 601, which has the same body.(”ı¾8ìÏÍÁ .
+P
+java:S1481Â"-Remove this unused "response" local variable.(°Áøœûÿÿÿÿ8¸›íô”.
+l
+java:S1192ä"IDefine a constant instead of duplicating this literal "district" 3 times.(Õœ¥™ûÿÿÿÿ8¤¯óô”.
+g	java:S117Ö"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦©ø
+v
+java:S1450D"[Remove the "changeIdType" field and declare it as a local variable in the relevant methods.(êÉ“õşÿÿÿÿ
+t
+java:S1450A"YRemove the "changeName" field and declare it as a local variable in the relevant methods.(úò¼Ñÿÿÿÿÿ
+_
+java:S1854±"<Remove this useless assignment to local variable "response".(°Áøœûÿÿÿÿ8¸›íô”.
+P
+java:S1481±"-Remove this unused "response" local variable.(°Áøœûÿÿÿÿ8¸›íô”.
+[
+java:S1128"@Remove this unused import 'androidx.core.content.ContextCompat'.(üäÂùÿÿÿÿ
+b
+java:S2259‰"?A "NullPointerException" could be thrown; "b" is nullable here.(Î “ÿÿÿÿÿ8ìÏÍÁ .
+p
+java:S1450@"ZRemove the "changeImage" field and declare it as a local variable in the relevant methods.(îÃ˜Î
+n
+java:S1450B"XRemove the "changeSex" field and declare it as a local variable in the relevant methods.(ˆûØ
+M
+java:S1481Ì"/Remove this unused "userIdType" local variable.(ıõ·ã8¸›íô”.
+n	java:S117–"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÅÍî8”şÒÁ .
+H
+java:S1128"-Remove this unused import 'android.util.Log'.(Ô¦Ø²øÿÿÿÿ
+e
+java:S1192¶"IDefine a constant instead of duplicating this literal "head.jpg" 3 times.(àÅÀ™üÿÿÿÿ
+h	java:S112Ò"FDefine and throw a dedicated exception instead of using a generic one.(Ä¾ »ıÿÿÿÿ8œİÁ .
+_
+java:S1854ç"<Remove this useless assignment to local variable "response".(°Áøœûÿÿÿÿ8¸›íô”.
+p
+java:S3776ï"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(ŸŒ¹Ñ8ù•ÍÁ .
+H
+java:S1128"-Remove this unused import 'android.os.Build'.(ãÇ¤Úıÿÿÿÿ
+g
+java:S1192â"IDefine a constant instead of duplicating this literal "province" 3 times.(©åøï8¤¯óô”.
+n	java:S117—"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²…¼„8”şÒÁ .
+x
+java:S1450E"]Remove the "changeIdNumber" field and declare it as a local variable in the relevant methods.(óñÉÿÿÿÿÿ
+[	java:S106£"9Replace this use of System.out or System.err by a logger.(³§˜Äşÿÿÿÿ8ÄŠõÁ .
+e
+java:S1192á"IDefine a constant instead of duplicating this literal "birthday" 3 times.(ªÆŞ¬ÿÿÿÿÿ
+w
+java:S2293Œ"YReplace the type specification in this constructor call with the diamond operator ("<>").(Úï¦ã8¸›íô”.
+P
+java:S1481ç"-Remove this unused "response" local variable.(°Áøœûÿÿÿÿ8¸›íô”.
+P
+java:S1481ü"-Remove this unused "username" local variable.(ŞÇÏşüÿÿÿÿ8¸›íô”.
+M
+java:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8ìÏÍÁ .
+h	java:S116S"SRename this field "iv_photo" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŸÊ‰û
+c
+java:S1192ß"GDefine a constant instead of duplicating this literal "idType" 3 times.(’éäÍşÿÿÿÿ
+l	java:S116Y"RRename this field "UserSex" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§Ğ¯ûÿÿÿÿ
+v
+java:S1450F"`Remove the "changePhoneNumber" field and declare it as a local variable in the relevant methods.(ğæÇ«
+Y	java:S125Ë"<This block of commented-out lines of code should be removed.(øòœ¥8œİÁ .
+[	java:S106Ğ"9Replace this use of System.out or System.err by a logger.(‹·Éªüÿÿÿÿ8œİÁ .
+Y
+java:S1128">Remove this unused import 'android.content.pm.PackageManager'.(€®¥õÿÿÿÿÿ
+[	java:S106Î"9Replace this use of System.out or System.err by a logger.(ºÛ·üÿÿÿÿ8œİÁ .
+Z
+java:S1128"?Remove this unused import 'androidx.core.content.FileProvider'.(ïŒø€ûÿÿÿÿ
+^
+java:S1192İ"GDefine a constant instead of duplicating this literal "passwd" 3 times.(õàÊè
+x
+java:S1450C"]Remove the "changeBirthday" field and declare it as a local variable in the relevant methods.(˜áÛÅùÿÿÿÿ
+Q
+java:S1068V"6Remove this unused "CROP_SMALL_PICTURE" private field.(õÃë‹ûÿÿÿÿ

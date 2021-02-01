@@ -1,0 +1,12 @@
+
+g	java:S114»"QRename this interface name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ŒªÔ³
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¥àåû
+p
+java:S2293¨"YReplace the type specification in this constructor call with the diamond operator ("<>").(òõî
+?
+java:S1905Ø"(Remove this unnecessary cast to "float".(›ïË­
+8	java:S131ö""Add a default case to this switch.(ÌÈÙš
+H
+java:S1172",Remove this unused method parameter "event".(à²ßÇÿÿÿÿÿ
+Y
+java:S3398[">Move this method into the anonymous class declared at line 54.(ËÜéıÿÿÿÿ

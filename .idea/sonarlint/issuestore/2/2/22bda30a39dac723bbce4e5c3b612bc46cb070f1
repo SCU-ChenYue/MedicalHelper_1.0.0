@@ -1,0 +1,18 @@
+
+J
+java:S1128"/Remove this unused import 'org.json.JSONArray'.(¬¸Ê’üÿÿÿÿ
+u
+java:S1450"XRemove the "imageView" field and declare it as a local variable in the relevant methods.(øû¯8ÙæƒÖ¦.
+H
+java:S1481>"-Remove this unused "response" local variable.(°Áøœûÿÿÿÿ
+H
+java:S1128"3Remove this unused import 'android.content.Intent'.(³ð‹G
+K
+java:S1128"0Remove this unused import 'org.json.JSONObject'.(œÖ´üþÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¥àåû
+y
+java:S1450"WRemove the "saveName" field and declare it as a local variable in the relevant methods.(ÌüÝÛúÿÿÿÿ8ÆÇƒÖ¦.
+W
+java:S1854>"<Remove this useless assignment to local variable "response".(°Áøœûÿÿÿÿ
+T
+java:S1128"2Remove this unused import 'android.widget.Button'.(²òžýÿÿÿÿ8Óç—ô”.

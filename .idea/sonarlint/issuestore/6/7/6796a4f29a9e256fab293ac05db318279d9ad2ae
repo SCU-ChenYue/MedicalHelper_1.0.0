@@ -1,0 +1,36 @@
+
+M
+java:S2589S"7Remove this expression which always evaluates to "true"(çıªº
+j
+java:S1128"TRemove this unused import 'com.example.medicalhlepers.BasicActivity.ChangePassword'.(ÓÁŠ
+R
+java:S2589K"7Remove this expression which always evaluates to "true"(óğí·ÿÿÿÿÿ
+F
+java:S1128"0Remove this unused import 'org.litepal.LitePal'.(˜Ô‘Æ
+i
+java:S1450&"SRemove the "back" field and declare it as a local variable in the relevant methods.(Ä­ìé
+m
+java:S1450$"WRemove the "saveUser" field and declare it as a local variable in the relevant methods.(—á§‰
+m
+java:S37767"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(¨Œşÿÿÿÿ
+A
+java:S1481:"+Remove this unused "intent" local variable.(‘è¿¯
+R
+java:S2589O"7Remove this expression which always evaluates to "true"(’·ŸÄÿÿÿÿÿ
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¬öß
+m
+java:S1450("RRemove the "log" field and declare it as a local variable in the relevant methods.(ıËŒøÿÿÿÿ
+[
+java:S1124'"EReorder the modifiers to comply with the Java Language Specification.(ÁŠòç
+{
+java:S1128"`Remove this unused import 'com.example.medicalhlepers.PersonalInformation.PersonalMessageStore'.(Ë Õ¯ÿÿÿÿÿ
+P
+java:S1854:":Remove this useless assignment to local variable "intent".(‘è¿¯
+f
+java:S1301+"KReplace this "switch" statement by "if" statements to increase readability.(ıŞ³‹ùÿÿÿÿ
+T
+java:S1128"9Remove this unused import 'org.litepal.crud.DataSupport'.(Äƒîûÿÿÿÿ
+v
+java:S1450%"[Remove the "cancelButton" field and declare it as a local variable in the relevant methods.(¨çÎüÿÿÿÿ
+2
+java:S3626œ"Remove this redundant jump.(ÉŠ©ƒ

@@ -1,0 +1,12 @@
+
+c
+java:S1192""HDefine a constant instead of duplicating this literal "hosName" 3 times.(åÊåÿÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ø‘Åİÿÿÿÿÿ
+6
+java:S1700"Rename field "hospitalList"(ÛÊ„ßÿÿÿÿÿ
+1
+java:S3626("Remove this redundant jump.(ÉŠ©ƒ
+[
+java:S18548"@Remove this useless assignment to local variable "hospitalName".(ší¢üÿÿÿÿ
+L
+java:S14818"1Remove this unused "hospitalName" local variable.(ší¢üÿÿÿÿ

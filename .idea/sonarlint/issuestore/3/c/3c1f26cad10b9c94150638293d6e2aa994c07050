@@ -1,0 +1,19 @@
+
+k
+java:S1450"VRemove the "context" field and declare it as a local variable in the relevant methods.(êÝç
+`	java:S112~"FDefine and throw a dedicated exception instead of using a generic one.(‘¼Ï‰øÿÿÿÿ
+{
+java:S1130k"eRemove the declaration of thrown exception 'java.lang.RuntimeException' which is a runtime exception.(× ŠË
+R	java:S125€"<This block of commented-out lines of code should be removed.(ØÄõ­
+[	java:S112k"FDefine and throw a dedicated exception instead of using a generic one.(× ŠË
+Q	java:S125o"<This block of commented-out lines of code should be removed.(îÓÖ
+=
+java:S1068"'Remove this unused "TAG" private field.(§òã¿
+€
+java:S1130~"eRemove the declaration of thrown exception 'java.lang.RuntimeException' which is a runtime exception.(‘¼Ï‰øÿÿÿÿ
+@
+java:S1068"+Remove this unused "context" private field.(êÝç
+M
+java:S1128"2Remove this unused import 'android.widget.Button'.(²òžýÿÿÿÿ
+Q	java:S125."<This block of commented-out lines of code should be removed.(ƒÏÌË
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ªž¨º

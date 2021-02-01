@@ -1,0 +1,79 @@
+
+g
+java:S1301æ"KReplace this "switch" statement by "if" statements to increase readability.(öÛ«°şÿÿÿÿ
+e
+java:S1192¼"IDefine a constant instead of duplicating this literal "birthday" 3 times.(½ß³úÿÿÿÿÿ
+^
+java:S1192¸"GDefine a constant instead of duplicating this literal "passwd" 3 times.(õàÊè
+]
+java:S1192¶"FDefine a constant instead of duplicating this literal "phone" 3 times.(Ùğ†
+c
+java:S1192º"GDefine a constant instead of duplicating this literal "idType" 3 times.(’éäÍşÿÿÿÿ
+}
+java:S1192½"fDefine a constant instead of duplicating this literal "http://39.96.41.6:8080/modifyUserInfo" 3 times.(¨Ü•—
+e
+java:S1192»"IDefine a constant instead of duplicating this literal "idNumber" 3 times.(¦Ù¹Ëúÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¥àåû
+?
+java:S1148Á"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+?
+java:S1148¤"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+?
+java:S1148´"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+?
+java:S1148–"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+x
+java:S14503"]Remove the "changeBirthday" field and declare it as a local variable in the relevant methods.(˜áÛÅùÿÿÿÿ
+x
+java:S14505"]Remove the "changeIdNumber" field and declare it as a local variable in the relevant methods.(óñÉÿÿÿÿÿ
+v
+java:S14504"[Remove the "changeIdType" field and declare it as a local variable in the relevant methods.(êÉ“õşÿÿÿÿ
+p
+java:S14500"ZRemove the "changeImage" field and declare it as a local variable in the relevant methods.(îÃ˜Î
+t
+java:S14501"YRemove the "changeName" field and declare it as a local variable in the relevant methods.(úò¼Ñÿÿÿÿÿ
+v
+java:S14506"`Remove the "changePhoneNumber" field and declare it as a local variable in the relevant methods.(ğæÇ«
+n
+java:S14502"XRemove the "changeSex" field and declare it as a local variable in the relevant methods.(ˆûØ
+l
+java:S1450="VRemove the "getBack" field and declare it as a local variable in the relevant methods.(Ü¤ˆ
+m	java:S116A"SRename this field "iv_photo" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿Ó—åşÿÿÿÿ
+l	java:S116G"RRename this field "UserSex" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§Ğ¯ûÿÿÿÿ
+X
+java:S1854¿"<Remove this useless assignment to local variable "response".(°Áøœûÿÿÿÿ
+X
+java:S1854Ô"<Remove this useless assignment to local variable "username".(ŞÇÏşüÿÿÿÿ
+=	java:S131æ""Add a default case to this switch.(öÛ«°şÿÿÿÿ
+p
+java:S2293ÿ"YReplace the type specification in this constructor call with the diamond operator ("<>").(Úï¦ã
+X
+java:S1854¢"<Remove this useless assignment to local variable "response".(°Áøœûÿÿÿÿ
+N
+java:S1135Õ"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ
+N
+java:S1135à"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ
+X
+java:S1854²"<Remove this useless assignment to local variable "response".(°Áøœûÿÿÿÿ
+=	java:S131¾""Add a default case to this switch.(×ö³–úÿÿÿÿ
+M
+java:S2696Õ"6Make the enclosing method "static" or remove this set.(Şóîç
+e
+java:S4042’"IUse "java.nio.Files#delete" here for better messages on error conditions.(²Œ­ûÿÿÿÿ
+V	java:S899’";Do something with the "boolean" value returned by "delete".(²Œ­ûÿÿÿÿ
+]	java:S899”"BDo something with the "boolean" value returned by "createNewFile".(Ğ’Íùÿÿÿÿ
+R
+java:S2696›"6Make the enclosing method "static" or remove this set.(†¬µâıÿÿÿÿ
+M
+java:S2696"6Make the enclosing method "static" or remove this set.(¢Àˆ·
+I
+java:S1481¿"-Remove this unused "response" local variable.(°Áøœûÿÿÿÿ
+I
+java:S1481Ô"-Remove this unused "username" local variable.(ŞÇÏşüÿÿÿÿ
+I
+java:S1481¢"-Remove this unused "response" local variable.(°Áøœûÿÿÿÿ
+F
+java:S1481½"/Remove this unused "userIdType" local variable.(ıõ·ã
+I
+java:S1481²"-Remove this unused "response" local variable.(°Áøœûÿÿÿÿ
+R	java:S125 "<This block of commented-out lines of code should be removed.(ÊŸ¶ß

@@ -1,0 +1,79 @@
+apply plugin: 'com.android.application'
+
+android {
+    signingConfigs {
+        debug {
+            storeFile file('D:\\test.keystore')
+            storePassword '123456'
+            keyAlias = 'testalias'
+            keyPassword '123456'
+        }
+    }
+    compileSdkVersion 29
+    buildToolsVersion "29.0.2"
+    defaultConfig {
+        applicationId "com.example.medicalhlepers"
+        minSdkVersion 23
+        targetSdkVersion 26
+        versionCode 1
+        versionName "1.0"
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+        ndk {
+            abiFilters "armeabi-v7a", "x86"
+        }
+        packagingOptions {
+            exclude "lib/arm64-v8a/libimagepipeline.so"
+        }
+    }
+
+    lintOptions {
+        disable 'GoogleAppIndexingWarning'
+        baseline file("lint-baseline.xml")
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+    }
+
+}
+
+dependencies {
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
+    implementation 'androidx.appcompat:appcompat:1.1.0'
+    implementation 'com.google.android.material:material:1.1.0'
+    implementation 'androidx.constraintlayout:constraintlayout:1.1.3'
+    implementation 'androidx.vectordrawable:vectordrawable:1.1.0'
+    implementation 'androidx.legacy:legacy-support-v4:1.0.0'
+    implementation 'androidx.lifecycle:lifecycle-extensions:2.2.0'
+    testImplementation 'junit:junit:4.12'
+    androidTestImplementation 'androidx.test:runner:1.2.0'
+    androidTestImplementation 'androidx.test.espresso:espresso-core:3.2.0'
+    implementation 'org.litepal.android:core:1.4.1'
+    implementation 'org.apache:apache:20'
+    implementation 'com.contrarywind:Android-PickerView:3.2.5'
+    implementation 'com.squareup.okhttp3:okhttp:4.3.1'
+    implementation 'com.squareup.okio:okio:1.7.0'
+    implementation 'com.facebook.fresco:fresco:1.11.0'
+    implementation 'org.conscrypt:conscrypt-android:2.2.1'
+    implementation 'de.hdodenhof:circleimageview:2.1.0'
+    implementation 'androidx.recyclerview:recyclerview:1.1.0'
+    implementation 'androidx.cardview:cardview:1.0.0'
+    implementation 'com.github.bumptech.glide:glide:3.7.0'
+    implementation 'com.baoyz.swipemenulistview:library:1.3.0'
+    implementation 'com.neovisionaries:nv-websocket-client:2.6'
+    implementation 'androidx.annotation:annotation:1.1.0'
+    implementation 'androidx.appcompat:appcompat:1.1.0'
+    implementation 'com.google.android.material:material:1.0.0'
+    implementation 'com.astuetz:pagerslidingtabstrip:1.0.1'
+    implementation files('libs\\bdasr_V3_20191210_81acdf5.jar')
+    implementation 'com.carlos.voiceline:mylibrary:1.0.6'
+    implementation 'com.github.yhaolpz:FloatWindow:1.0.9'
+    implementation 'com.github.gittjy:LoadingDialog:1.0.2'
+    implementation 'com.scwang.smartrefresh:SmartRefreshLayout:1.1.0'
+    implementation 'com.contrarywind:Android-PickerView:4.1.6'
+    implementation 'com.google.code.gson:gson:2.7'
+    implementation 'cn.carbs.android:ExpandableTextView:1.0.0'
+}

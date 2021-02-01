@@ -1,0 +1,14 @@
+
+]	java:S125-"<This block of commented-out lines of code should be removed.(ıı‰×üÿÿÿÿ8ÓÙ—İ‘.
+]	java:S125+"<This block of commented-out lines of code should be removed.(ÚÚÇıÿÿÿÿ8ÓÙ—İ‘.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(×ı˜ü
+E
+java:S1068")Remove this unused "resid" private field.(³Ó¯8ÓÙ—İ‘.
+s
+java:S1450"XRemove the "mTextView" field and declare it as a local variable in the relevant methods.(×ìî‰ùÿÿÿÿ
+P
+java:S1068".Remove this unused "mImageView" private field.(Åí¸•ùÿÿÿÿ8ÓÙ—İ‘.
+]	java:S125/"<This block of commented-out lines of code should be removed.(ƒöş´øÿÿÿÿ8ÓÙ—İ‘.
+]	java:S1251"<This block of commented-out lines of code should be removed.(®ó‘Ìıÿÿÿÿ8ÓÙ—İ‘.
+P
+java:S1068".Remove this unused "mAnimation" private field.(Îå¡˜üÿÿÿÿ8ÓÙ—İ‘.

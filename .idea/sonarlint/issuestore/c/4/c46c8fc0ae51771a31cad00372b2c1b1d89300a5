@@ -1,0 +1,38 @@
+
+f
+java:S1192:"IDefine a constant instead of duplicating this literal "setting1" 3 times.(î’èÛ8ïÙ›È–.
+x
+java:S1450 "VRemove the "getBack" field and declare it as a local variable in the relevant methods.(¨şŞÄıÿÿÿÿ8ü ó…¤.
+p
+java:S1192;"SDefine a constant instead of duplicating this literal "hospitalchooseType" 3 times.(ñë¢8ˆåÛÇ–.
+£
+java:S1186f"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ñ®çâùÿÿÿÿ8¬ìÍÁ–.
+v
+java:S1192<"TDefine a constant instead of duplicating this literal "hospitalchooseLevel" 3 times.(›ëœ†øÿÿÿÿ8ˆåÛÇ–.
+¤
+java:S1186„"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ñ®çâùÿÿÿÿ8¬ìÍÁ–.
+M
+java:S1128"0Remove this unused import 'org.litepal.LitePal'.(˜Ô‘Æ8¦çĞÁ–.
+k
+java:S1192>"IDefine a constant instead of duplicating this literal "distance" 3 times.(›‚ŸÏüÿÿÿÿ8ˆåÛÇ–.
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8ŞÓĞÂ–.
+q
+java:S1192="ODefine a constant instead of duplicating this literal "docchooseLevel" 3 times.(šÍûİıÿÿÿÿ8ˆåÛÇ–.
+S
+java:S1128"1Remove this unused import 'android.widget.Toast'.(©›ïÍúÿÿÿÿ8£õáÀ–.
+j
+java:S1192@"MDefine a constant instead of duplicating this literal "levelPercent" 3 times.(“éÜ8ˆåÛÇ–.
+o
+java:S1128"RRemove this unused import 'com.example.medicalhlepers.BasicActivity.MainActivity'.(Å€êî8Ú¥Ù½–.
+r
+java:S1192?"PDefine a constant instead of duplicating this literal "distancePercent" 3 times.(›Öò›şÿÿÿÿ8ˆåÛÇ–.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(©æı úÿÿÿÿ
+[
+java:S1128"9Remove this unused import 'org.litepal.crud.DataSupport'.(Äƒîûÿÿÿÿ8€ùĞÂ–.
+
+java:S1186m"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‰ÁÕ–8¬ìÍÁ–.
+Ÿ
+java:S1186‹"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‰ÁÕ–8¬ìÍÁ–.
+|
+java:S1450*"ZRemove the "saveSetting" field and declare it as a local variable in the relevant methods.(‘”çÿıÿÿÿÿ8¦ïáÂ–.

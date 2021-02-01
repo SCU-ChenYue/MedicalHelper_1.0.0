@@ -1,0 +1,33 @@
+
+c
+java:S2142f"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8õÍñËŸ.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(€ÜÀ–
+Q
+java:S1128"/Remove this unused import 'android.os.Message'.(¤ªæéıÿÿÿÿ8ËŠùÊŸ.
+u
+java:S1450."XRemove the "addLinear" field and declare it as a local variable in the relevant methods.(ŠÚÍ8á„ò .
+w
+java:S14503"ZRemove the "addQuestion" field and declare it as a local variable in the relevant methods.(ó—Ï¡8Š¼»ãŸ.
+n
+java:S1192™"KDefine a constant instead of duplicating this literal "doctorInfo" 7 times.(”¶İÖıÿÿÿÿ8ÔŞÖğŸ.
+U
+java:S1128"3Remove this unused import 'android.graphics.Color'.(øãíòşÿÿÿÿ8¶ğè¡.
+x
+java:S14505"[Remove the "searchAnswer" field and declare it as a local variable in the relevant methods.(¸Õ“¨8ŠòØ¢.
+y
+java:S1450-"WRemove the "listView" field and declare it as a local variable in the relevant methods.(¯¤½ñûÿÿÿÿ8ÄûçöŸ.
+T
+java:S1128"2Remove this unused import 'android.view.KeyEvent'.(ôÊÃ–úÿÿÿÿ8¸§×óŸ.
+f
+java:S1128"DRemove this unused import 'android.graphics.drawable.ColorDrawable'.(ÖŸÂ«øÿÿÿÿ8¶ğè¡.
+S
+java:S1128"1Remove this unused import 'android.widget.Toast'.(©›ïÍúÿÿÿÿ8¸§×óŸ.
+V
+java:S1128"4Remove this unused import 'android.widget.TextView'.(„Ë‚ˆÿÿÿÿÿ8³¨×¢.
+a
+java:S1128
+"?Remove this unused import 'androidx.appcompat.app.AlertDialog'.(¼Ìï¨üÿÿÿÿ8Ëª…ôŸ.
+^
+java:S1128"<Remove this unused import 'android.content.DialogInterface'.(Š­›¨şÿÿÿÿ8¸§×óŸ.
+V
+java:S1128	"9Remove this unused import 'androidx.annotation.Nullable'.(¾Èêš8úÌ³õŸ.

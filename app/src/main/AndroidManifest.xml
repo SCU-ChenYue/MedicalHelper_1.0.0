@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.medicalhelpers">
+    <!-- 用于读取手机当前的状态 -->
+    <application
+        android:name="org.litepal.LitePalApplication"
+        android:allowBackup="true"
+        android:icon="@drawable/app_logo"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/NoTitle"
+        tools:replace="android:label">
+        <activity android:name="com.example.medicalhlepers.AIdiagnose.OtherSymptoms"
+            android:theme="@style/AppTheme.NoBar"></activity>
+        <activity
+            android:name="com.example.medicalhlepers.AIdiagnose.RecommendDepartment"
+            android:theme="@style/AppTheme.NoBar" />
+        <activity
+            android:name="com.example.medicalhlepers.Forum.SearchTheAnswer"
+            android:theme="@style/AppTheme.NoBar" />
+        <activity
+            android:name="com.example.medicalhlepers.Forum.WriteComment"
+            android:theme="@style/AppTheme.NoBar" />
+        <activity
+            android:name="com.example.medicalhlepers.Forum.MyQuestion"
+            android:theme="@style/AppTheme.NoBar" />
+        <activity
+            android:name="com.example.medicalhlepers.Forum.MyCollector"
+            android:theme="@style/AppTheme.NoBar" />
+        <activity
+            android:name="com.example.medicalhlepers.Forum.WriteQuestion"
+            android:theme="@style/AppTheme.NoBar" />
+        <activity
+            android:name="com.example.medicalhlepers.Forum.AskQuestion"
+            android:configChanges="keyboard|keyboardHidden|orientation|screenSize|smallestScreenSize|layoutDirection|screenLayout|locale"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+        <activity
+            android:name="com.example.medicalhlepers.Forum.AllAnswersOfOneQuestion"
+            android:theme="@style/AppTheme.NoBar" />
+        <activity
+            android:name="com.example.medicalhlepers.Forum.AnswerDetail"
+            android:theme="@style/AppTheme.NoBar" />
+        <activity
+            android:name="com.example.medicalhlepers.AIdiagnose.ChangeSetting2"
+            android:theme="@style/AppTheme.NoBar" />
+        <activity
+            android:name="com.example.medicalhlepers.AIdiagnose.ChangeSetting"
+            android:theme="@style/AppTheme.NoBar" />
+        <activity
+            android:name="com.example.medicalhlepers.AIdiagnose.HospitalNavigation"
+            android:theme="@style/AppTheme.NoBar" />
+        <activity
+            android:name="com.amap.api.navi.AmapRouteActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:theme="@style/AppTheme.NoBar" />
+        <activity
+            android:name="com.example.medicalhlepers.AIdiagnose.DiagonseResultMain"
+            android:theme="@style/AppTheme.NoBar" />
+        <activity
+            android:name="com.example.medicalhlepers.Yuyue.AppointDetail"
+            android:theme="@style/AppTheme.NoBar" />
+        <activity
+            android:name="com.example.medicalhlepers.Login.LoadingActivity"
+            android:theme="@style/AppTheme.NoBar" />
+        <activity
+            android:name="com.example.medicalhlepers.RecordHelper.AudioRecordActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|screenSize|smallestScreenSize|layoutDirection|screenLayout|locale"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+        <activity
+            android:name="com.example.medicalhlepers.Test.Voice_wakeup"
+            android:theme="@style/AppTheme.NoBar" />
+        <activity
+            android:name="com.example.medicalhlepers.Test.Voice_index"
+            android:theme="@style/AppTheme.NoBar" />
+        <activity
+            android:name="com.example.medicalhlepers.DiagnoseOnline.SpecialDepartment"
+            android:theme="@style/AppTheme.NoBar" />
+        <activity
+            android:name="com.example.medicalhlepers.PriceQuery.PriceQuery"
+            android:theme="@style/AppTheme.NoBar" />
+        <activity
+            android:name="com.example.medicalhlepers.DiagnoseOnline.SearchForOnlineDoc"
+            android:theme="@style/AppTheme.NoBar" />
+        <activity
+            android:name="com.example.medicalhlepers.DiagnoseOnline.OnlineDoc"
+            android:theme="@style/AppTheme.NoBar" />
+        <activity
+            android:name="com.example.medicalhlepers.DiagnoseOnline.DiagnoseOnlineMain"
+            android:theme="@style/AppTheme.NoBar" />
+        <activity
+            android:name="com.example.medicalhlepers.Yuyue.AppointmentRecords"
+            android:theme="@style/AppTheme.NoBar" />
+        <activity
+            android:name="com.example.medicalhlepers.Yuyue.AppointmentSuccess"
+            android:theme="@style/AppTheme.NoBar" />
+        <activity
+            android:name="com.example.medicalhlepers.BasicActivity.ChangePassword"
+            android:theme="@style/AppTheme.NoBar" />
+        <activity
+            android:name="com.example.medicalhlepers.ChatRoom.ChatRoom"
+            android:theme="@style/AppTheme.NoBar" />
+        <activity
+            android:name="com.example.medicalhlepers.Login.Register"
+            android:theme="@style/AppTheme.NoBar" />
+        <activity
+            android:name="com.example.medicalhlepers.Login.Login"
+            android:theme="@style/AppTheme.NoBar" />
+        <activity
+            android:name="com.example.medicalhlepers.Yuyue.AppointmentMenu"
+            android:theme="@style/AppTheme.NoBar" />
+        <activity
+            android:name="com.example.medicalhlepers.BasicActivity.SearchForHospital"
+            android:theme="@style/AppTheme.NoBar" />
+        <activity
+            android:name="com.example.medicalhlepers.PersonalInformation.BindingPhone"
+            android:theme="@style/AppTheme.NoBar" />
+        <activity
+            android:name="com.example.medicalhlepers.PersonalInformation.ChangeIdNumber"
+            android:theme="@style/AppTheme.NoBar" />
+        <activity
+            android:name="com.example.medicalhlepers.PersonalInformation.ChangeName"
+            android:theme="@style/AppTheme.NoBar" />
+        <activity
+            android:name="com.example.medicalhlepers.drugQuery.Drug_main_activity"
+            android:theme="@style/AppTheme.NoBar" />
+        <activity
+            android:name="com.example.medicalhlepers.drugQuery.DrugDescriptionActivity"
+            android:theme="@style/AppTheme.NoBar" />
+        <activity
+            android:name="com.example.medicalhlepers.PersonalInformation.PersonalInformation"
+            android:theme="@style/AppTheme.NoBar" />
+        <activity
+            android:name="com.example.medicalhlepers.DoctorMessage.DoctorList"
+            android:theme="@style/AppTheme.NoBar" />
+        <activity
+            android:name="com.example.medicalhlepers.DoctorMessage.DoctorMessage"
+            android:theme="@style/AppTheme.NoBar" />
+        <activity
+            android:name="com.example.medicalhlepers.Guahao.DepartmentList"
+            android:theme="@style/AppTheme.NoBar" />
+        <activity
+            android:name="com.example.medicalhlepers.MapUse.MapUse"
+            android:theme="@style/AppTheme.NoBar" />
+        <activity
+            android:name="com.example.medicalhlepers.BasicActivity.HospitalMessage"
+            android:theme="@style/AppTheme.NoBar" />
+        <activity
+            android:name="com.example.medicalhlepers.BasicActivity.MainActivity"
+            android:theme="@style/AppTheme.NoBar" />
+        <activity
+            android:name="com.example.medicalhlepers.BasicActivity.Begin"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="com.baidu.speech.APP_ID"
+            android:value="18961323" />
+        <meta-data
+            android:name="com.baidu.speech.API_KEY"
+            android:value="YDh3FuoTwkzUdHuov0aksyK4" />
+        <meta-data
+            android:name="com.baidu.speech.SECRET_KEY"
+            android:value="8YXE6T2YBpi1c4oZdMVFI0HlfQgnaCSd" />
+        <meta-data
+            android:name="com.amap.api.v2.apikey"
+            android:value="c89892656b3d7b71707e514d2ff4fb39" />
+
+        <provider
+            android:name="androidx.core.content.FileProvider"
+            android:authorities="com.example.medicalhlepers.fileProvider"
+            android:exported="false"
+            android:grantUriPermissions="true">
+            <meta-data
+                android:name="android.support.FILE_PROVIDER_PATHS"
+                android:resource="@xml/file_paths" />
+        </provider> <!-- 与activity标签同级 -->
+        <service
+            android:name="com.baidu.speech.VoiceRecognitionService"
+            android:exported="false" />
+        <service android:name="com.amap.api.location.APSService" />
+    </application> <!-- 写入扩展存储，向扩展卡写入数据，用于写入缓存定位数据 -->
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" /> <!-- 允许程序打开网络套接字 -->
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" /> <!-- 允许程序设置内置sd卡的写权限 -->
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" /> <!-- 允许程序获取网络状态 -->
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" /> <!-- 允许程序访问WiFi网络信息 -->
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" /> <!-- 允许程序读写手机状态和身份 -->
+    <uses-permission android:name="android.permission.INTERNET" /> <!-- 用于进行网络定位 -->
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" /> <!-- 用于访问GPS定位 -->
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" /> <!-- 用于获取wifi的获取权限，wifi信息会用来进行网络定位 -->
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" /> <!-- 用于读取手机当前的状态 -->
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" /> <!-- 用于申请调用A-GPS模块 -->
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_LOCATION_EXTRA_COMMANDS" />
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+
+</manifest>

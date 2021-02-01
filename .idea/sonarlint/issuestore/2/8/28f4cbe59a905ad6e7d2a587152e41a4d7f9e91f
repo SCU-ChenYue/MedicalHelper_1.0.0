@@ -1,0 +1,8 @@
+
+b	java:S107"AConstructor has 8 parameters, which is greater than 7 authorized.(Š–¯Üøÿÿÿÿ8­´ú –.
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(µ•áŽøÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(©æý úÿÿÿÿ
+D
+java:S1068"'Remove this unused "lon" private field.(˜Ø¿£8¤ØÃŒ¤.
+I
+java:S1068"'Remove this unused "lat" private field.(ÞåéÞüÿÿÿÿ8¤ØÃŒ¤.

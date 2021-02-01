@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="60dp"
+    android:layout_weight="10"
+    android:descendantFocusability="blocksDescendants">
+    <RelativeLayout
+        android:layout_width="0dp"
+        android:layout_height="60dp"
+        android:layout_weight="9">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="2020-02-20"
+            android:textSize="13sp"
+            android:textColor="#333333"
+            android:id="@+id/textView21"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_marginLeft="25dp"
+            android:layout_marginStart="25dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#333333"
+            android:textSize="13sp"
+            android:text="星期四"
+            android:id="@+id/text_Xingqi"
+            android:layout_marginLeft="10dp"
+            android:layout_marginStart="10dp"
+            android:layout_alignTop="@+id/textView21"
+            android:layout_toRightOf="@+id/textView21"
+            android:layout_toEndOf="@+id/textView21" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#333333"
+            android:textSize="13sp"
+            android:text="上午"
+            android:id="@+id/textShangwu"
+            android:layout_marginLeft="3dp"
+            android:layout_marginStart="3dp"
+            android:layout_alignTop="@+id/text_Xingqi"
+            android:layout_toRightOf="@+id/text_Xingqi"
+            android:layout_toEndOf="@+id/text_Xingqi" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#333333"
+            android:textSize="13sp"
+            android:text="四川大学华西医院"
+            android:id="@+id/textHospital"
+            android:layout_marginLeft="12dp"
+            android:layout_marginStart="12dp"
+            android:layout_alignTop="@+id/textShangwu"
+            android:layout_toRightOf="@+id/textShangwu"
+            android:layout_toEndOf="@+id/textShangwu" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#333333"
+            android:textSize="13sp"
+            android:layout_marginTop="5dp"
+            android:text="门诊："
+            android:id="@+id/textView23"
+            android:layout_below="@+id/textView21"
+            android:layout_alignLeft="@+id/textView21"
+            android:layout_alignStart="@+id/textView21" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#333333"
+            android:textSize="13sp"
+            android:text="消化内科"
+            android:id="@+id/textView24"
+            android:layout_marginLeft="2dp"
+            android:layout_marginStart="2dp"
+            android:layout_alignTop="@+id/textView23"
+            android:layout_toRightOf="@+id/textView23"
+            android:layout_toEndOf="@+id/textView23" />
+    </RelativeLayout>
+
+    <Button
+        android:layout_width="0dp"
+        android:layout_height="20dp"
+        android:layout_alignParentBottom="true"
+        android:layout_weight="1"
+        android:background="#3CB371"
+        android:layout_gravity="center"
+        android:layout_marginRight="10dp"
+        android:textColor="#ffffff"
+        android:text="预约"/>
+
+</LinearLayout>
